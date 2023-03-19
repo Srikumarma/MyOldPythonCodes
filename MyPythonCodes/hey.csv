@@ -1,0 +1,87 @@
+cluster_name,DC Name,Cluster Region (Prod/Non Prod),Cluster Type,Active,reporting_date,no_of_hosts,core_per_host,ram_per_host, vcpu_allocated,vram_allocated,Atlanta UCS Cluster 1,Atlanta,NonProd,Vmware,TRUE,9/28/2020,3,24,384,102,279
+Atlanta UCS Cluster 1,Atlanta,NonProd,Vmware,True,8/24/2020,3.0,24.0,384.0,102.0,279.0,,,,,,,,,,,
+MPL Prod Silver Cluster 1,Mpl,NonProd,Vmware,True,8/24/2020,0.0,48.0,512.0,0.0,0.0,,,,,,,,,,,
+SHK DATABASE CLUSTER,SHK,Prod,Vmware,True,8/24/2020,4.0,32.0,3072.0,524.0,2134.0,,,,,,,,,,,
+SHK DATABASE CLUSTER2,SHK,Prod,Vmware,True,8/24/2020,4.0,32.0,3072.0,330.0,1572.0,,,,,,,,,,,
+SHK DB2 Cluster,SHK,Prod,Vmware,True,8/24/2020,7.0,36.0,768.0,52.0,406.0,,,,,,,,,,,
+SHK NONBILLABLE CLUSTER,SHK,Prod,Vmware,True,8/24/2020,3.0,36.0,768.0,437.0,1413.0,,,,,,,,,,,
+SHK GENESYS CLUSTER,SHK,Prod,Vmware,True,8/24/2020,7.0,36.0,768.0,1204.0,3414.0,,,,,,,,,,,
+SHK GemFire Cluster,SHK,Prod,Vmware,True,8/24/2020,4.0,36.0,768.0,72.0,280.0,,,,,,,,,,,
+SHK Jboss Cluster,SHK,Prod,Vmware,True,8/24/2020,10.0,36.0,768.0,1451.0,3130.0,,,,,,,,,,,
+SHK DENSE WINDOWS CLUSTER,SHK,prod,Vmware,True,8/24/2020,3.0,72.0,3072.0,308.0,1152.0,,,,,,,,,,,
+SHK LARGE WINDOWS,SHK,Prod,Vmware,True,8/24/2020,4.0,32.0,3072.0,534.0,2283.0,,,,,,,,,,,
+SHK Management,SHK,Prod,Vmware,True,8/24/2020,4.0,36.0,768.0,243.0,718.0,,,,,,,,,,,
+SHK Platinum Linux Prod1,SHK,Prod,Vmware,True,8/24/2020,4.0,36.0,768.0,326.0,686.0,,,,,,,,,,,
+SHK Platinum Windows Prod1,SHK,Prod,Vmware,True,8/24/2020,3.0,36.0,768.0,76.0,220.0,,,,,,,,,,,
+SHK TENANT LINUX PROD2,SHK,Prod,Vmware,True,8/24/2020,12.0,36.0,768.0,2158.0,7561.0,,,,,,,,,,,
+SHK TENANT WINDOWS PROD2,SHK,Prod,Vmware,True,8/24/2020,9.0,36.0,768.0,1471.0,4352.0,,,,,,,,,,,
+SHK Tenant Linux Prod1,SHK,Prod,Vmware,True,8/24/2020,12.0,36.0,768.0,2310.0,8005.0,,,,,,,,,,,
+SHK Tenant Windows Prod1,SHK,Prod,Vmware,True,8/24/2020,12.0,36.0,768.0,1818.0,6301.0,,,,,,,,,,,
+STR DATABASE CLUSTER2,STR,Prod,Vmware,True,8/24/2020,6.0,32.0,3072.0,646.0,2532.0,,,,,,,,,,,
+STR DB2 CLUSTER,STR,Prod,Vmware,True,8/24/2020,15.0,36.0,768.0,192.0,2448.0,,,,,,,,,,,
+STR DENSE WINDOWS  CLUSTER,STR,Prod,Vmware,True,8/24/2020,3.0,72.0,3072.0,908.0,3088.0,,,,,,,,,,,
+STR Database Cluster,STR,Prod,Vmware,True,8/24/2020,6.0,32.0,3072.0,840.0,3643.0,,,,,,,,,,,
+STR GEMFIRE CLUSTER,STR,Prod,Vmware,True,8/24/2020,3.0,36.0,768.0,108.0,440.0,,,,,,,,,,,
+STR GENESYS CLUSTER,STR,Prod,Vmware,True,8/24/2020,7.0,36.0,768.0,1312.0,3894.0,,,,,,,,,,,
+STR JBOSS CLUSTER2,STR,Prod,Vmware,True,8/24/2020,7.0,36.0,768.0,1319.0,2752.0,,,,,,,,,,,
+STR JBOSS Cluster1,STR,Prod,Vmware,True,8/24/2020,11.0,36.0,768.0,2725.0,4666.0,,,,,,,,,,,
+STR Large Windows,STR,Prod,Vmware,False,8/24/2020,0.0,32.0,3072.0,0.0,0.0,,,,,,,,,,,
+STR Management,STR,Prod,Vmware,True,8/24/2020,4.0,36.0,768.0,210.0,648.0,,,,,,,,,,,
+STR NON-SENSITIVE LINUX2,STR,Prod,Vmware,True,8/24/2020,14.0,36.0,1535.0,4000.0,12717.0,,,,,,,,,,,
+STR NON-SENSITIVE WINDOWS2,STR,Prod,Vmware,True,8/24/2020,12.0,36.0,1535.0,2918.0,8173.0,,,,,,,,,,,
+STR Non-Sensitive Linux,STR,Prod,Vmware,True,8/24/2020,14.0,36.0,1535.0,4367.0,14774.0,,,,,,,,,,,
+STR Non-Sensitive Windows,STR,Prod,Vmware,True,8/24/2020,10.0,36.0,1535.0,1976.0,6099.0,,,,,,,,,,,
+STR Platinum Linux Prod1,STR,Prod,Vmware,True,8/24/2020,6.0,36.0,768.0,1024.0,2476.0,,,,,,,,,,,
+STR Platinum Windows Prod1,STR,Prod,Vmware,True,8/24/2020,3.0,36.0,768.0,216.0,604.0,,,,,,,,,,,
+Windsor UCS Cluster 1,Windsor,NonProd,Vmware,True,8/24/2020,3.0,24.0,384.0,198.0,475.0,,,,,,,,,,,
+Des Moines UCS Cluster 1,Des Moines,NonProd,Vmware,True,8/24/2020,3.0,24.0,384.0,77.0,200.0,,,,,,,,,,,
+West Chester UCS Cluster 1,West Chester,NonProd,Vmware,True,8/24/2020,3.0,24.0,384.0,182.0,427.0,,,,,,,,,,,
+Braintree UCS Cluster 1,BrainTree,NonProd,Vmware,True,8/24/2020,3.0,24.0,384.0,90.0,264.0,,,,,,,,,,,
+STR NonBillable Cluster,STR,Prod,Vmware,True,8/24/2020,4.0,36.0,1535.0,445.0,1228.0,,,,,,,,,,,
+STR NON-PROD LINUX,STR,NonProd,Vmware,True,8/24/2020,3.0,36.0,1535.0,680.0,2376.0,,,,,,,,,,,
+Chandler UCS Cluster 1,MPL,NonProd,Vmware,True,8/24/2020,3.0,24.0,384.0,44.0,120.0,,,,,,,,,,,
+,,,,,,,,,,,SHK DATABASE CLUSTER,SHK,Prod,Vmware,True,9/28/2020,4.0,32.0,3072.0,826.0,3552.0
+,,,,,,,,,,,SHK DATABASE CLUSTER2,SHK,Prod,Vmware,True,9/28/2020,4.0,32.0,3072.0,48.0,240.0
+,,,,,,,,,,,SHK DB2 Cluster,SHK,Prod,Vmware,True,9/28/2020,7.0,36.0,768.0,96.0,630.0
+,,,,,,,,,,,SHK NONBILLABLE CLUSTER,SHK,Prod,Vmware,True,9/28/2020,3.0,36.0,768.0,445.0,1417.0
+,,,,,,,,,,,SHK GENESYS CLUSTER,SHK,Prod,Vmware,True,9/28/2020,7.0,36.0,768.0,1204.0,3414.0
+,,,,,,,,,,,SHK GemFire Cluster,SHK,Prod,Vmware,True,9/28/2020,4.0,36.0,768.0,66.0,280.0
+,,,,,,,,,,,SHK Jboss Cluster,SHK,Prod,Vmware,True,9/28/2020,10.0,36.0,768.0,1455.0,3170.0
+,,,,,,,,,,,SHK DENSE WINDOWS CLUSTER,SHK,prod,Vmware,True,9/28/2020,5.0,72.0,3072.0,802.0,3612.0
+,,,,,,,,,,,SHK LARGE WINDOWS,SHK,Prod,Vmware,True,9/28/2020,4.0,32.0,3072.0,56.0,408.0
+,,,,,,,,,,,SHK Management,SHK,Prod,Vmware,True,9/28/2020,4.0,36.0,768.0,243.0,718.0
+,,,,,,,,,,,SHK Platinum Linux Prod1,SHK,Prod,Vmware,True,9/28/2020,4.0,36.0,768.0,348.0,740.0
+,,,,,,,,,,,SHK Platinum Windows Prod1,SHK,Prod,Vmware,True,9/28/2020,3.0,36.0,768.0,76.0,220.0
+,,,,,,,,,,,SHK TENANT LINUX PROD2,SHK,Prod,Vmware,True,9/28/2020,12.0,36.0,768.0,1992.0,6498.0
+,,,,,,,,,,,SHK TENANT WINDOWS PROD2,SHK,Prod,Vmware,True,9/28/2020,9.0,36.0,768.0,1641.0,4715.0
+,,,,,,,,,,,SHK Tenant Linux Prod1,SHK,Prod,Vmware,True,9/28/2020,12.0,36.0,768.0,2173.0,6708.0
+,,,,,,,,,,,SHK Tenant Windows Prod1,SHK,Prod,Vmware,True,9/28/2020,12.0,36.0,768.0,1654.0,5387.0
+,,,,,,,,,,,STR DATABASE CLUSTER2,STR,Prod,Vmware,True,9/28/2020,6.0,32.0,3072.0,662.0,2632.0
+,,,,,,,,,,,STR DB2 CLUSTER,STR,Prod,Vmware,True,9/28/2020,15.0,36.0,768.0,284.0,3005.0
+,,,,,,,,,,,STR DENSE WINDOWS  CLUSTER,STR,Prod,Vmware,True,9/28/2020,3.0,72.0,3072.0,908.0,3088.0
+,,,,,,,,,,,STR Database Cluster,STR,Prod,Vmware,True,9/28/2020,6.0,32.0,3072.0,828.0,3513.0
+,,,,,,,,,,,STR GEMFIRE CLUSTER,STR,Prod,Vmware,True,9/28/2020,3.0,36.0,768.0,108.0,440.0
+,,,,,,,,,,,STR GENESYS CLUSTER,STR,Prod,Vmware,True,9/28/2020,7.0,36.0,768.0,1312.0,3894.0
+,,,,,,,,,,,STR JBOSS CLUSTER2,STR,Prod,Vmware,True,9/28/2020,7.0,36.0,768.0,1287.0,2696.0
+,,,,,,,,,,,STR JBOSS Cluster1,STR,Prod,Vmware,True,9/28/2020,11.0,36.0,768.0,2321.0,4194.0
+,,,,,,,,,,,STR Large Windows,STR,Prod,Vmware,False,9/28/2020,3.0,32.0,3072.0,0.0,0.0
+,,,,,,,,,,,STR Management,STR,Prod,Vmware,True,9/28/2020,4.0,36.0,768.0,210.0,648.0
+,,,,,,,,,,,STR NON-SENSITIVE LINUX2,STR,Prod,Vmware,True,9/28/2020,14.0,36.0,1535.0,4003.0,12377.0
+,,,,,,,,,,,STR NON-SENSITIVE WINDOWS2,STR,Prod,Vmware,True,9/28/2020,12.0,36.0,1535.0,2610.0,7343.0
+,,,,,,,,,,,STR Non-Sensitive Linux,STR,Prod,Vmware,True,9/28/2020,14.0,36.0,1535.0,4504.0,15236.0
+,,,,,,,,,,,STR Non-Sensitive Windows,STR,Prod,Vmware,True,9/28/2020,10.0,36.0,1535.0,1900.0,5903.0
+,,,,,,,,,,,STR Platinum Linux Prod1,STR,Prod,Vmware,True,9/28/2020,6.0,36.0,768.0,971.0,2383.0
+,,,,,,,,,,,STR Platinum Windows Prod1,STR,Prod,Vmware,True,9/28/2020,3.0,36.0,768.0,216.0,604.0
+,,,,,,,,,,,Windsor UCS Cluster 1,Windsor,NonProd,Vmware,True,9/28/2020,3.0,24.0,384.0,194.0,479.0
+,,,,,,,,,,,Des Moines UCS Cluster 1,Des Moines,NonProd,Vmware,True,9/28/2020,3.0,24.0,384.0,77.0,200.0
+,,,,,,,,,,,West Chester UCS Cluster 1,West Chester,NonProd,Vmware,True,9/28/2020,3.0,24.0,384.0,178.0,419.0
+,,,,,,,,,,,Braintree UCS Cluster 1,BrainTree,NonProd,Vmware,True,9/28/2020,3.0,24.0,384.0,90.0,264.0
+,,,,,,,,,,,STR NonBillable Cluster,STR,Prod,Vmware,True,9/28/2020,4.0,36.0,1535.0,413.0,1124.0
+,,,,,,,,,,,STR NON-PROD LINUX,STR,NonProd,Vmware,True,9/28/2020,3.0,36.0,1535.0,642.0,2272.0
+,,,,,,,,,,,Chandler UCS Cluster 1,MPL,NonProd,Vmware,True,9/28/2020,3.0,24.0,384.0,44.0,120.0
+,,,,,,,,,,,SHK DENSE LINUX CLUSTER,SHK,Prod,Vmware,True,9/28/2020,5.0,72.0,3071.0,986.0,4119.0
+,,,,,,,,,,,STR NON-PROD WINDOWS,STR,NonProd,Vmware,True,9/28/2020,3.0,36.0,1535.0,426.0,1256.0
+,,,,,,,,,,,STR NON-PROD JBOSS,STR,NonProd,Vmware,True,9/28/2020,3.0,36.0,1535.0,346.0,532.0
+,,,,,,,,,,,STR DENSE LINUX CLUSTER,STR,Prod,Vmware,True,9/28/2020,5.0,72.0,3071.0,232.0,744.0
+,,,,,,,,,,,SHK pcf AZ1,SHK,Prod,Vmware,True,9/28/2020,3.0,36.0,1535.0,0.0,0.0
+,,,,,,,,,,,SHK pcf2 AZ2,SHK,Prod,Vmware,True,9/28/2020,2.0,36.0,1535.0,0.0,0.0

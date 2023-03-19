@@ -1,0 +1,1818 @@
+﻿Patient ID #,Plasma sample ID #,AJCC Stage,Histopathology,Plasma volume (mL),Plasma DNA concentration (ng/mL),CancerSEEK Logistic Regression Score,CancerSEEK Test Result
+CRC 455,CRC 455 PLS 1,I,Adenocarcinoma,5,6.08,0.938,Positive
+CRC 456,CRC 456 PLS 1,I,Adenocarcinoma,4,46.01,0.925,Positive
+CRC 457,CRC 457 PLS 1,II,Adenocarcinoma,4.5,6.94,0.852,Negative
+CRC 458,CRC 458 PLS 1,II,Adenocarcinoma,7.5,7.15,0.618,Negative
+CRC 459,CRC 459 PLS 1,II,Adenocarcinoma,5,9.81,0.318,Negative
+CRC 460,CRC 460 PLS 1,II,Adenocarcinoma,5,16.33,0.976,Positive
+CRC 461,CRC 461 PLS 1,I,Adenocarcinoma,7.5,8.93,0.312,Negative
+CRC 462,CRC 462 PLS 1,I,Adenocarcinoma,7.5,5.32,0.468,Negative
+CRC 463,CRC 463 PLS 1,I,Adenocarcinoma,7.5,5.47,0.626,Negative
+CRC 464,CRC 464 PLS 1,III,Adenocarcinoma,7.5,3.98,0.351,Negative
+CRC 465,CRC 465 PLS 1,II,Adenocarcinoma,7.5,2.94,0.870,Negative
+CRC 466,CRC 466 PLS 1,III,Adenocarcinoma,5,5.56,0.309,Negative
+CRC 467,CRC 467 PLS 1,III,Adenocarcinoma,5,13.69,0.993,Positive
+CRC 468,CRC 468 PLS 1,III,Adenocarcinoma,5,12.99,0.998,Positive
+CRC 469,CRC 469 PLS 1,II,Adenocarcinoma,7.5,4.21,0.136,Negative
+CRC 470,CRC 470 PLS 1,II,Adenocarcinoma,7.5,2.79,1.000,Positive
+CRC 471,CRC 471 PLS 1,III,Adenocarcinoma,7.5,6.65,0.966,Positive
+CRC 472,CRC 472 PLS 1,II,Adenocarcinoma,5,16.78,0.988,Positive
+CRC 473,CRC 473 PLS 1,II,Adenocarcinoma,7.5,6.30,0.996,Positive
+CRC 474,CRC 474 PLS 1,III,Adenocarcinoma,5,16.36,0.282,Negative
+CRC 475,CRC 475 PLS 1,I,Adenocarcinoma,7.5,8.64,0.778,Negative
+CRC 476,CRC 476 PLS 1,II,Adenocarcinoma,5,8.45,1.000,Positive
+CRC 477,CRC 477 PLS 1,II,Adenocarcinoma,5,9.41,0.971,Positive
+CRC 478,CRC 478 PLS 1,III,Adenocarcinoma,5,6.79,0.487,Negative
+CRC 479,CRC 479 PLS 1,II,Adenocarcinoma,5,11.88,0.982,Positive
+CRC 480,CRC 480 PLS 1,III,Adenocarcinoma,5,13.30,1.000,Positive
+CRC 481,CRC 481 PLS 1,II,Adenocarcinoma,5,13.85,0.999,Positive
+CRC 482,CRC 482 PLS 1,III,Adenocarcinoma,5,4.40,0.277,Negative
+CRC 483,CRC 483 PLS 1,I,Adenocarcinoma,7.5,5.67,0.219,Negative
+CRC 484,CRC 484 PLS 1,I,Adenocarcinoma,7.5,8.04,0.910,Positive
+CRC 486,CRC 486 PLS 1,I,Adenocarcinoma,7.5,5.08,0.994,Positive
+CRC 487,CRC 487 PLS 1,I,Adenocarcinoma,7.5,6.05,0.282,Negative
+CRC 488,CRC 488 PLS 1,II,Adenocarcinoma,7.5,5.14,1.000,Positive
+CRC 489,CRC 489 PLS 1,II,Adenocarcinoma,7.5,5.77,1.000,Positive
+CRC 490,CRC 490 PLS 1,III,Adenocarcinoma,7.5,5.80,0.264,Negative
+CRC 491,CRC 491 PLS 1,III,Adenocarcinoma,7.5,13.78,0.821,Negative
+CRC 492,CRC 492 PLS 1,III,Adenocarcinoma,7.5,7.38,0.937,Positive
+CRC 493,CRC 493 PLS 1,II,Adenocarcinoma,7.5,7.91,0.937,Positive
+CRC 494,CRC 494 PLS 1,II,Adenocarcinoma,7.5,5.11,0.754,Negative
+CRC 495,CRC 495 PLS 1,I,Adenocarcinoma,7,10.65,0.198,Negative
+CRC 496,CRC 496 PLS 1,I,Adenocarcinoma,7.5,8.00,0.650,Negative
+CRC 497,CRC 497 PLS 1,III,Adenocarcinoma,7.5,10.72,1.000,Positive
+CRC 498,CRC 498 PLS 1,III,Adenocarcinoma,7.5,7.27,0.908,Positive
+CRC 499,CRC 499 PLS 1,I,Adenocarcinoma,5,10.24,0.659,Negative
+CRC 500,CRC 500 PLS 1,I,Adenocarcinoma,7.5,5.79,0.561,Negative
+CRC 501,CRC 501 PLS 1,I,Adenocarcinoma,7.5,5.04,0.590,Negative
+CRC 502,CRC 502 PLS 1,I,Adenocarcinoma,7.5,9.95,0.193,Negative
+CRC 503,CRC 503 PLS 1,I,Adenocarcinoma,7.5,7.15,0.675,Negative
+CRC 504,CRC 504 PLS 1,III,Adenocarcinoma,7.5,14.14,1.000,Positive
+CRC 505,CRC 505 PLS 1,III,Adenocarcinoma,7.5,7.98,0.539,Negative
+CRC 506,CRC 506 PLS 1,III,Adenocarcinoma,7.5,6.87,0.994,Positive
+CRC 507,CRC 507 PLS 1,I,Adenocarcinoma,7.5,3.79,0.488,Negative
+CRC 508,CRC 508 PLS 1,I,Adenocarcinoma,7.5,2.69,0.397,Negative
+CRC 509,CRC 509 PLS 1,I,Adenocarcinoma,7.5,5.88,0.305,Negative
+CRC 510,CRC 510 PLS 1,I,Adenocarcinoma,7.5,8.25,0.214,Negative
+CRC 511,CRC 511 PLS 1,II,Adenocarcinoma,5,16.57,0.246,Negative
+CRC 512,CRC 512 PLS 1,II,Adenocarcinoma,7.5,22.90,0.995,Positive
+CRC 513,CRC 513 PLS 1,II,Adenocarcinoma,7.5,24.44,0.981,Positive
+CRC 514,CRC 514 PLS 1,II,Adenocarcinoma,7,7.21,1.000,Positive
+CRC 515,CRC 515 PLS 1,II,Adenocarcinoma,7.5,6.14,0.506,Negative
+CRC 516,CRC 516 PLS 1,II,Adenocarcinoma,7.5,13.15,0.980,Positive
+CRC 517,CRC 517 PLS 1,II,Adenocarcinoma,7.5,9.14,0.305,Negative
+CRC 518,CRC 518 PLS 1,III,Adenocarcinoma,7.5,10.91,1.000,Positive
+CRC 519,CRC 519 PLS 1,III,Adenocarcinoma,7.5,7.62,0.254,Negative
+CRC 520,CRC 520 PLS 1,III,Adenocarcinoma,7.5,8.21,1.000,Positive
+CRC 521,CRC 521 PLS 1,III,Adenocarcinoma,7.5,5.23,0.975,Positive
+CRC 522,CRC 522 PLS 1,II,Adenocarcinoma,7.5,11.83,0.913,Positive
+CRC 523,CRC 523 PLS 1,III,Adenocarcinoma,7.5,5.63,0.284,Negative
+CRC 524,CRC 524 PLS 1,II,Adenocarcinoma,7.5,7.83,0.994,Positive
+CRC 525,CRC 525 PLS 1,III,Adenocarcinoma,7.5,7.88,0.998,Positive
+CRC 526,CRC 526 PLS 1,III,Adenocarcinoma,7.5,10.20,0.768,Negative
+CRC 527,CRC 527 PLS 1,III,Adenocarcinoma,7.5,4.72,0.992,Positive
+CRC 528,CRC 528 PLS 1,II,Adenocarcinoma,7.5,6.77,0.424,Negative
+CRC 529,CRC 529 PLS 1,II,Adenocarcinoma,7.5,4.74,0.215,Negative
+CRC 530,CRC 530 PLS 1,II,Adenocarcinoma,7.5,4.99,0.924,Positive
+CRC 531,CRC 531 PLS 1,III,Adenocarcinoma,7.5,4.94,0.888,Negative
+INDI 001,INDI 001 PLS 1,II,Non-small cell lung cancer,7.5,2.44,0.988,Positive
+INDI 002,INDI 002 PLS 1,II,Non-small cell lung cancer,7.5,0.86,0.724,Negative
+INDI 003,INDI 003 PLS 1,III,Non-small cell lung cancer,7.5,2.72,1.000,Positive
+INDI 004,INDI 004 PLS 1,I,Non-small cell lung cancer,7.5,2.43,0.931,Positive
+INDI 005,INDI 005 PLS 1,I,Non-small cell lung cancer,7.5,3.15,0.871,Negative
+INDI 007,INDI 007 PLS 1,II,Non-small cell lung cancer,7.5,3.24,1.000,Positive
+INDI 009,INDI 009 PLS 1,II,Non-small cell lung cancer,7.5,2.59,1.000,Positive
+INDI 010,INDI 010 PLS 1,II,Non-small cell lung cancer,7.5,3.14,0.994,Positive
+INDI 011,INDI 011 PLS 1,I,Non-small cell lung cancer,7.5,1.88,0.405,Negative
+INDI 012,INDI 012 PLS 1,I,Non-small cell lung cancer,7.5,3.06,0.995,Positive
+INDI 013,INDI 013 PLS 1,III,Non-small cell lung cancer,7.5,3.27,0.654,Negative
+INDI 014,INDI 014 PLS 1,II,Non-small cell lung cancer,7.5,1.61,0.999,Positive
+INDI 015,INDI 015 PLS 1,I,Non-small cell lung cancer,7.5,5.45,0.064,Negative
+INDI 016,INDI 016 PLS 1,III,Non-small cell lung cancer,7.5,9.56,1.000,Positive
+INDI 017,INDI 017 PLS 1,I,Non-small cell lung cancer,7.5,5.22,0.280,Negative
+INDI 018,INDI 018 PLS 1,III,Non-small cell lung cancer,7.5,4.29,1.000,Positive
+INDI 022,INDI 022 PLS 1,III,Non-small cell lung cancer,7.5,3.72,1.000,Positive
+INDI 023,INDI 023 PLS 1,II,Non-small cell lung cancer,7.5,7.78,1.000,Positive
+INDI 024,INDI 024 PLS 1,II,Non-small cell lung cancer,7.5,3.11,0.470,Negative
+INDI 025,INDI 025 PLS 1,I,Non-small cell lung cancer,7.5,3.25,0.996,Positive
+INDI 026,INDI 026 PLS 1,I,Non-small cell lung cancer,7.5,5.75,0.722,Negative
+INDI 027,INDI 027 PLS 1,II,Adenocarcinoma,7.5,6.11,0.989,Positive
+INDI 028,INDI 028 PLS 1,II,Adenocarcinoma,7.5,8.23,0.858,Negative
+INDI 029,INDI 029 PLS 1,II,Adenocarcinoma,7.5,6.75,0.267,Negative
+INDI 030,INDI 030 PLS 1,II,Adenocarcinoma,7.5,4.52,0.692,Negative
+INDI 031,INDI 031 PLS 1,II,Adenocarcinoma,7.5,4.39,0.285,Negative
+INDI 032,INDI 032 PLS 1,III,Adenocarcinoma,7.5,4.38,0.186,Negative
+INDI 034,INDI 034 PLS 1,III,Adenocarcinoma,7.5,14.89,0.999,Positive
+INDI 035,INDI 035 PLS 1,II,Adenocarcinoma,7.5,3.07,0.929,Positive
+INDI 036,INDI 036 PLS 1,I,Adenocarcinoma,7.5,12.97,0.297,Negative
+INDI 037,INDI 037 PLS 1,I,Adenocarcinoma,7.5,3.99,0.829,Negative
+INDI 038,INDI 038 PLS 1,II,Adenocarcinoma,7.5,3.25,0.765,Negative
+INDI 039,INDI 039 PLS 1,III,Adenocarcinoma,7.5,13.81,0.990,Positive
+INDI 040,INDI 040 PLS 1,I,Adenocarcinoma,7.5,6.86,0.576,Negative
+INDI 042,INDI 042 PLS 1,I,Adenocarcinoma,7.5,4.48,0.478,Negative
+INDI 043,INDI 043 PLS 1,II,Adenocarcinoma,7.5,5.53,0.936,Positive
+INDI 044,INDI 044 PLS 1,II,Adenocarcinoma,7.5,17.02,0.996,Positive
+INDI 045,INDI 045 PLS 1,III,Adenocarcinoma,7.5,44.22,1.000,Positive
+INDI 046,INDI 046 PLS 1,II,Adenocarcinoma,7.5,37.01,0.998,Positive
+INDI 047,INDI 047 PLS 1,II,Adenocarcinoma,7.5,2.68,0.771,Negative
+INDI 048,INDI 048 PLS 1,II,Invasive lobular carcinoma,7.5,3.91,0.820,Negative
+INDI 049,INDI 049 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.49,0.137,Negative
+INDI 050,INDI 050 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.71,0.134,Negative
+INDI 051,INDI 051 PLS 1,III,Invasive ductal adenocarcinoma,7,4.23,0.972,Positive
+INDI 052,INDI 052 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.32,0.952,Positive
+INDI 053,INDI 053 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.62,0.174,Negative
+INDI 054,INDI 054 PLS 1,II,Invasive ductal adenocarcinoma,7.5,8.96,0.188,Negative
+INDI 055,INDI 055 PLS 1,II,Invasive carcinoma (NOS),7.5,4.40,0.191,Negative
+INDI 056,INDI 056 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.78,0.123,Negative
+INDI 057,INDI 057 PLS 1,III,Invasive lobular carcinoma,7.5,5.88,0.565,Negative
+INDI 058,INDI 058 PLS 1,I,Invasive ductal adenocarcinoma,7.5,2.17,0.883,Negative
+INDI 059,INDI 059 PLS 1,II,Invasive ductal adenocarcinoma,7.5,6.58,0.953,Positive
+INDI 060,INDI 060 PLS 1,II,Invasive ductal adenocarcinoma,7.5,37.80,0.984,Positive
+INDI 061,INDI 061 PLS 1,II,Invasive ductal adenocarcinoma,7.5,27.99,0.913,Positive
+INDI 062,INDI 062 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.95,0.253,Negative
+INDI 063,INDI 063 PLS 1,III,Invasive lobular carcinoma,7.5,4.86,0.358,Negative
+INDI 064,INDI 064 PLS 1,II,Invasive ductal adenocarcinoma,7.5,12.86,0.998,Positive
+INDI 065,INDI 065 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.54,0.485,Negative
+INDI 066,INDI 066 PLS 1,III,Invasive lobular carcinoma,7.5,5.54,0.387,Negative
+INDI 067,INDI 067 PLS 1,III,Invasive ductal adenocarcinoma,7.5,19.07,0.998,Positive
+INDI 068,INDI 068 PLS 1,II,Invasive ductal adenocarcinoma,7.5,9.78,0.473,Negative
+INDI 069,INDI 069 PLS 1,II,Invasive ductal adenocarcinoma,7.5,15.08,0.994,Positive
+INDI 070,INDI 070 PLS 1,III,Invasive lobular carcinoma,7.5,16.58,1.000,Positive
+INDI 071,INDI 071 PLS 1,II,Invasive lobular carcinoma,7.5,6.69,1.000,Positive
+INDI 072,INDI 072 PLS 1,II,Invasive lobular carcinoma,7.5,6.04,0.836,Negative
+INDI 073,INDI 073 PLS 1,III,Invasive ductal adenocarcinoma,7.5,4.19,0.474,Negative
+INDI 074,INDI 074 PLS 1,II,Adenocarcinoma,7.5,7.45,1.000,Positive
+INDI 075,INDI 075 PLS 1,III,Epithelial carcinoma,7.5,2.60,1.000,Positive
+INDI 076,INDI 076 PLS 1,II,Squamous cell carcinoma,7.5,5.19,0.963,Positive
+INDI 077,INDI 077 PLS 1,II,Hepatocellular carcinoma,7.5,62.35,1.000,Positive
+INDI 078,INDI 078 PLS 1,II,Hepatocellular carcinoma,7.5,47.19,0.973,Positive
+INDI 079,INDI 079 PLS 1,II,Hepatocellular carcinoma,7.5,44.38,1.000,Positive
+INDI 080,INDI 080 PLS 1,I,Hepatocellular carcinoma,7.5,5.76,0.991,Positive
+INDI 081,INDI 081 PLS 1,II,Adenocarcinoma,7.5,25.31,1.000,Positive
+INDI 082,INDI 082 PLS 1,II,Adenocarcinoma,7.5,6.57,0.114,Negative
+INDI 083,INDI 083 PLS 1,II,Adenocarcinoma,7.5,5.25,0.972,Positive
+INDI 084,INDI 084 PLS 1,II,Adenocarcinoma,7.5,19.44,0.956,Positive
+INDI 085,INDI 085 PLS 1,I,Adenocarcinoma,7.5,2.27,0.568,Negative
+INDI 086,INDI 086 PLS 1,I,Adenocarcinoma,7.5,34.92,1.000,Positive
+INDI 087,INDI 087 PLS 1,I,Adenocarcinoma,7.5,7.78,0.994,Positive
+INDI 089,INDI 089 PLS 1,II,Adenocarcinoma,7.5,20.39,0.944,Positive
+INDI 090,INDI 090 PLS 1,II,Adenocarcinoma,7.5,28.80,0.834,Negative
+INDI 092,INDI 092 PLS 1,II,Adenocarcinoma,7.5,3.04,0.336,Negative
+INDI 093,INDI 093 PLS 1,I,Adenocarcinoma,7.5,7.60,0.938,Positive
+INDI 094,INDI 094 PLS 1,I,Adenocarcinoma,7.5,20.90,0.987,Positive
+INDI 095,INDI 095 PLS 1,II,Adenocarcinoma,7.5,49.78,0.606,Negative
+INDI 096,INDI 096 PLS 1,I,Adenocarcinoma,7.5,5.59,0.330,Negative
+INDI 097,INDI 097 PLS 1,III,Adenocarcinoma,7.5,16.40,1.000,Positive
+INDI 098,INDI 098 PLS 1,II,Adenocarcinoma,7.5,2.78,0.106,Negative
+INDI 100,INDI 100 PLS 1,III,Adenocarcinoma,7.5,9.25,0.993,Positive
+INDI 101,INDI 101 PLS 1,III,Adenocarcinoma,7.5,5.72,0.333,Negative
+INDI 102,INDI 102 PLS 1,III,Adenocarcinoma,7.5,11.76,0.996,Positive
+INDI 103,INDI 103 PLS 1,II,Adenocarcinoma,7.5,17.85,0.254,Negative
+INDI 104,INDI 104 PLS 1,III,Adenocarcinoma,7.5,4.21,0.999,Positive
+INDI 107,INDI 107 PLS 1,II,Adenocarcinoma,7.5,2.43,0.859,Negative
+INDI 108,INDI 108 PLS 1,II,Adenocarcinoma,7.5,2.95,0.999,Positive
+INDI 109,INDI 109 PLS 1,III,Adenocarcinoma,7.5,21.96,1.000,Positive
+INDI 110,INDI 110 PLS 1,I,Adenocarcinoma,7.5,12.51,0.929,Positive
+INDI 111,INDI 111 PLS 1,II,Adenocarcinoma,7.5,9.17,0.987,Positive
+INDI 112,INDI 112 PLS 1,II,Squamous cell carcinoma,7.5,30.29,1.000,Positive
+INDI 113,INDI 113 PLS 1,II,Adenocarcinoma,7.5,7.73,1.000,Positive
+INDI 116,INDI 116 PLS 1,I,Adenocarcinoma,7.5,39.39,0.894,Positive
+INDI 119,INDI 119 PLS 1,I,Adenocarcinoma,7.5,53.59,1.000,Positive
+INDI 120,INDI 120 PLS 1,III,Adenocarcinoma,7.5,58.27,1.000,Positive
+INDI 121,INDI 121 PLS 1,I,Adenocarcinoma,7.5,92.85,0.980,Positive
+INDI 122,INDI 122 PLS 1,II,Adenocarcinoma,7.5,7.61,1.000,Positive
+INDI 123,INDI 123 PLS 1,II,Adenocarcinoma,7.5,20.99,0.994,Positive
+INDI 124,INDI 124 PLS 1,II,Adenocarcinoma,7.5,20.63,1.000,Positive
+INDI 125,INDI 125 PLS 1,II,Squamous cell carcinoma,7.5,23.56,1.000,Positive
+INDI 126,INDI 126 PLS 1,III,Adenocarcinoma,7.5,25.59,1.000,Positive
+INDI 127,INDI 127 PLS 1,II,Adenocarcinoma,7.5,23.96,0.999,Positive
+INDI 128,INDI 128 PLS 1,III,Adenocarcinoma,7.5,6.68,1.000,Positive
+INDI 129,INDI 129 PLS 1,II,Hepatocellular carcinoma,7.5,80.95,1.000,Positive
+INDI 130,INDI 130 PLS 1,II,Adenocarcinoma,7.5,9.63,0.994,Positive
+INDI 131,INDI 131 PLS 1,II,Adenocarcinoma,7.5,23.69,0.999,Positive
+INDI 132,INDI 132 PLS 1,III,Squamous cell carcinoma,7.5,29.99,0.836,Negative
+INDI 133,INDI 133 PLS 1,I,Adenocarcinoma,7.5,16.57,0.997,Positive
+INDI 134,INDI 134 PLS 1,III,Adenocarcinoma,7.5,9.09,0.990,Positive
+INDI 135,INDI 135 PLS 1,III,Adenocarcinoma,7.5,52.87,1.000,Positive
+INDI 136,INDI 136 PLS 1,II,Adenocarcinoma,7.5,31.41,0.996,Positive
+INDI 137,INDI 137 PLS 1,II,Adenocarcinoma,7.5,23.72,1.000,Positive
+INDI 139,INDI 139 PLS 1,III,Adenocarcinoma,7.5,53.26,1.000,Positive
+INDI 140,INDI 140 PLS 1,III,Adenocarcinoma,7.5,26.63,1.000,Positive
+INDI 141,INDI 141 PLS 1,III,Adenocarcinoma,7.5,5.97,0.918,Positive
+INDI 143,INDI 143 PLS 1,II,Adenocarcinoma,7.5,16.33,0.997,Positive
+INDI 144,INDI 144 PLS 1,II,Adenocarcinoma,7.5,54.08,1.000,Positive
+INDI 145,INDI 145 PLS 1,II,Adenocarcinoma,7.5,12.18,0.996,Positive
+INDI 146,INDI 146 PLS 1,II,Adenocarcinoma,7.5,19.37,0.901,Positive
+INDI 147,INDI 147 PLS 1,II,Adenocarcinoma,7.5,126.95,1.000,Positive
+INDI 148,INDI 148 PLS 1,II,Adenocarcinoma,7.5,40.76,1.000,Positive
+INDI 150,INDI 150 PLS 1,II,Adenocarcinoma,7.5,78.23,1.000,Positive
+INDI 151,INDI 151 PLS 1,II,Adenocarcinoma,7.5,37.78,1.000,Positive
+INDI 152,INDI 152 PLS 1,I,Adenocarcinoma,7.5,30.66,0.943,Positive
+INDI 153,INDI 153 PLS 1,II,Adenocarcinoma,7.5,35.87,0.989,Positive
+INDI 155,INDI 155 PLS 1,II,Adenocarcinoma,7.5,21.12,0.702,Negative
+INDI 156,INDI 156 PLS 1,III,Adenocarcinoma,7.5,35.66,1.000,Positive
+INDI 158,INDI 158 PLS 1,I,Adenocarcinoma,7.5,14.91,0.975,Positive
+INDI 159,INDI 159 PLS 1,II,Adenocarcinoma,7.5,6.04,0.592,Negative
+INDI 160,INDI 160 PLS 1,II,Adenocarcinoma,7.5,7.01,0.688,Negative
+INDI 161,INDI 161 PLS 1,II,Adenocarcinoma,7.5,13.98,0.830,Negative
+INDI 162,INDI 162 PLS 1,III,Adenocarcinoma,7.5,74.08,1.000,Positive
+INDI 163,INDI 163 PLS 1,III,Adenocarcinoma,7.5,6.47,0.852,Negative
+INDI 164,INDI 164 PLS 1,I,Adenocarcinoma,7.5,10.85,0.490,Negative
+INDI 165,INDI 165 PLS 1,I,Adenocarcinoma,7.5,7.25,0.855,Negative
+INDI 167,INDI 167 PLS 1,II,Adenocarcinoma,7.5,56.11,0.993,Positive
+INDI 168,INDI 168 PLS 1,II,Adenocarcinoma,7.5,33.93,1.000,Positive
+INDI 169,INDI 169 PLS 1,III,Adenocarcinoma,7.5,35.18,0.924,Positive
+INDI 170,INDI 170 PLS 1,I,Adenocarcinoma,7.5,28.77,1.000,Positive
+INDI 171,INDI 171 PLS 1,III,Adenocarcinoma,7.5,91.76,1.000,Positive
+INDI 172,INDI 172 PLS 1,II,Adenocarcinoma,7.5,70.98,1.000,Positive
+INDI 173,INDI 173 PLS 1,I,Adenocarcinoma,7.5,15.73,1.000,Positive
+INDI 175,INDI 175 PLS 1,III,Adenocarcinoma,7.5,12.58,1.000,Positive
+INDI 176,INDI 176 PLS 1,II,Adenocarcinoma,7.5,36.78,0.999,Positive
+INDI 177,INDI 177 PLS 1,III,Hepatocellular carcinoma,7.5,108.83,1.000,Positive
+INDI 178,INDI 178 PLS 1,III,Adenocarcinoma,7.5,12.90,0.934,Positive
+INDI 179,INDI 179 PLS 1,III,Adenocarcinoma,7.5,14.15,0.996,Positive
+INDI 180,INDI 180 PLS 1,III,Adenocarcinoma,7.5,11.31,0.877,Negative
+INDI 182,INDI 182 PLS 1,III,Hepatocellular carcinoma,7.5,50.25,1.000,Positive
+INDI 183,INDI 183 PLS 1,I,Adenocarcinoma,7.5,43.29,1.000,Positive
+INDI 184,INDI 184 PLS 1,II,Squamous cell carcinoma,7.5,110.40,1.000,Positive
+INDI 185,INDI 185 PLS 1,II,Adenocarcinoma,7.5,44.97,1.000,Positive
+INDI 186,INDI 186 PLS 1,II,Adenocarcinoma,7.5,86.25,1.000,Positive
+INDI 187,INDI 187 PLS 1,I,Adenocarcinoma,7.5,7.29,0.916,Positive
+INDI 188,INDI 188 PLS 1,I,Adenocarcinoma,7.5,44.55,1.000,Positive
+INDI 189,INDI 189 PLS 1,II,Squamous cell carcinoma,7.5,98.02,1.000,Positive
+INDI 190,INDI 190 PLS 1,III,Hepatocellular carcinoma,7.5,62.58,0.998,Positive
+INDI 191,INDI 191 PLS 1,I,Adenocarcinoma,7.5,0.37,0.955,Positive
+INDI 192,INDI 192 PLS 1,II,Adenocarcinoma,7.5,30.45,0.999,Positive
+INDI 194,INDI 194 PLS 1,II,Adenocarcinoma,7.5,49.12,0.988,Positive
+INDI 195,INDI 195 PLS 1,III,Adenocarcinoma,7.5,14.49,0.997,Positive
+INDI 196,INDI 196 PLS 1,III,Adenocarcinoma,7.5,12.07,1.000,Positive
+INDI 197,INDI 197 PLS 1,II,Adenocarcinoma,7.5,4.59,1.000,Positive
+INDI 198,INDI 198 PLS 1,III,Adenocarcinoma,7.5,10.36,1.000,Positive
+INDI 199,INDI 199 PLS 1,II,Adenocarcinoma,7.5,10.21,0.953,Positive
+INDI 200,INDI 200 PLS 1,III,Invasive ductal adenocarcinoma,7.5,56.36,0.993,Positive
+INDI 202,INDI 202 PLS 1,II,Adenocarcinoma,7.5,8.48,0.972,Positive
+INDI 203,INDI 203 PLS 1,II,Adenocarcinoma,7.5,7.82,1.000,Positive
+INDI 205,INDI 205 PLS 1,III,Hepatocellular carcinoma,7.5,71.92,1.000,Positive
+INDI 206,INDI 206 PLS 1,III,Adenocarcinoma,7.5,14.92,0.996,Positive
+INDI 207,INDI 207 PLS 1,II,Adenocarcinoma,7.5,15.15,1.000,Positive
+INDI 208,INDI 208 PLS 1,II,Hepatocellular carcinoma,7.5,69.07,1.000,Positive
+INDI 209,INDI 209 PLS 1,II,Adenocarcinoma,7.5,13.05,1.000,Positive
+INDI 210,INDI 210 PLS 1,III,Adenocarcinoma,7.5,6.85,1.000,Positive
+INDI 211,INDI 211 PLS 1,II,Adenocarcinoma,7.5,13.47,0.986,Positive
+INDI 212,INDI 212 PLS 1,III,Adenocarcinoma,7.5,8.94,1.000,Positive
+INDI 213,INDI 213 PLS 1,III,Adenocarcinoma,7.5,4.15,0.988,Positive
+INDI 214,INDI 214 PLS 1,II,Adenocarcinoma,7.5,15.37,0.997,Positive
+INDI 215,INDI 215 PLS 1,II,Hepatocellular carcinoma,7.5,30.64,0.999,Positive
+INDI 216,INDI 216 PLS 1,III,Adenocarcinoma,7.5,4.36,0.986,Positive
+INDI 218,INDI 218 PLS 1,III,Adenocarcinoma,7.5,6.18,0.998,Positive
+INDI 219,INDI 219 PLS 1,III,Hepatocellular carcinoma,7.5,51.72,1.000,Positive
+INDI 220,INDI 220 PLS 1,I,Non-small cell lung cancer,7.5,19.37,0.993,Positive
+INDI 221,INDI 221 PLS 1,III,Adenocarcinoma,7.5,4.60,1.000,Positive
+INDI 222,INDI 222 PLS 1,II,Adenocarcinoma,7.5,29.31,1.000,Positive
+INDI 223,INDI 223 PLS 1,I,Adenocarcinoma,7.5,12.55,0.293,Negative
+INDI 224,INDI 224 PLS 1,III,Non-small cell lung cancer,7.5,48.72,1.000,Positive
+INDI 225,INDI 225 PLS 1,I,Adenocarcinoma,7.5,70.16,0.998,Positive
+INDI 226,INDI 226 PLS 1,III,Invasive lobular carcinoma,7.5,1.91,0.124,Negative
+INDI 227,INDI 227 PLS 1,II,Non-small cell lung cancer,7.5,3.40,0.584,Negative
+INDI 228,INDI 228 PLS 1,II,Invasive ductal adenocarcinoma,7.5,6.28,0.385,Negative
+INDI 229,INDI 229 PLS 1,II,Adenocarcinoma,7.5,5.15,0.937,Positive
+INDI 230,INDI 230 PLS 1,I,Adenocarcinoma,7.5,5.16,0.940,Positive
+INDI 231,INDI 231 PLS 1,III,Non-small cell lung cancer,7.5,2.04,1.000,Positive
+INDI 233,INDI 233 PLS 1,I,Adenocarcinoma,7.5,6.54,1.000,Positive
+INDI 234,INDI 234 PLS 1,I,Adenocarcinoma,7.5,7.55,0.214,Negative
+INDI 236,INDI 236 PLS 1,II,Adenocarcinoma,7.5,8.20,0.297,Negative
+INDI 237,INDI 237 PLS 1,I,Invasive ductal adenocarcinoma,7.5,2.40,0.240,Negative
+INDI 238,INDI 238 PLS 1,II,Hepatocellular carcinoma,7.5,13.20,1.000,Positive
+INDI 239,INDI 239 PLS 1,III,Non-small cell lung cancer,7.5,3.20,0.966,Positive
+INDI 241,INDI 241 PLS 1,III,Adenocarcinoma,7.5,16.09,0.401,Negative
+INDI 243,INDI 243 PLS 1,I,Adenocarcinoma,7.5,6.33,1.000,Positive
+INDI 244,INDI 244 PLS 1,III,Adenocarcinoma,7.5,4.06,0.999,Positive
+INDI 245,INDI 245 PLS 1,III,Adenocarcinoma,7.5,4.36,1.000,Positive
+INDI 246,INDI 246 PLS 1,II,Non-small cell lung cancer,7.5,0.50,0.127,Negative
+INDI 247,INDI 247 PLS 1,I,Non-small cell lung cancer,7.5,4.09,0.959,Positive
+INDI 248,INDI 248 PLS 1,II,Adenocarcinoma,7.5,2.36,0.340,Negative
+INDI 250,INDI 250 PLS 1,II,Adenocarcinoma,7.5,6.29,0.998,Positive
+INDI 251,INDI 251 PLS 1,II,Adenocarcinoma,7.5,9.61,0.999,Positive
+INDI 252,INDI 252 PLS 1,II,Non-small cell lung cancer,7.5,13.59,1.000,Positive
+INDI 253,INDI 253 PLS 1,I,Adenocarcinoma,7.5,5.84,0.980,Positive
+INDI 255,INDI 255 PLS 1,II,Adenocarcinoma,7.5,3.60,1.000,Positive
+INDI 256,INDI 256 PLS 1,III,Adenocarcinoma,7.5,5.06,1.000,Positive
+INDI 257,INDI 257 PLS 1,III,Non-small cell lung cancer,7.5,8.12,0.994,Positive
+INDI 258,INDI 258 PLS 1,I,Adenocarcinoma,7.5,13.10,0.222,Negative
+INDI 259,INDI 259 PLS 1,II,Adenocarcinoma,7.5,11.59,1.000,Positive
+INDI 260,INDI 260 PLS 1,I,Adenocarcinoma,7.5,2.24,0.325,Negative
+INDI 261,INDI 261 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.23,0.064,Negative
+INDI 262,INDI 262 PLS 1,III,Invasive lobular carcinoma,7.5,2.80,0.924,Positive
+INDI 264,INDI 264 PLS 1,III,Non-small cell lung cancer,7.5,1.46,1.000,Positive
+INDI 265,INDI 265 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.55,0.148,Negative
+INDI 266,INDI 266 PLS 1,I,Non-small cell lung cancer,7.5,14.77,0.694,Negative
+INDI 267,INDI 267 PLS 1,II,Squamous cell carcinoma,7.5,13.58,0.866,Negative
+INDI 268,INDI 268 PLS 1,III,Adenocarcinoma,7.5,6.66,1.000,Positive
+INDI 269,INDI 269 PLS 1,III,Non-small cell lung cancer,7.5,11.25,0.623,Negative
+INDI 270,INDI 270 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.77,0.068,Negative
+INDI 271,INDI 271 PLS 1,III,Adenocarcinoma,7.5,8.04,0.603,Negative
+INDI 273,INDI 273 PLS 1,I,Non-small cell lung cancer,7.5,3.62,0.998,Positive
+INDI 274,INDI 274 PLS 1,II,Invasive lobular carcinoma,7.5,2.59,0.062,Negative
+INDI 275,INDI 275 PLS 1,II,Invasive lobular carcinoma,7.5,2.61,0.413,Negative
+INDI 276,INDI 276 PLS 1,II,Cholangiocarcinoma,7,22.94,1.000,Positive
+INDI 277,INDI 277 PLS 1,II,Invasive ductal adenocarcinoma,7.5,6.39,0.201,Negative
+INDI 278,INDI 278 PLS 1,III,Epithelial carcinoma,7.5,10.27,1.000,Positive
+INDI 279,INDI 279 PLS 1,II,Adenocarcinoma,7.5,4.79,0.999,Positive
+INDI 280,INDI 280 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.42,0.339,Negative
+INDI 281,INDI 281 PLS 1,I,Adenocarcinoma,7.5,4.49,0.633,Negative
+INDI 283,INDI 283 PLS 1,I,Non-small cell lung cancer,7.5,4.72,0.446,Negative
+INDI 284,INDI 284 PLS 1,II,Adenocarcinoma,7.5,17.11,0.999,Positive
+INDI 285,INDI 285 PLS 1,II,Non-small cell lung cancer,7.5,4.88,1.000,Positive
+INDI 286,INDI 286 PLS 1,I,Adenocarcinoma,7.5,1.46,0.881,Negative
+INDI 287,INDI 287 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.11,1.000,Positive
+INDI 288,INDI 288 PLS 1,III,Non-small cell lung cancer,7.5,5.12,1.000,Positive
+INDI 289,INDI 289 PLS 1,II,Invasive lobular carcinoma,7.5,2.03,0.855,Negative
+INDI 290,INDI 290 PLS 1,I,Adenocarcinoma,7.5,2.19,0.998,Positive
+INDI 291,INDI 291 PLS 1,I,Non-small cell lung cancer,7.5,7.57,0.626,Negative
+INDI 292,INDI 292 PLS 1,III,Non-small cell lung cancer,7.5,8.42,0.585,Negative
+INDI 293,INDI 293 PLS 1,II,Adenocarcinoma,7.5,4.02,1.000,Positive
+INDI 295,INDI 295 PLS 1,II,Adenocarcinoma,7.5,2.17,0.998,Positive
+INDI 296,INDI 296 PLS 1,II,Adenocarcinoma,7.5,4.40,0.688,Negative
+INDI 297,INDI 297 PLS 1,III,Invasive ductal adenocarcinoma,7.5,3.07,0.999,Positive
+INDI 298,INDI 298 PLS 1,I,Adenocarcinoma,7.5,4.58,0.654,Negative
+INDI 299,INDI 299 PLS 1,I,Adenocarcinoma,7.5,13.08,0.726,Negative
+INDI 300,INDI 300 PLS 1,III,Invasive ductal adenocarcinoma,7.5,19.40,0.983,Positive
+INDI 301,INDI 301 PLS 1,II,Invasive ductal adenocarcinoma,7.5,9.18,0.998,Positive
+INDI 302,INDI 302 PLS 1,I,Adenocarcinoma,7.5,2.74,0.826,Negative
+INDI 303,INDI 303 PLS 1,I,Adenocarcinoma,7.5,5.30,0.942,Positive
+INDI 304,INDI 304 PLS 1,I,Adenocarcinoma,7.5,19.49,0.993,Positive
+INDI 305,INDI 305 PLS 1,II,Adenocarcinoma,7.5,20.30,1.000,Positive
+INDI 306,INDI 306 PLS 1,III,Adenocarcinoma,7.5,3.55,1.000,Positive
+INDI 307,INDI 307 PLS 1,III,Adenocarcinoma,7.5,12.09,0.970,Positive
+INDI 308,INDI 308 PLS 1,II,Hepatocellular carcinoma,7.5,119.55,0.998,Positive
+INDI 309,INDI 309 PLS 1,II,Adenocarcinoma,7.5,20.06,0.978,Positive
+INDI 310,INDI 310 PLS 1,II,Adenocarcinoma,7.5,13.05,1.000,Positive
+INDI 311,INDI 311 PLS 1,III,Adenocarcinoma,7.5,7.53,0.999,Positive
+INDI 312,INDI 312 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.78,0.908,Positive
+INDI 313,INDI 313 PLS 1,II,Squamous cell carcinoma,7.5,19.47,0.983,Positive
+INDI 314,INDI 314 PLS 1,I,Adenocarcinoma,7.5,3.08,0.816,Negative
+INDI 315,INDI 315 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.80,0.184,Negative
+INDI 316,INDI 316 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.25,0.232,Negative
+INDI 317,INDI 317 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.29,0.126,Negative
+INDI 318,INDI 318 PLS 1,III,Adenocarcinoma,7.5,5.16,1.000,Positive
+INDI 319,INDI 319 PLS 1,I,Adenocarcinoma,7.5,14.30,0.508,Negative
+INDI 320,INDI 320 PLS 1,II,Adenocarcinoma,7.5,8.18,1.000,Positive
+INDI 321,INDI 321 PLS 1,III,Adenocarcinoma,7.5,3.54,0.969,Positive
+INDI 322,INDI 322 PLS 1,III,Adenocarcinoma,7.5,10.18,0.800,Negative
+INDI 323,INDI 323 PLS 1,I,Invasive ductal adenocarcinoma,7.5,1.01,0.130,Negative
+INDI 324,INDI 324 PLS 1,I,Non-small cell lung cancer,7.5,2.11,0.999,Positive
+INDI 325,INDI 325 PLS 1,III,Adenocarcinoma,7.5,1.63,0.246,Negative
+INDI 326,INDI 326 PLS 1,I,Non-small cell lung cancer,7.5,1.94,0.799,Negative
+INDI 327,INDI 327 PLS 1,II,Adenocarcinoma,7.5,2.83,1.000,Positive
+INDI 328,INDI 328 PLS 1,I,Adenocarcinoma,7.5,4.56,0.995,Positive
+INDI 329,INDI 329 PLS 1,III,Adenocarcinoma,7.5,14.29,1.000,Positive
+INDI 331,INDI 331 PLS 1A,III,Non-small cell lung cancer,7.5,2.53,1.000,Positive
+INDI 332,INDI 332 PLS 1,I,Invasive ductal adenocarcinoma,7.5,2.13,0.311,Negative
+INDI 333,INDI 333 PLS 1A,II,Non-small cell lung cancer,7.5,2.17,0.818,Negative
+INDI 334,INDI 334 PLS 1,I,Invasive ductal adenocarcinoma,7.5,1.36,0.932,Positive
+INDI 335,INDI 335 PLS 1A,I,Non-small cell lung cancer,7.5,1.61,0.998,Positive
+INDI 336,INDI 336 PLS 1A,III,Non-small cell lung cancer,7.5,5.42,1.000,Positive
+INDI 337,INDI 337 PLS 1,III,Adenocarcinoma,7.5,4.63,0.259,Negative
+INDI 338,INDI 338 PLS 1,II,Adenocarcinoma,7.5,9.18,0.870,Negative
+INDI 339,INDI 339 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.05,0.195,Negative
+INDI 340,INDI 340 PLS 1,III,Adenocarcinoma,7.5,3.43,1.000,Positive
+INDI 341,INDI 341 PLS 1,II,Cholangiocarcinoma,7.5,7.88,1.000,Positive
+INDI 342,INDI 342 PLS 1A,III,Non-small cell lung cancer,5,0.42,0.242,Negative
+INDI 343,INDI 343 PLS 1,III,Adenocarcinoma,7.5,0.91,0.200,Negative
+INDI 344,INDI 344 PLS 1,II,Adenocarcinoma,7.5,1.91,1.000,Positive
+INDI 346,INDI 346 PLS 1A,I,Non-small cell lung cancer,6.5,1.30,0.992,Positive
+INDI 347,INDI 347 PLS 1,I,Squamous cell carcinoma,7.5,5.20,0.402,Negative
+INDI 348,INDI 348 PLS 1,II,Invasive lobular carcinoma,7.5,1.92,0.198,Negative
+INDI 350,INDI 350 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.04,0.648,Negative
+INDI 352,INDI 352 PLS 1,III,Invasive ductal adenocarcinoma,7.5,1.45,0.208,Negative
+INDI 353,INDI 353 PLS 1A,II,Non-small cell lung cancer,7.5,2.27,1.000,Positive
+INDI 354,INDI 354 PLS 1,III,Adenocarcinoma,7.5,0.47,1.000,Positive
+INDI 355,INDI 355 PLS 1A,I,Non-small cell lung cancer,7.5,1.23,0.886,Negative
+INDI 356,INDI 356 PLS 1,I,Adenocarcinoma,7.5,3.14,0.996,Positive
+INDI 357,INDI 357 PLS 1A,I,Non-small cell lung cancer,7.5,0.12,0.243,Negative
+INDI 358,INDI 358 PLS 1A,II,Non-small cell lung cancer,7.5,1.31,0.618,Negative
+INDI 359,INDI 359 PLS 1,I,Invasive ductal adenocarcinoma,7.5,0.67,0.900,Positive
+INDI 360,INDI 360 PLS 1A,II,Non-small cell lung cancer,7.5,2.58,0.998,Positive
+INDI 361,INDI 361 PLS 1,III,Invasive lobular carcinoma,7.5,4.49,0.211,Negative
+INDI 362,INDI 362 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.62,0.212,Negative
+INDI 363,INDI 363 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.14,0.108,Negative
+INDI 364,INDI 364 PLS 1A,I,Non-small cell lung cancer,7.5,0.21,0.851,Negative
+INDI 365,INDI 365 PLS 1,II,Adenocarcinoma,7.5,3.06,1.000,Positive
+INDI 366,INDI 366 PLS 1,II,Adenocarcinoma,7.5,42.88,1.000,Positive
+INDI 367,INDI 367 PLS 1,I,Hepatocellular carcinoma,7.5,13.22,1.000,Positive
+INDI 368,INDI 368 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.09,1.000,Positive
+INDI 369,INDI 369 PLS 1A,I,Non-small cell lung cancer,7.5,1.41,0.246,Negative
+INDI 371,INDI 371 PLS 1A,III,Non-small cell lung cancer,7.5,1.47,1.000,Positive
+INDI 372,INDI 372 PLS 1A,II,Non-small cell lung cancer,7.5,4.77,0.986,Positive
+INDI 373,INDI 373 PLS 1A,I,Non-small cell lung cancer,7.5,1.42,0.856,Negative
+INDI 374,INDI 374 PLS 1,III,Adenocarcinoma,7,3.53,0.997,Positive
+INDI 375,INDI 375 PLS 1,I,Hepatocellular carcinoma,7.5,3.58,1.000,Positive
+INDI 376,INDI 376 PLS 1,I,Adenocarcinoma,7.5,3.98,0.225,Negative
+INDI 377,INDI 377 PLS 1,II,Adenocarcinoma,7.5,14.70,1.000,Positive
+INDI 378,INDI 378 PLS 1,I,Adenocarcinoma,7.5,2.49,0.225,Negative
+INDI 379,INDI 379 PLS 1,III,Adenocarcinoma,7.5,3.71,0.180,Negative
+INDI 380,INDI 380 PLS 1,II,Adenocarcinoma,7.5,3.57,1.000,Positive
+INDI 381,INDI 381 PLS 1A,III,Non-small cell lung cancer,6.5,0.32,0.844,Negative
+INDI 382,INDI 382 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.29,0.897,Positive
+INDI 383,INDI 383 PLS 1A,III,Non-small cell lung cancer,7.5,2.65,0.970,Positive
+INDI 384,INDI 384 PLS 1,II,Adenocarcinoma,7.5,2.35,0.332,Negative
+INDI 385,INDI 385 PLS 1,I,Adenocarcinoma,7.5,4.06,0.970,Positive
+INDI 386,INDI 386 PLS 1,III,Adenocarcinoma,7.5,2.80,0.115,Negative
+INDI 387,INDI 387 PLS 1,I,Hepatocellular carcinoma,7.5,3.79,0.997,Positive
+INDI 388,INDI 388 PLS 1,II,Adenocarcinoma,7.5,7.54,0.999,Positive
+INDI 389,INDI 389 PLS 1A,III,Non-small cell lung cancer,7.5,3.20,0.993,Positive
+INDI 390,INDI 390 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.37,0.331,Negative
+INDI 391,INDI 391 PLS 1,II,Cholangiocarcinoma,7.5,11.50,1.000,Positive
+INDI 392,INDI 392 PLS 1A,I,Non-small cell lung cancer,5,3.56,0.357,Negative
+INDI 393,INDI 393 PLS 1,II,Hepatocellular carcinoma,7.5,5.89,0.963,Positive
+INDI 394,INDI 394 PLS 1A,II,Non-small cell lung cancer,7.5,6.92,0.994,Positive
+INDI 395,INDI 395 PLS 1A,I,Non-small cell lung cancer,7.5,4.23,0.949,Positive
+INDI 396,INDI 396 PLS 1,I,Adenocarcinoma,7.5,2.41,0.996,Positive
+INDI 397,INDI 397 PLS 1,III,Adenocarcinoma,7.5,7.43,1.000,Positive
+INDI 398,INDI 398 PLS 1,II,Adenocarcinoma,7.5,7.40,0.318,Negative
+INDI 400,INDI 400 PLS 1,II,Adenocarcinoma,7.5,14.64,0.992,Positive
+INDI 402,INDI 402 PLS 1,I,Invasive lobular carcinoma,7.5,1.35,0.338,Negative
+INDI 403,INDI 403 PLS 1A,III,Non-small cell lung cancer,7.5,3.14,0.554,Negative
+INDI 404,INDI 404 PLS 1,III,Invasive lobular carcinoma,7.5,1.62,0.136,Negative
+INDI 405,INDI 405 PLS 1A,I,Non-small cell lung cancer,7.5,2.66,0.757,Negative
+INDI 407,INDI 407 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.68,0.314,Negative
+INDI 408,INDI 408 PLS 1,II,Invasive carcinoma (NOS),7.5,2.18,0.170,Negative
+INDI 409,INDI 409 PLS 1,II,Invasive lobular carcinoma,7.5,5.60,0.302,Negative
+INDI 411,INDI 411 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.76,0.298,Negative
+INDI 412,INDI 412 PLS 1,II,Invasive ductal adenocarcinoma,7.5,6.66,0.744,Negative
+INDI 413,INDI 413 PLS 1,I,Non-small cell lung cancer,7.5,9.03,1.000,Positive
+INDI 414,INDI 414 PLS 1,II,Non-small cell lung cancer,7.5,1.93,0.932,Positive
+INDI 415,INDI 415 PLS 1,II,Non-small cell lung cancer,7.5,3.02,0.972,Positive
+INDI 417,INDI 417 PLS 1,I,Non-small cell lung cancer,7.5,7.71,0.952,Positive
+INDI 418,INDI 418 PLS 1,I,Adenocarcinoma,7.5,3.00,0.633,Negative
+INDI 419,INDI 419 PLS 1,I,Adenocarcinoma,7.5,10.40,0.993,Positive
+INDI 421,INDI 421 PLS 1,II,Adenocarcinoma,7.5,7.89,0.788,Negative
+INDI 422,INDI 422 PLS 1,II,Adenocarcinoma,7.5,5.78,0.974,Positive
+INDI 423,INDI 423 PLS 1,II,Adenocarcinoma,7.5,2.97,0.996,Positive
+INDI 424,INDI 424 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.22,0.327,Negative
+INDI 425,INDI 425 PLS 1,II,Invasive ductal adenocarcinoma,7.5,11.89,0.604,Negative
+INDI 426,INDI 426 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.78,0.552,Negative
+INDI 427,INDI 427 PLS 1,II,Adenocarcinoma,7.5,6.59,1.000,Positive
+INDI 428,INDI 428 PLS 1,III,Adenocarcinoma,7.5,16.72,1.000,Positive
+INDI 429,INDI 429 PLS 1,II,Adenocarcinoma,7.5,21.33,0.978,Positive
+INDI 431,INDI 431 PLS 1,II,Adenocarcinoma,7.5,5.54,0.396,Negative
+INDI 433,INDI 433 PLS 1,II,Adenocarcinoma,7.5,43.71,0.984,Positive
+INDI 434,INDI 434 PLS 1,II,Adenocarcinoma,7.5,2.72,0.420,Negative
+INDI 436,INDI 436 PLS 1,III,Adenocarcinoma,7.5,20.92,0.923,Positive
+INDI 437,INDI 437 PLS 1,I,Adenocarcinoma,7.5,36.13,0.905,Positive
+INDI 438,INDI 438 PLS 1,II,Adenocarcinoma,7.5,17.94,0.734,Negative
+INDI 439,INDI 439 PLS 1,III,Adenocarcinoma,7.5,12.99,1.000,Positive
+INDI 440,INDI 440 PLS 1,II,Adenocarcinoma,7.5,6.90,0.999,Positive
+INDI 441,INDI 441 PLS 1,II,Squamous cell carcinoma,7.5,32.24,0.999,Positive
+INDI 442,INDI 442 PLS 1,II,Invasive ductal adenocarcinoma,7.5,6.17,0.927,Positive
+INDI 443,INDI 443 PLS 1,II,Invasive carcinoma (NOS),7.5,4.31,0.979,Positive
+INDI 444,INDI 444 PLS 1,II,Adenocarcinoma,7.5,157.48,1.000,Positive
+INDI 445,INDI 445 PLS 1,II,Invasive ductal adenocarcinoma,7.5,5.43,1.000,Positive
+INDI 446,INDI 446 PLS 1,II,Squamous cell carcinoma,7.5,22.51,1.000,Positive
+INDI 447,INDI 447 PLS 1,III,Invasive ductal adenocarcinoma,7.5,26.17,1.000,Positive
+INDI 449,INDI 449 PLS 1,III,Invasive ductal adenocarcinoma,7.5,3.51,0.994,Positive
+INDI 450,INDI 450 PLS 1,II,Squamous cell carcinoma,7.5,7.28,0.989,Positive
+INDI 452,INDI 452 PLS 1,II,Adenocarcinoma,7.5,13.59,1.000,Positive
+INDI 453,INDI 453 PLS 1,I,Invasive ductal adenocarcinoma,7.5,2.26,0.894,Positive
+INDI 454,INDI 454 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.94,0.975,Positive
+INDI 455,INDI 455 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.99,0.603,Negative
+INDI 456,INDI 456 PLS 1,II,Adenocarcinoma,7.5,35.05,1.000,Positive
+INDI 457,INDI 457 PLS 1,II,Squamous cell carcinoma,7.5,35.05,1.000,Positive
+INDI 458,INDI 458 PLS 1,III,Invasive carcinoma (NOS),7.5,28.49,1.000,Positive
+INDI 459,INDI 459 PLS 1,II,Invasive ductal adenocarcinoma,7.5,41.57,1.000,Positive
+INDI 460,INDI 460 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.95,0.519,Negative
+INDI 461,INDI 461 PLS 1,III,Adenocarcinoma,7.5,8.60,0.866,Negative
+INDI 462,INDI 462 PLS 1,III,Invasive ductal adenocarcinoma,7.5,82.66,1.000,Positive
+INDI 463,INDI 463 PLS 1,II,Adenocarcinoma,7.5,11.05,1.000,Positive
+INDI 464,INDI 464 PLS 1,III,Cholangiocarcinoma,7.5,57.74,1.000,Positive
+INDI 465,INDI 465 PLS 1,II,Squamous cell carcinoma,7.5,8.91,1.000,Positive
+INDI 466,INDI 466 PLS 1,II,Adenocarcinoma,7.5,18.81,1.000,Positive
+INDI 467,INDI 467 PLS 1,II,Adenocarcinoma,7.5,36.19,0.995,Positive
+INDI 468,INDI 468 PLS 1,II,Adenocarcinoma,7.5,55.36,0.975,Positive
+INDI 469,INDI 469 PLS 1,III,Invasive lobular carcinoma,7.5,50.88,0.637,Negative
+INDI 470,INDI 470 PLS 1,III,Adenocarcinoma,7.5,8.40,0.996,Positive
+INDI 471,INDI 471 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.75,0.232,Negative
+INDI 472,INDI 472 PLS 1,II,Adenocarcinoma,7.5,6.22,0.975,Positive
+INDI 473,INDI 473 PLS 1,III,Invasive ductal adenocarcinoma,7.5,4.59,0.864,Negative
+INDI 474,INDI 474 PLS 1,II,Invasive carcinoma (NOS),7.5,4.29,0.988,Positive
+INDI 475,INDI 475 PLS 1,III,Hepatocellular carcinoma,7.5,17.95,0.992,Positive
+INDI 476,INDI 476 PLS 1,II,Squamous cell carcinoma,7.5,10.06,0.991,Positive
+INDI 477,INDI 477 PLS 1,III,Adenocarcinoma,7.5,4.61,0.910,Positive
+INDI 478,INDI 478 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.43,0.893,Positive
+INDI 479,INDI 479 PLS 1,III,Invasive ductal adenocarcinoma,7.5,1.67,0.789,Negative
+INDI 480,INDI 480 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.63,0.789,Negative
+INDI 482,INDI 482 PLS 1,II,Hepatocellular carcinoma,7.5,63.26,0.999,Positive
+INDI 483,INDI 483 PLS 1,II,Adenocarcinoma,7.5,3.67,0.544,Negative
+INDI 484,INDI 484 PLS 1,II,Adenocarcinoma,7.5,5.56,0.346,Negative
+INDI 485,INDI 485 PLS 1,III,Adenocarcinoma,7.5,9.58,0.585,Negative
+INDI 487,INDI 487 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.30,0.106,Negative
+INDI 488,INDI 488 PLS 1,III,Invasive lobular carcinoma,7.5,9.97,0.654,Negative
+INDI 489,INDI 489 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.09,0.895,Positive
+INDI 490,INDI 490 PLS 1,III,Invasive ductal adenocarcinoma,7.5,8.63,1.000,Positive
+INDI 491,INDI 491 PLS 1,I,Non-small cell lung cancer,7.5,5.99,0.875,Negative
+INDI 492,INDI 492 PLS 1,I,Non-small cell lung cancer,7.5,2.70,0.530,Negative
+INDI 493,INDI 493 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.96,0.065,Negative
+INDI 494,INDI 494 PLS 1,III,Non-small cell lung cancer,7.5,4.62,1.000,Positive
+INDI 495,INDI 495 PLS 1,I,Non-small cell lung cancer,7.5,4.81,0.172,Negative
+INDI 497,INDI 497 PLS 1,II,Small cell,7.5,3.07,0.370,Negative
+INDI 498,INDI 498 PLS 1,II,Adenocarcinoma,7,4.41,0.887,Negative
+INDI 499,INDI 499 PLS 1,I,Non-small cell lung cancer,7.5,6.84,0.969,Positive
+INDI 501,INDI 501 PLS 1,III,Adenocarcinoma,7.5,4.87,0.274,Negative
+INDI 502,INDI 502 PLS 1,III,Adenocarcinoma,7.5,7.58,0.890,Negative
+INDI 503,INDI 503 PLS 1,I,Non-small cell lung cancer,7.5,3.60,0.962,Positive
+INDI 504,INDI 504 PLS 1,III,Invasive ductal adenocarcinoma,7.5,3.70,0.295,Negative
+INDI 505,INDI 505 PLS 1,II,Non-small cell lung cancer,7.5,34.64,1.000,Positive
+INDI 506,INDI 506 PLS 1,I,Adenocarcinoma,7.5,25.63,0.925,Positive
+INDI 507,INDI 507 PLS 1,II,Non-small cell lung cancer,7.5,2.75,0.991,Positive
+INDI 508,INDI 508 PLS 1,III,Adenocarcinoma,6,8.18,0.218,Negative
+INDI 511,INDI 511 PLS 1,III,Adenocarcinoma,7.5,4.19,0.988,Positive
+INDI 512,INDI 512 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.24,0.538,Negative
+INDI 513,INDI 513 PLS 1,I,Non-small cell lung cancer,7.5,7.83,0.509,Negative
+INDI 514,INDI 514 PLS 1,I,Adenocarcinoma,7.5,6.42,1.000,Positive
+INDI 515,INDI 515 PLS 1,III,Adenocarcinoma,7.5,15.27,0.993,Positive
+INDI 516,INDI 516 PLS 1,II,Adenocarcinoma,7.5,11.81,1.000,Positive
+INDI 517,INDI 517 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.81,0.353,Negative
+INDI 518,INDI 518 PLS 1,III,Adenocarcinoma,7.5,9.71,1.000,Positive
+INDI 519,INDI 519 PLS 1,I,Non-small cell lung cancer,7.5,8.63,0.952,Positive
+INDI 521,INDI 521 PLS 1,II,Adenocarcinoma,7.5,16.52,0.999,Positive
+INDI 522,INDI 522 PLS 1,I,Non-small cell lung cancer,7.5,9.02,0.294,Negative
+INDI 523,INDI 523 PLS 1,I,Adenocarcinoma,7.5,11.24,0.989,Positive
+INDI 524,INDI 524 PLS 1,III,Non-small cell lung cancer,7.5,0.15,0.911,Positive
+INDI 525,INDI 525 PLS 1,I,Adenocarcinoma,7.5,31.87,0.975,Positive
+INDI 526,INDI 526 PLS 1,III,Adenocarcinoma,7.5,2.93,1.000,Positive
+INDI 527,INDI 527 PLS 1,III,Adenocarcinoma,7.5,5.83,0.885,Negative
+INDI 528,INDI 528 PLS 1,II,Adenocarcinoma,7.5,4.58,1.000,Positive
+INDI 529,INDI 529 PLS 1,I,Adenocarcinoma,7.5,4.86,0.533,Negative
+INDI 530,INDI 530 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.31,0.269,Negative
+INDI 532,INDI 532 PLS 1,I,Non-small cell lung cancer,7.5,2.94,0.662,Negative
+INDI 533,INDI 533 PLS 1,II,Adenocarcinoma,7.5,4.15,0.830,Negative
+INDI 534,INDI 534 PLS 1,III,Adenocarcinoma,7.5,3.20,0.652,Negative
+INDI 535,INDI 535 PLS 1,I,Non-small cell lung cancer,7.5,6.67,0.998,Positive
+INDI 537,INDI 537 PLS 1,I,Epithelial carcinoma,7.5,15.56,0.988,Positive
+INDI 538,INDI 538 PLS 1,III,Non-small cell lung cancer,7.5,2.10,0.967,Positive
+INDI 539,INDI 539 PLS 1,II,Adenocarcinoma,7.5,8.83,1.000,Positive
+INDI 540,INDI 540 PLS 1,II,Invasive ductal adenocarcinoma,7.5,8.78,0.274,Negative
+INDI 541,INDI 541 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.10,0.386,Negative
+INDI 544,INDI 544 PLS 1,III,Adenocarcinoma,7.5,2.48,0.196,Negative
+INDI 545,INDI 545 PLS 1,I,Non-small cell lung cancer,7.5,7.66,0.899,Positive
+INDI 546,INDI 546 PLS 1,II,Non-small cell lung cancer,7.5,9.32,0.624,Negative
+INDI 547,INDI 547 PLS 1,III,Adenocarcinoma,7.5,5.11,0.523,Negative
+INDI 548,INDI 548 PLS 1,II,Invasive ductal adenocarcinoma,7.5,9.74,0.626,Negative
+INDI 549,INDI 549 PLS 1,III,Non-small cell lung cancer,7.5,6.09,0.955,Positive
+INDI 550,INDI 550 PLS 1,III,Non-small cell lung cancer,7.5,3.43,0.324,Negative
+INDI 551,INDI 551 PLS 1,II,Adenocarcinoma,7.5,6.37,0.794,Negative
+INDI 555,INDI 555 PLS 1,II,Adenocarcinoma,7.5,1.44,0.999,Positive
+INDI 558,INDI 558 PLS 1,I,Adenocarcinoma,7.5,8.45,0.957,Positive
+INDI 559,INDI 559 PLS 1,III,Invasive lobular carcinoma,7.5,32.11,0.919,Positive
+INDI 560,INDI 560 PLS 1,I,Adenocarcinoma,7.5,6.36,0.662,Negative
+INDI 561,INDI 561 PLS 1,III,Invasive ductal adenocarcinoma,7.5,4.60,0.935,Positive
+INDI 562,INDI 562 PLS 1,I,Adenocarcinoma,7.5,32.71,1.000,Positive
+INDI 564,INDI 564 PLS 1,I,Adenocarcinoma,7.5,4.17,0.768,Negative
+INDI 565,INDI 565 PLS 1,III,Invasive ductal adenocarcinoma,7.5,4.43,0.768,Negative
+INDI 566,INDI 566 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.30,0.203,Negative
+INDI 567,INDI 567 PLS 1,II,Adenocarcinoma,7.5,3.64,1.000,Positive
+INDI 568,INDI 568 PLS 1,II,Invasive carcinoma (NOS),7.5,3.67,0.135,Negative
+INDI 569,INDI 569 PLS 1,III,Invasive lobular carcinoma,7.5,6.83,0.417,Negative
+INDI 570,INDI 570 PLS 1,II,Adenocarcinoma,7.5,7.65,0.999,Positive
+INDI 571,INDI 571 PLS 1,III,Invasive ductal adenocarcinoma,7.5,4.55,0.198,Negative
+INDI 572,INDI 572 PLS 1,II,Adenocarcinoma,7.5,12.78,0.843,Negative
+INDI 573,INDI 573 PLS 1,I,Adenocarcinoma,7.5,2.80,0.370,Negative
+INDI 574,INDI 574 PLS 1,III,Adenocarcinoma,7.5,3.20,0.900,Positive
+INDI 575,INDI 575 PLS 1,II,Invasive lobular carcinoma,7.5,11.69,0.865,Negative
+INDI 577,INDI 577 PLS 1,I,Invasive ductal adenocarcinoma,7.5,4.14,0.357,Negative
+INDI 578,INDI 578 PLS 1,I,Invasive ductal adenocarcinoma,7.5,4.61,0.666,Negative
+INDI 579,INDI 579 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.43,0.973,Positive
+INDI 581,INDI 581 PLS 1,II,Adenocarcinoma,7.5,6.91,1.000,Positive
+INDI 582,INDI 582 PLS 1,II,Adenocarcinoma,7.5,23.49,1.000,Positive
+INDI 583,INDI 583 PLS 1,II,Adenocarcinoma,7.5,7.26,0.989,Positive
+INDI 584,INDI 584 PLS 1,II,Adenocarcinoma,7.5,6.62,0.977,Positive
+INDI 585,INDI 585 PLS 1,III,Squamous cell carcinoma,7.5,14.36,1.000,Positive
+INDI 586,INDI 586 PLS 1,III,Hepatocellular carcinoma,7.5,78.17,1.000,Positive
+INDI 587,INDI 587 PLS 1,II,Adenocarcinoma,7.5,8.07,0.971,Positive
+INDI 588,INDI 588 PLS 1,III,Invasive ductal adenocarcinoma,7.5,8.00,0.259,Negative
+INDI 589,INDI 589 PLS 1,II,Invasive ductal adenocarcinoma,7.5,10.46,0.237,Negative
+INDI 591,INDI 591 PLS 1,II,Adenocarcinoma,7.5,10.73,1.000,Positive
+INDI 592,INDI 592 PLS 1,II,Invasive ductal adenocarcinoma,7.5,10.67,0.319,Negative
+INDI 593,INDI 593 PLS 1,II,Invasive ductal adenocarcinoma,7.5,12.94,0.988,Positive
+INDI 594,INDI 594 PLS 1,III,Adenocarcinoma,7.5,41.18,0.976,Positive
+INDI 595,INDI 595 PLS 1,II,Squamous cell carcinoma,7.5,22.74,1.000,Positive
+INDI 596,INDI 596 PLS 1,III,Invasive ductal adenocarcinoma,7.5,4.47,0.314,Negative
+INDI 597,INDI 597 PLS 1,II,Invasive ductal adenocarcinoma,7.5,19.59,0.748,Negative
+INDI 598,INDI 598 PLS 1,II,Adenocarcinoma,7.5,7.18,0.991,Positive
+INDI 599,INDI 599 PLS 1,II,Adenocarcinoma,7.5,2.62,0.997,Positive
+INDI 600,INDI 600 PLS 1,II,Adenocarcinoma,7.5,11.91,0.516,Negative
+INDI 601,INDI 601 PLS 1,III,Invasive ductal adenocarcinoma,7.5,15.18,1.000,Positive
+INDI 602,INDI 602 PLS 1,II,Adenocarcinoma,7.5,3.35,0.999,Positive
+INDI 603,INDI 603 PLS 1,III,Invasive ductal adenocarcinoma,7.5,7.75,0.824,Negative
+INDI 604,INDI 604 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.97,0.553,Negative
+INDI 605,INDI 605 PLS 1,II,Adenocarcinoma,7.5,14.92,0.994,Positive
+INDI 606,INDI 606 PLS 1,II,Invasive ductal adenocarcinoma,7.5,12.92,0.887,Negative
+INDI 607,INDI 607 PLS 1,II,Invasive ductal adenocarcinoma,7.5,6.54,0.420,Negative
+INDI 608,INDI 608 PLS 1,II,Adenocarcinoma,7.5,11.00,0.999,Positive
+INDI 609,INDI 609 PLS 1,II,Adenocarcinoma,7.5,2.81,1.000,Positive
+INDI 610,INDI 610 PLS 1,II,Adenocarcinoma,7.5,0.99,1.000,Positive
+INDI 611,INDI 611 PLS 1,II,Adenocarcinoma,7.5,6.21,0.991,Positive
+INDI 612,INDI 612 PLS 1,II,Adenocarcinoma,7.5,7.44,0.998,Positive
+INDI 613,INDI 613 PLS 1,II,Invasive lobular carcinoma,7.5,7.56,1.000,Positive
+INDI 614,INDI 614 PLS 1,II,Adenocarcinoma,7.5,21.63,1.000,Positive
+INDI 615,INDI 615 PLS 1,II,Adenocarcinoma,7.5,7.18,0.996,Positive
+INDI 617,INDI 617 PLS 1,III,Adenocarcinoma,7.5,1.57,0.992,Positive
+INDI 618,INDI 618 PLS 1,III,Adenocarcinoma,7.5,20.27,0.999,Positive
+INDI 619,INDI 619 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.96,0.131,Negative
+INDI 620,INDI 620 PLS 1,II,Adenocarcinoma,7.5,2.84,0.999,Positive
+INDI 621,INDI 621 PLS 1,II,Adenocarcinoma,7.5,0.75,0.361,Negative
+INDI 622,INDI 622 PLS 1,III,Hepatocellular carcinoma,7.5,85.94,1.000,Positive
+INDI 623,INDI 623 PLS 1,III,Invasive ductal adenocarcinoma,7.5,6.71,1.000,Positive
+INDI 624,INDI 624 PLS 1,II,Adenocarcinoma,7.5,4.17,1.000,Positive
+INDI 625,INDI 625 PLS 1,II,Adenocarcinoma,7.5,2.73,1.000,Positive
+INDI 626,INDI 626 PLS 1,II,Adenocarcinoma,7.5,11.58,1.000,Positive
+INDI 627,INDI 627 PLS 1,II,Invasive ductal adenocarcinoma,5.66,9.07,0.998,Positive
+INDI 628,INDI 628 PLS 1,II,Adenocarcinoma,5.5,6.27,0.970,Positive
+INDI 629,INDI 629 PLS 1,I,Invasive ductal adenocarcinoma,7.26,6.14,0.991,Positive
+INDI 630,INDI 630 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.63,1.000,Positive
+INDI 631,INDI 631 PLS 1,II,Adenocarcinoma,5.5,13.47,0.997,Positive
+INDI 632,INDI 632 PLS 1,II,Adenocarcinoma,6.52,27.01,1.000,Positive
+INDI 633,INDI 633 PLS 1,II,Adenocarcinoma,7.5,3.87,1.000,Positive
+INDI 635,INDI 635 PLS 1,II,Adenocarcinoma,6,5.70,0.999,Positive
+INDI 636,INDI 636 PLS 1,III,Hepatocellular carcinoma,7.5,27.51,1.000,Positive
+INDI 637,INDI 637 PLS 1,III,Invasive ductal adenocarcinoma,7.5,5.95,0.999,Positive
+INDI 638,INDI 638 PLS 1,I,Invasive ductal adenocarcinoma,7.5,2.81,0.999,Positive
+INDI 639,INDI 639 PLS 1,II,Hepatocellular carcinoma,7.5,18.63,1.000,Positive
+INDI 640,INDI 640 PLS 1,II,Adenocarcinoma,7.5,5.17,0.998,Positive
+INDI 641,INDI 641 PLS 1,III,Invasive lobular carcinoma,7.18,7.46,0.979,Positive
+INDI 643,INDI 643 PLS 1,II,Adenocarcinoma,5,4.63,1.000,Positive
+INDI 644,INDI 644 PLS 1,I,Adenocarcinoma,6,16.82,0.947,Positive
+INDI 645,INDI 645 PLS 1,III,Hepatocellular carcinoma,7.5,27.37,1.000,Positive
+INDI 646,INDI 646 PLS 1,II,Invasive lobular carcinoma,7.5,3.10,0.312,Negative
+INDI 647,INDI 647 PLS 1,III,Adenocarcinoma,7.5,0.11,1.000,Positive
+INDI 648,INDI 648 PLS 1,III,Adenocarcinoma,7.5,1.21,1.000,Positive
+INDI 649,INDI 649 PLS 1,III,Adenocarcinoma,7.5,0.39,0.992,Positive
+INDI 650,INDI 650 PLS 1,III,Adenocarcinoma,7.5,1.75,0.735,Negative
+INDI 651,INDI 651 PLS 1,III,Adenocarcinoma,3,0.30,0.460,Negative
+INDI 654,INDI 654 PLS 1,II,Adenocarcinoma,7.5,1.08,0.854,Negative
+INDI 655,INDI 655 PLS 1,II,Adenocarcinoma,7.5,2.01,0.773,Negative
+INDI 656,INDI 656 PLS 1,III,Invasive ductal adenocarcinoma,7.5,5.28,0.337,Negative
+INDI 657,INDI 657 PLS 1,II,Adenocarcinoma,7.5,0.28,1.000,Positive
+INDI 658,INDI 658 PLS 1,I,Adenocarcinoma,7.5,1.11,0.929,Positive
+INDI 659,INDI 659 PLS 1,II,Invasive ductal adenocarcinoma,7.5,8.16,0.270,Negative
+INDI 660,INDI 660 PLS 1,II,Adenocarcinoma,7.5,6.91,0.626,Negative
+INDI 661,INDI 661 PLS 1,III,Cholangiocarcinoma,7.5,88.95,0.971,Positive
+INDI 662,INDI 662 PLS 1,I,Invasive ductal adenocarcinoma,7.5,6.21,0.310,Negative
+INDI 663,INDI 663 PLS 1,II,Squamous cell carcinoma,7.5,29.39,1.000,Positive
+INDI 664,INDI 664 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.55,0.984,Positive
+INDI 665,INDI 665 PLS 1,III,Adenocarcinoma,7.5,14.81,1.000,Positive
+INDI 666,INDI 666 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.52,0.406,Negative
+INDI 667,INDI 667 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.60,0.123,Negative
+INDI 668,INDI 668 PLS 1,III,Invasive lobular carcinoma,7.5,5.33,0.992,Positive
+INDI 669,INDI 669 PLS 1,III,Hepatocellular carcinoma,7.5,91.32,0.999,Positive
+INDI 670,INDI 670 PLS 1,III,Adenocarcinoma,7.5,2.88,1.000,Positive
+INDI 671,INDI 671 PLS 1,I,Non-small cell lung cancer,7.5,2.63,1.000,Positive
+INDI 672,INDI 672 PLS 1,II,Invasive lobular carcinoma,7.5,1.41,0.124,Negative
+INDI 673,INDI 673 PLS 1,II,Invasive lobular carcinoma,7.5,3.75,1.000,Positive
+INDI 674,INDI 674 PLS 1,I,Non-small cell lung cancer,7.5,3.31,0.292,Negative
+INDI 675,INDI 675 PLS 1,III,Adenocarcinoma,7.5,4.11,1.000,Positive
+INDI 677,INDI 677 PLS 1,II,Adenocarcinoma,7.5,1.88,0.463,Negative
+INDI 678,INDI 678 PLS 1,III,Adenocarcinoma,7.5,2.03,1.000,Positive
+INDI 679,INDI 679 PLS 1,II,Adenocarcinoma,7.5,0.87,0.130,Negative
+INDI 681,INDI 681 PLS 1,II,Non-small cell lung cancer,7.5,3.34,0.538,Negative
+INDI 682,INDI 682 PLS 1,III,Adenocarcinoma,7.5,1.95,0.926,Positive
+INDI 683,INDI 683 PLS 1,II,Adenocarcinoma,7.5,2.33,0.691,Negative
+INDI 684,INDI 684 PLS 1,III,Hepatocellular carcinoma,7.5,4.11,0.457,Negative
+INDI 685,INDI 685 PLS 1,III,Adenocarcinoma,7.5,1.59,0.220,Negative
+INDI 686,INDI 686 PLS 1,II,Adenocarcinoma,7.5,12.55,1.000,Positive
+INDI 687,INDI 687 PLS 1,III,Non-small cell lung cancer,7.5,11.57,1.000,Positive
+INDI 688,INDI 688 PLS 1,II,Adenocarcinoma,7.5,3.54,0.996,Positive
+INDI 690,INDI 690 PLS 1,III,Non-small cell lung cancer,7.5,4.42,0.644,Negative
+INDI 691,INDI 691 PLS 1,I,Non-small cell lung cancer,7.5,6.03,0.335,Negative
+INDI 692,INDI 692 PLS 1,III,Adenocarcinoma,7.5,3.61,0.999,Positive
+INDI 693,INDI 693 PLS 1,III,Non-small cell lung cancer,7.5,8.08,1.000,Positive
+INDI 694,INDI 694 PLS 1,I,Non-small cell lung cancer,7.5,3.26,0.668,Negative
+INDI 695,INDI 695 PLS 1,II,Adenocarcinoma,7.5,7.79,0.463,Negative
+INDI 696,INDI 696 PLS 1,II,Non-small cell lung cancer,7.5,1.71,0.998,Positive
+INDI 697,INDI 697 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.86,0.998,Positive
+INDI 698,INDI 698 PLS 1,III,Epithelial carcinoma,7.5,0.94,1.000,Positive
+INDI 699,INDI 699 PLS 1,II,Adenocarcinoma,7.5,3.47,1.000,Positive
+INDI 700,INDI 700 PLS 1,III,Non-small cell lung cancer,7.5,4.48,1.000,Positive
+INDI 701,INDI 701 PLS 1,II,Adenocarcinoma,7.5,1.54,0.988,Positive
+INDI 702,INDI 702 PLS 1,II,Non-small cell lung cancer,7.5,22.55,1.000,Positive
+INDI 703,INDI 703 PLS 1,I,Non-small cell lung cancer,7.5,2.98,0.730,Negative
+INDI 704,INDI 704 PLS 1,II,Invasive ductal adenocarcinoma,7.5,1.94,0.578,Negative
+INDI 706,INDI 706 PLS 1,I,Non-small cell lung cancer,7.5,2.69,1.000,Positive
+INDI 708,INDI 708 PLS 1,III,Adenocarcinoma,7.5,7.20,1.000,Positive
+INDI 709,INDI 709 PLS 1,II,Adenocarcinoma,7.5,1.71,0.970,Positive
+INDI 710,INDI 710 PLS 1,III,Adenocarcinoma,7.5,4.72,1.000,Positive
+INDI 711,INDI 711 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.28,0.999,Positive
+INDI 712,INDI 712 PLS 1,I,Invasive ductal adenocarcinoma,7.5,4.45,0.452,Negative
+INDI 713,INDI 713 PLS 1,II,Invasive ductal adenocarcinoma,7.5,6.30,0.393,Negative
+INDI 714,INDI 714 PLS 1,III,Invasive lobular carcinoma,7.5,3.29,0.984,Positive
+INDI 715,INDI 715 PLS 1,III,Invasive ductal adenocarcinoma,7.5,11.42,1.000,Positive
+INDI 716,INDI 716 PLS 1,III,Adenocarcinoma,7.5,5.36,0.966,Positive
+INDI 717,INDI 717 PLS 1,I,Invasive lobular carcinoma,7.5,2.38,0.671,Negative
+INDI 718,INDI 718 PLS 1,II,Adenocarcinoma,7.5,3.33,0.864,Negative
+INDI 720,INDI 720 PLS 1,III,Adenocarcinoma,7.5,4.49,0.786,Negative
+INDI 721,INDI 721 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.84,0.802,Negative
+INDI 722,INDI 722 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.73,0.499,Negative
+INDI 723,INDI 723 PLS 1,III,Epithelial carcinoma,7.5,2.80,1.000,Positive
+INDI 724,INDI 724 PLS 1,II,Adenocarcinoma,7.5,5.51,0.254,Negative
+INDI 725,INDI 725 PLS 1,II,Adenocarcinoma,7.5,1.64,0.920,Positive
+INDI 726,INDI 726 PLS 1,I,Adenocarcinoma,7.5,5.49,0.347,Negative
+INDI 729,INDI 729 PLS 1,II,Adenocarcinoma,7.5,3.51,0.681,Negative
+INDI 731,INDI 731 PLS 1,II,Adenocarcinoma,7.5,1.84,0.904,Positive
+INDI 732,INDI 732 PLS 1,III,Adenocarcinoma,7.5,2.84,0.462,Negative
+INDI 734,INDI 734 PLS 1,II,Adenocarcinoma,7.5,6.23,0.987,Positive
+INDI 735,INDI 735 PLS 1,II,Adenocarcinoma,7.5,2.61,1.000,Positive
+INDI 736,INDI 736 PLS 1,III,Non-small cell lung cancer,7.5,4.85,0.999,Positive
+INDI 737,INDI 737 PLS 1,I,Adenocarcinoma,7.5,5.34,0.990,Positive
+INDI 740,INDI 740 PLS 1,II,Adenocarcinoma,7.5,13.15,1.000,Positive
+INDI 741,INDI 741 PLS 1,III,Adenocarcinoma,7.5,21.92,1.000,Positive
+INDI 742,INDI 742 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.70,1.000,Positive
+INDI 743,INDI 743 PLS 1,II,Adenocarcinoma,7.5,3.45,0.113,Negative
+INDI 745,INDI 745 PLS 1,II,Adenocarcinoma,7.5,11.79,0.995,Positive
+INDI 746,INDI 746 PLS 1,III,Adenocarcinoma,7.5,27.04,0.981,Positive
+INDI 747,INDI 747 PLS 1,III,Adenocarcinoma,7.5,4.74,0.934,Positive
+INDI 749,INDI 749 PLS 1,III,Adenocarcinoma,7.5,3.11,0.873,Negative
+INDI 750,INDI 750 PLS 1,III,Adenocarcinoma,7.5,0.79,1.000,Positive
+INDI 751,INDI 751 PLS 1,III,Adenocarcinoma,2,1.70,0.986,Positive
+INDI 752,INDI 752 PLS 1,III,Adenocarcinoma,7.5,7.33,0.986,Positive
+INDI 753,INDI 753 PLS 1,III,Squamous cell carcinoma,7.5,8.37,1.000,Positive
+INDI 754,INDI 754 PLS 1,III,Invasive ductal adenocarcinoma,7.5,2.75,0.163,Negative
+INDI 755,INDI 755 PLS 1,III,Squamous cell carcinoma,7.5,12.96,0.983,Positive
+INDI 756,INDI 756 PLS 1,II,Invasive ductal adenocarcinoma,7.5,10.17,0.672,Negative
+INDI 757,INDI 757 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.31,0.126,Negative
+INDI 758,INDI 758 PLS 1,II,Adenocarcinoma,7.5,7.15,0.974,Positive
+INDI 759,INDI 759 PLS 1,III,Invasive ductal adenocarcinoma,7.5,7.72,0.220,Negative
+INDI 760,INDI 760 PLS 1,III,Hepatocellular carcinoma,7.5,101.29,1.000,Positive
+INDI 761,INDI 761 PLS 1,II,Adenocarcinoma,7.5,11.84,0.983,Positive
+INDI 762,INDI 762 PLS 1,II,Adenocarcinoma,7.5,5.18,0.225,Negative
+INDI 763,INDI 763 PLS 1,I,Adenocarcinoma,7.5,4.48,0.757,Negative
+INDI 764,INDI 764 PLS 1,II,Adenocarcinoma,7.5,1.44,1.000,Positive
+INDI 765,INDI 765 PLS 1,I,Adenocarcinoma,7.5,33.07,1.000,Positive
+INDI 766,INDI 766 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.86,0.205,Negative
+INDI 767,INDI 767 PLS 1,II,Adenocarcinoma,7.5,1.12,1.000,Positive
+INDI 768,INDI 768 PLS 1,II,Adenocarcinoma,7.5,4.62,0.996,Positive
+INDI 769,INDI 769 PLS 1,II,Adenocarcinoma,7.5,1.51,0.996,Positive
+INDI 770,INDI 770 PLS 1,II,Adenocarcinoma,7.5,5.95,1.000,Positive
+INDI 771,INDI 771 PLS 1,II,Hepatocellular carcinoma,7.5,23.39,1.000,Positive
+INDI 772,INDI 772 PLS 1,II,Adenocarcinoma,7.5,1.89,1.000,Positive
+INDI 773,INDI 773 PLS 1,II,Adenocarcinoma,7.5,2.86,0.991,Positive
+INDI 774,INDI 774 PLS 1,I,Adenocarcinoma,7.5,1.14,1.000,Positive
+INDI 775,INDI 775 PLS 1,II,Hepatocellular carcinoma,7.5,105.74,1.000,Positive
+INDI 776,INDI 776 PLS 1,II,Squamous cell carcinoma,7.5,10.35,0.997,Positive
+INDI 777,INDI 777 PLS 1,II,Adenocarcinoma,7.5,23.48,1.000,Positive
+INDI 778,INDI 778 PLS 1,II,Hepatocellular carcinoma,7.5,16.38,1.000,Positive
+INDI 779,INDI 779 PLS 1,II,Adenocarcinoma,7.5,1.88,1.000,Positive
+INDI 780,INDI 780 PLS 1,II,Adenocarcinoma,7.5,1.78,1.000,Positive
+INDI 781,INDI 781 PLS 1,II,Adenocarcinoma,7.5,0.85,0.983,Positive
+INDI 782,INDI 782 PLS 1,III,Adenocarcinoma,7.5,15.27,1.000,Positive
+INDI 783,INDI 783 PLS 1,III,Adenocarcinoma,7.5,12.35,0.778,Negative
+INDI 784,INDI 784 PLS 1,I,Adenocarcinoma,7.5,10.44,0.981,Positive
+INDI 785,INDI 785 PLS 1,I,Adenocarcinoma,7.5,5.62,0.199,Negative
+INDI 786,INDI 786 PLS 1,I,Hepatocellular carcinoma,7.5,3.23,1.000,Positive
+INDI 787,INDI 787 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.28,0.131,Negative
+INDI 788,INDI 788 PLS 1,II,Adenocarcinoma,7.5,9.94,0.981,Positive
+INDI 789,INDI 789 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.96,0.244,Negative
+INDI 790,INDI 790 PLS 1,II,Invasive lobular carcinoma,7.5,1.57,0.977,Positive
+INDI 791,INDI 791 PLS 1,III,Invasive ductal adenocarcinoma,7.5,1.88,0.239,Negative
+INDI 792,INDI 792 PLS 1,I,Adenocarcinoma,7.5,8.98,0.388,Negative
+INDI 793,INDI 793 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.67,0.825,Negative
+INDI 794,INDI 794 PLS 1,II,Invasive ductal adenocarcinoma,7.5,5.64,0.571,Negative
+INDI 795,INDI 795 PLS 1,II,Invasive ductal adenocarcinoma,7.5,3.30,0.644,Negative
+INDI 797,INDI 797 PLS 1,II,Adenocarcinoma,7.5,5.15,0.999,Positive
+INDI 798,INDI 798 PLS 1,II,Epithelial carcinoma,7.5,22.29,1.000,Positive
+INDI 799,INDI 799 PLS 1,II,Adenocarcinoma,7.5,5.36,0.262,Negative
+INDI 800,INDI 800 PLS 1,II,Hepatocellular carcinoma,7.5,3.60,1.000,Positive
+INDI 801,INDI 801 PLS 1,I,Adenocarcinoma,7.5,10.75,0.299,Negative
+INDI 802,INDI 802 PLS 1,II,Adenocarcinoma,7.5,15.09,0.996,Positive
+INDI 803,INDI 803 PLS 1,II,Adenocarcinoma,7.5,2.87,0.866,Negative
+INDI 805,INDI 805 PLS 1,II,Adenocarcinoma,7.5,6.65,0.469,Negative
+INDI 806,INDI 806 PLS 1,II,Adenocarcinoma,7.5,4.68,0.992,Positive
+INDI 808,INDI 808 PLS 1,III,Adenocarcinoma,7.5,16.77,0.824,Negative
+INDI 809,INDI 809 PLS 1,III,Adenocarcinoma,7.5,4.16,0.137,Negative
+INDI 812,INDI 812 PLS 1,II,Epithelial carcinoma,7.5,3.11,1.000,Positive
+INDI 814,INDI 814 PLS 1,I,Adenocarcinoma,7.5,4.26,0.996,Positive
+INDI 815,INDI 815 PLS 1,II,Adenocarcinoma,7.5,8.53,1.000,Positive
+INDI 816,INDI 816 PLS 1,II,Adenocarcinoma,7.5,4.72,0.115,Negative
+INDI 817,INDI 817 PLS 1,III,Hepatocellular carcinoma,7.5,11.67,1.000,Positive
+INDI 818,INDI 818 PLS 1,III,Epithelial carcinoma,7.5,6.53,1.000,Positive
+INDI 819,INDI 819 PLS 1,III,Invasive lobular carcinoma,7.5,1.52,1.000,Positive
+INDI 821,INDI 821 PLS 1,III,Adenocarcinoma,7.5,1.69,0.974,Positive
+INDI 822,INDI 822 PLS 1,II,Adenocarcinoma,7.5,6.72,0.304,Negative
+INDI 823,INDI 823 PLS 1,II,Invasive ductal adenocarcinoma,7.5,5.00,0.295,Negative
+INDI 824,INDI 824 PLS 1,II,Adenocarcinoma,7.5,9.40,1.000,Positive
+INDI 825,INDI 825 PLS 1,III,Adenocarcinoma,7.5,4.98,0.324,Negative
+INDI 826,INDI 826 PLS 1,II,Adenocarcinoma,7.5,3.25,0.963,Positive
+INDI 827,INDI 827 PLS 1,III,Adenocarcinoma,7.5,3.01,0.991,Positive
+INDI 828,INDI 828 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.03,0.233,Negative
+INDI 829,INDI 829 PLS 1,III,Adenocarcinoma,7.5,4.98,0.218,Negative
+INDI 830,INDI 830 PLS 0,II,Invasive ductal adenocarcinoma,7.5,7.99,0.776,Negative
+INDI 831,INDI 831 PLS 1,I,Invasive ductal adenocarcinoma,7.5,11.33,0.463,Negative
+INDI 832,INDI 832 PLS 1,II,Invasive lobular carcinoma,7.5,9.29,0.658,Negative
+INDI 833,INDI 833 PLS 1,I,Invasive ductal adenocarcinoma,7.5,5.36,1.000,Positive
+INDI 835,INDI 835 PLS 1,III,Adenocarcinoma,7.5,2.80,0.998,Positive
+INDI 837,INDI 837 PLS 1,II,Adenocarcinoma,7.5,6.63,0.487,Negative
+INDI 838,INDI 838 PLS 1,III,Adenocarcinoma,7.5,4.20,0.989,Positive
+INDI 839,INDI 839 PLS 1,II,Invasive lobular carcinoma,7.5,3.74,0.239,Negative
+INDI 840,INDI 840 PLS 0,II,Invasive ductal adenocarcinoma,7.5,6.27,0.232,Negative
+INDI 841,INDI 841 PLS 1,III,Adenocarcinoma,7.5,7.97,1.000,Positive
+INDI 842,INDI 842 PLS 1,I,Invasive ductal adenocarcinoma,7.5,3.46,0.566,Negative
+INDI 843,INDI 843 PLS 1,I,Squamous cell carcinoma,7.5,5.09,0.064,Negative
+INDI 844,INDI 844 PLS 1,I,Adenocarcinoma,7.5,3.52,0.912,Positive
+INDI 846,INDI 846 PLS 1,II,Adenocarcinoma,7.5,1.84,1.000,Positive
+INDI 847,INDI 847 PLS 1,III,Hepatocellular carcinoma,7.5,113.59,0.943,Positive
+INDI 848,INDI 848 PLS 1,II,Adenocarcinoma,7.5,1.68,0.745,Negative
+INDI 849,INDI 849 PLS 1,II,Adenocarcinoma,7.5,1.30,0.583,Negative
+INDI 850,INDI 850 PLS 1,II,Squamous cell carcinoma,7.5,8.01,1.000,Positive
+INDI 853,INDI 853 PLS 1,II,Squamous cell carcinoma,7.5,49.44,0.959,Positive
+INDI 854,INDI 854 PLS 1,II,Adenocarcinoma,7.5,1.03,0.985,Positive
+INDI 855,INDI 855 PLS 1,II,Adenocarcinoma,7.5,9.62,1.000,Positive
+INDI 856,INDI 856 PLS 1,III,Invasive ductal adenocarcinoma,7.5,5.72,0.211,Negative
+INDI 857,INDI 857 PLS 1,III,Invasive ductal adenocarcinoma,7.5,6.54,0.473,Negative
+INDI 858,INDI 858 PLS 1,I,Invasive ductal adenocarcinoma,7.5,6.21,0.551,Negative
+INDI 859,INDI 859 PLS 1,II,Squamous cell carcinoma,7.5,15.56,0.999,Positive
+INDI 860,INDI 860 PLS 1,I,Invasive ductal adenocarcinoma,7.5,2.77,0.062,Negative
+INDI 861,INDI 861 PLS 1,II,Hepatocellular carcinoma,7.5,49.26,0.998,Positive
+INDI 862,INDI 862 PLS 1,II,Adenocarcinoma,7.5,12.94,0.974,Positive
+INDI 864,INDI 864 PLS 1,III,Hepatocellular carcinoma,7.5,40.15,0.996,Positive
+INDI 865,INDI 865 PLS 1,III,Invasive ductal adenocarcinoma,7.5,3.59,0.436,Negative
+INDI 867,INDI 867 PLS 1,II,Squamous cell carcinoma,7.5,20.52,0.999,Positive
+INDI 868,INDI 868 PLS 1,III,Hepatocellular carcinoma,7.5,79.15,0.995,Positive
+INDI 870,INDI 870 PLS 1,II,Invasive ductal adenocarcinoma,7.5,20.48,0.995,Positive
+INDI 872,INDI 872 PLS 1,III,Invasive ductal adenocarcinoma,7.5,5.17,1.000,Positive
+INDI 873,INDI 873 PLS 1,III,Invasive ductal adenocarcinoma,7.5,8.85,0.155,Negative
+INDI 875,INDI 875 PLS 1,II,Invasive lobular carcinoma,7.5,5.66,0.155,Negative
+INDI 876,INDI 876 PLS 1,II,Invasive ductal adenocarcinoma,7.5,8.23,0.127,Negative
+INDI 877,INDI 877 PLS 1,I,Invasive ductal adenocarcinoma,7.5,37.49,1.000,Positive
+INDI 878,INDI 878 PLS 1,III,Invasive ductal adenocarcinoma,7.5,8.88,0.985,Positive
+INDI 879,INDI 879 PLS 1,II,Invasive ductal adenocarcinoma,7.5,5.37,0.594,Negative
+INDI 880,INDI 880 PLS 1,II,Invasive ductal adenocarcinoma,7.5,72.89,0.965,Positive
+INDI 881,INDI 881 PLS 1,II,Invasive ductal adenocarcinoma,7.5,18.05,0.963,Positive
+INDI 882,INDI 882 PLS 1,II,Invasive ductal adenocarcinoma,7.5,21.10,0.806,Negative
+INDI 883,INDI 883 PLS 1,II,Invasive lobular carcinoma,7.5,11.03,0.568,Negative
+INDI 884,INDI 884 PLS 1,II,Invasive ductal adenocarcinoma,7.5,17.62,1.000,Positive
+INDI 885,INDI 885 PLS 1,II,Invasive ductal adenocarcinoma,7.5,5.89,0.708,Negative
+INDI 886,INDI 886 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.52,0.182,Negative
+INDI 887,INDI 887 PLS 1,III,Metaplastic carcinoma,7.5,20.27,1.000,Positive
+INDI 888,INDI 888 PLS 1,II,Adenocarcinoma,7.5,8.94,1.000,Positive
+INDI 889,INDI 889 PLS 1,II,Adenocarcinoma,7.5,2.44,1.000,Positive
+INDI 892,INDI 892 PLS 1,I,Adenocarcinoma,7.5,4.34,0.554,Negative
+INDI 893,INDI 893 PLS 1,II,Adenocarcinoma,7.5,14.46,0.992,Positive
+INDI 896,INDI 896 PLS 1,I,Non-small cell lung cancer,7.5,3.34,0.994,Positive
+INDI 897,INDI 897 PLS 1,III,Invasive lobular carcinoma,7.5,1.91,0.851,Negative
+INDI 898,INDI 898 PLS 1,I,Invasive lobular carcinoma,7.5,1.21,0.999,Positive
+INDI 899,INDI 899 PLS 1,I,Invasive ductal adenocarcinoma,7.5,4.02,0.250,Negative
+INDI 902,INDI 902 PLS 1,III,Invasive ductal adenocarcinoma,7.5,7.00,1.000,Positive
+INDI 903,INDI 903 PLS 1,I,Invasive lobular carcinoma,7.5,0.56,0.965,Positive
+INDI 905,INDI 905 PLS 1,II,Squamous cell carcinoma,7.5,19.99,1.000,Positive
+INDI 907,INDI 907 PLS 1,II,Squamous cell carcinoma,7.5,18.15,0.823,Negative
+INDI 908,INDI 908 PLS 1,II,Squamous cell carcinoma,7.5,41.43,1.000,Positive
+INDI 909,INDI 909 PLS 1,II,Squamous cell carcinoma,7.5,22.67,0.985,Positive
+INDI 911,INDI 911 PLS 1,II,Squamous cell carcinoma,7.5,12.33,0.973,Positive
+INDI 913,INDI 913 PLS 1,III,Squamous cell carcinoma,7.5,24.11,0.766,Negative
+INDI 915,INDI 915 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.83,0.423,Negative
+INDI 917,INDI 917 PLS 1,III,Hepatocellular carcinoma,7.5,27.49,1.000,Positive
+INDI 919,INDI 919 PLS 1,II,Invasive lobular carcinoma,7.5,5.89,0.712,Negative
+INDI 920,INDI 920 PLS 1,III,Epithelial carcinoma,7.5,4.16,1.000,Positive
+INDI 921,INDI 921 PLS 1,II,Invasive ductal adenocarcinoma,7.5,5.20,0.456,Negative
+INDI 922,INDI 922 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.92,0.260,Negative
+INDI 923,INDI 923 PLS 1,I,Adenocarcinoma,7.5,12.24,0.291,Negative
+INDI 924,INDI 924 PLS 1,III,Invasive lobular carcinoma,7.5,4.69,0.586,Negative
+INDI 926,INDI 926 PLS 1,II,Invasive ductal adenocarcinoma,7.5,4.98,0.418,Negative
+INDI 927,INDI 927 PLS 1,II,Invasive ductal adenocarcinoma,7.5,2.73,0.364,Negative
+INDI 928,INDI 928 PLS 1,II,Adenocarcinoma,7.5,6.23,1.000,Positive
+INDI 929,INDI 929 PLS 1,II,Adenocarcinoma,7.5,15.27,0.593,Negative
+INDI 930,INDI 930 PLS 1,II,Adenocarcinoma,7.5,5.92,0.779,Negative
+INDI 931,INDI 931 PLS 1,III,Epithelial carcinoma,7.5,6.52,0.998,Positive
+INDI 932,INDI 932 PLS 1,III,Epithelial carcinoma,7.5,5.40,1.000,Positive
+INDI 933,INDI 933 PLS 1,III,Adenocarcinoma,7.5,7.05,0.402,Negative
+INDI 935,INDI 935 PLS 1,I,Adenocarcinoma,7,9.06,0.623,Negative
+INDI 936,INDI 936 PLS 1,I,Epithelial carcinoma,7.5,8.81,0.489,Negative
+INDI 937,INDI 937 PLS 1,III,Adenocarcinoma,7.5,8.18,0.567,Negative
+†LCR 588,LCR 588 PLS1,NA,NA,7.5,7.34,0.234,Negative
+†LCR 589,LCR 589 PLS1,NA,NA,7.5,7.48,0.325,Negative
+†LCR 590,LCR 590 PLS1,NA,NA,7.5,8.50,0.335,Negative
+†LCR 591,LCR 591 PLS1,NA,NA,7.5,10.50,0.185,Negative
+†LCR 592,LCR 592 PLS1,NA,NA,7.5,5.04,0.297,Negative
+†LCR 593,LCR 593 PLS1,NA,NA,7.5,11.14,0.400,Negative
+†LCR 594,LCR 594 PLS1,NA,NA,7.5,4.84,0.184,Negative
+†LCR 595,LCR 595 PLS1,NA,NA,7.5,3.73,0.291,Negative
+LCR 596,LCR 596 PLS1,I,Adenocarcinoma,7.5,2.88,0.170,Negative
+†LCR 597,LCR 597 PLS1,NA,NA,7.5,4.77,0.404,Negative
+†LCR 599,LCR 599 PLS1,NA,NA,7.5,3.41,0.383,Negative
+†LCR 600,LCR 600 PLS1,NA,NA,7.5,4.65,0.145,Negative
+†LCR 601,LCR 601 PLS1,NA,NA,7.5,3.19,0.317,Negative
+†LCR 602,LCR 602 PLS1,NA,NA,7.5,9.94,0.127,Negative
+†LCR 603,LCR 603 PLS1,NA,NA,7.5,2.92,0.229,Negative
+†LCR 604,LCR 604 PLS1,NA,NA,7.5,7.73,0.247,Negative
+†LCR 605,LCR 605 PLS1,NA,NA,7.5,5.75,0.339,Negative
+†LCR 606,LCR 606 PLS1,NA,NA,7.5,6.06,0.352,Negative
+†LCR 607,LCR 607 PLS1,NA,NA,7.5,8.85,0.286,Negative
+†LCR 608,LCR 608 PLS1,NA,NA,7.5,3.74,0.262,Negative
+†LCR 610,LCR 610 PLS1,NA,NA,7.5,2.05,0.068,Negative
+†LCR 611,LCR 611 PLS1,NA,NA,7.5,2.71,0.145,Negative
+†LCR 612,LCR 612 PLS1,NA,NA,7.5,4.86,0.116,Negative
+†LCR 613,LCR 613 PLS1,NA,NA,7.5,2.46,0.129,Negative
+†LCR 614,LCR 614 PLS1,NA,NA,7.5,5.18,0.223,Negative
+†LCR 616,LCR 616 PLS1,NA,NA,7.5,9.30,0.162,Negative
+†LCR 617,LCR 617 PLS1,NA,NA,7.5,8.47,0.276,Negative
+†LCR 618,LCR 618 PLS1,NA,NA,7.5,3.18,0.357,Negative
+†LCR 619,LCR 619 PLS1,NA,NA,7.5,5.61,0.068,Negative
+†LCR 620,LCR 620 PLS1,NA,NA,7.5,5.33,0.248,Negative
+†LCR 621,LCR 621 PLS1,NA,NA,7.5,2.80,0.111,Negative
+†LCR 622,LCR 622 PLS1,NA,NA,7.5,16.35,0.282,Negative
+†LCR 623,LCR 623 PLS1,NA,NA,7.5,5.34,0.458,Negative
+†LCR 624,LCR 624 PLS1,NA,NA,7.5,3.81,0.174,Negative
+†LCR 625,LCR 625 PLS1,NA,NA,7.5,17.16,0.347,Negative
+†LCR 626,LCR 626 PLS1,NA,NA,7.5,3.95,0.543,Negative
+†LCR 627,LCR 627 PLS1,NA,NA,7.5,2.76,0.332,Negative
+†LCR 628,LCR 628 PLS1,NA,NA,7.5,2.29,0.071,Negative
+†LCR 629,LCR 629 PLS1,NA,NA,7.5,7.50,0.858,Negative
+†LCR 630,LCR 630 PLS1,NA,NA,7.5,14.32,0.167,Negative
+†LCR 631,LCR 631 PLS1,NA,NA,7.5,3.87,0.216,Negative
+†LCR 632,LCR 632 PLS1,NA,NA,7.5,7.22,0.140,Negative
+†LCR 633,LCR 633 PLS1,NA,NA,7.5,10.48,0.226,Negative
+†LCR 634,LCR 634 PLS1,NA,NA,7.5,5.81,0.062,Negative
+†LCR 635,LCR 635 PLS1,NA,NA,7.5,4.11,0.191,Negative
+†LCR 636,LCR 636 PLS1,NA,NA,7.5,4.08,0.164,Negative
+†LCR 637,LCR 637 PLS1,NA,NA,7.5,2.56,0.064,Negative
+†LCR 638,LCR 638 PLS1,NA,NA,7.5,3.27,0.065,Negative
+†LCR 639,LCR 639 PLS1,NA,NA,7.5,5.42,0.173,Negative
+†LCR 640,LCR 640 PLS1,NA,NA,7.5,9.99,0.228,Negative
+†LCR 641,LCR 641 PLS1,NA,NA,7.5,5.50,0.320,Negative
+†LCR 642,LCR 642 PLS1,NA,NA,7.5,6.58,0.158,Negative
+†LCR 643,LCR 643 PLS1,NA,NA,7.5,2.70,0.068,Negative
+†LCR 644,LCR 644 PLS1,NA,NA,7.5,4.70,0.071,Negative
+†LCR 645,LCR 645 PLS1,NA,NA,7.5,8.55,0.202,Negative
+†LCR 646,LCR 646 PLS1,NA,NA,7.5,7.59,0.183,Negative
+†LCR 647,LCR 647 PLS1,NA,NA,7.5,7.61,0.287,Negative
+†LCR 648,LCR 648 PLS1,NA,NA,7.5,5.30,0.131,Negative
+†LCR 649,LCR 649 PLS1,NA,NA,7.5,7.69,0.165,Negative
+†LCR 650,LCR 650 PLS1,NA,NA,7.5,4.06,0.294,Negative
+†LCR 652,LCR 652 PLS1,NA,NA,7.5,4.71,0.064,Negative
+†LCR 653,LCR 653 PLS1,NA,NA,7,23.33,0.418,Negative
+†LCR 654,LCR 654 PLS1,NA,NA,7.5,3.38,0.116,Negative
+†LCR 655,LCR 655 PLS1,NA,NA,7.5,3.34,0.128,Negative
+†LCR 658,LCR 658 PLS1,NA,NA,7.5,1.80,0.066,Negative
+†LCR 659,LCR 659 PLS1,NA,NA,7.5,4.23,0.133,Negative
+†LCR 660,LCR 660 PLS1,NA,NA,7.5,1.72,0.073,Negative
+†LCR 661,LCR 661 PLS1,NA,NA,7.5,1.04,0.068,Negative
+†LCR 662,LCR 662 PLS1,NA,NA,7.5,3.35,0.089,Negative
+†LCR 663,LCR 663 PLS1,NA,NA,7.5,4.40,0.064,Negative
+†LCR 665,LCR 665 PLS1,NA,NA,7.5,8.49,0.207,Negative
+†LCR 666,LCR 666 PLS1,NA,NA,7.5,1.95,0.073,Negative
+†LCR 667,LCR 667 PLS1,NA,NA,7.5,2.13,0.071,Negative
+†LCR 668,LCR 668 PLS1,NA,NA,7.5,5.91,0.101,Negative
+†LCR 670,LCR 670 PLS1,NA,NA,7.5,2.93,0.264,Negative
+†LCR 671,LCR 671 PLS1,NA,NA,7.5,0.90,0.065,Negative
+†LCR 672,LCR 672 PLS1,NA,NA,7.5,2.56,0.129,Negative
+†LCR 673,LCR 673 PLS1,NA,NA,7.5,2.67,0.066,Negative
+†LCR 674,LCR 674 PLS1,NA,NA,7.5,5.50,0.436,Negative
+†LCR 675,LCR 675 PLS1,NA,NA,7.5,8.63,0.377,Negative
+†LCR 676,LCR 676 PLS1,NA,NA,7.5,3.34,0.347,Negative
+†LCR 677,LCR 677 PLS1,NA,NA,7.5,12.26,0.427,Negative
+†LCR 678,LCR 678 PLS1,NA,NA,7.5,3.13,0.143,Negative
+†LCR 679,LCR 679 PLS1,NA,NA,7.5,5.80,0.068,Negative
+†LCR 680,LCR 680 PLS1,NA,NA,7.5,4.18,0.330,Negative
+†LCR 681,LCR 681 PLS1,NA,NA,7.5,5.83,0.532,Negative
+†LCR 682,LCR 682 PLS1,NA,NA,7.5,6.17,0.965,Positive
+†LCR 683,LCR 683 PLS1,NA,NA,7.5,6.17,0.442,Negative
+†LCR 684,LCR 684 PLS1,NA,NA,7.5,4.83,0.071,Negative
+†LCR 685,LCR 685 PLS1,NA,NA,7.5,8.62,0.892,Negative
+†LCR 686,LCR 686 PLS1,NA,NA,7.5,4.78,0.068,Negative
+†LCR 687,LCR 687 PLS1,NA,NA,7.5,1.96,0.065,Negative
+†LCR 688,LCR 688 PLS1,NA,NA,7.5,7.42,0.283,Negative
+†LCR 689,LCR 689 PLS1,NA,NA,7.5,1.99,0.068,Negative
+†LCR 690,LCR 690 PLS1,NA,NA,7.5,6.21,0.064,Negative
+†LCR 691,LCR 691 PLS1,NA,NA,7.5,3.99,0.163,Negative
+†LCR 692,LCR 692 PLS1,NA,NA,7.5,3.42,0.891,Negative
+†LCR 693,LCR 693 PLS1,NA,NA,7.5,2.57,0.149,Negative
+†LCR 694,LCR 694 PLS1,NA,NA,7.5,1.54,0.309,Negative
+†LCR 697,LCR 697 PLS1,NA,NA,7.5,12.02,0.326,Negative
+†LCR 698,LCR 698 PLS1,NA,NA,7.5,6.49,0.494,Negative
+†LCR 699,LCR 699 PLS1,NA,NA,7.5,0.90,0.071,Negative
+†LCR 700,LCR 700 PLS1,NA,NA,7.5,3.76,0.613,Negative
+†LCR 701,LCR 701 PLS1,NA,NA,7.5,1.86,0.904,Positive
+†LCR 702,LCR 702 PLS1,NA,NA,7.5,3.95,0.927,Positive
+†LCR 703,LCR 703 PLS1,NA,NA,7.5,0.65,0.071,Negative
+†LCR 704,LCR 704 PLS1,NA,NA,7.5,7.32,0.948,Positive
+†LCR 705,LCR 705 PLS1,NA,NA,7.5,5.14,0.498,Negative
+†LCR 706,LCR 706 PLS1,NA,NA,7.5,10.62,0.176,Negative
+†LCR 707,LCR 707 PLS1,NA,NA,7.5,3.90,0.217,Negative
+†LCR 709,LCR 709 PLS1,NA,NA,7.5,2.36,0.206,Negative
+†LCR 710,LCR 710 PLS1,NA,NA,7.5,7.20,0.590,Negative
+†LCR 711,LCR 711 PLS1,NA,NA,7.5,2.26,0.202,Negative
+†LCR 712,LCR 712 PLS1,NA,NA,7.5,11.51,0.156,Negative
+†LCR 713,LCR 713 PLS1,NA,NA,7.5,9.78,0.865,Negative
+†LCR 714,LCR 714 PLS1,NA,NA,7.5,1.93,0.066,Negative
+†LCR 715,LCR 715 PLS1,NA,NA,7.5,0.50,0.064,Negative
+†LCR 716,LCR 716 PLS1,NA,NA,7.5,5.21,0.421,Negative
+†LCR 717,LCR 717 PLS1,NA,NA,7.5,1.27,0.513,Negative
+†LCR 718,LCR 718 PLS1,NA,NA,7.5,3.12,0.068,Negative
+†LCR 719,LCR 719 PLS1,NA,NA,7.5,3.19,0.162,Negative
+†LCR 720,LCR 720 PLS1,NA,NA,7.5,3.36,0.149,Negative
+†LCR 721,LCR 721 PLS1,NA,NA,7.5,5.91,0.511,Negative
+†LCR 722,LCR 722 PLS1,NA,NA,7.5,5.16,0.359,Negative
+†LCR 723,LCR 723 PLS1,NA,NA,7.5,5.22,0.198,Negative
+LCR 724,LCR 724 PLS1,NA,NA,7.5,0.83,0.065,Negative
+†LCR 725,LCR 725 PLS1,NA,NA,7.5,2.85,0.328,Negative
+†LCR 726,LCR 726 PLS1,NA,NA,7.5,1.45,0.444,Negative
+†LCR 727,LCR 727 PLS1,NA,NA,7.5,1.80,0.147,Negative
+†LCR 728,LCR 728 PLS1,NA,NA,7.5,1.82,0.419,Negative
+†LCR 729,LCR 729 PLS1,NA,NA,7.5,1.61,0.071,Negative
+†LCR 730,LCR 730 PLS1,NA,NA,7.5,2.75,0.130,Negative
+†LCR 731,LCR 731 PLS1,NA,NA,7.5,1.45,0.139,Negative
+†LCR 732,LCR 732 PLS1,NA,NA,7.5,0.76,0.115,Negative
+†LCR 733,LCR 733 PLS1,NA,NA,7.5,3.81,0.178,Negative
+†LCR 734,LCR 734 PLS1,NA,NA,7.5,3.43,0.420,Negative
+†LCR 736,LCR 736 PLS1,NA,NA,7.5,2.97,0.312,Negative
+†LCR 737,LCR 737 PLS1,NA,NA,7.5,2.65,0.781,Negative
+†LCR 738,LCR 738 PLS1,NA,NA,7.5,7.94,0.769,Negative
+†LCR 739,LCR 739 PLS1,NA,NA,7.5,1.95,0.270,Negative
+†LCR 740,LCR 740 PLS1,NA,NA,7.5,37.74,0.205,Negative
+†LCR 741,LCR 741 PLS1,NA,NA,7.5,100.42,0.575,Negative
+†LCR 742,LCR 742 PLS1,NA,NA,7.5,5.67,0.448,Negative
+†LCR 743,LCR 743 PLS1,NA,NA,7.5,4.22,0.783,Negative
+†LCR 745,LCR 745 PLS1,NA,NA,7.5,1.30,0.232,Negative
+†LCR 746,LCR 746 PLS1,NA,NA,7.5,25.18,0.649,Negative
+†LCR 747,LCR 747 PLS1,NA,NA,7.5,1.78,0.412,Negative
+†LCR 749,LCR 749 PLS1,NA,NA,7.5,1.96,0.149,Negative
+†LCR 750,LCR 750 PLS1,NA,NA,7.5,1.36,0.536,Negative
+†LCR 751,LCR 751 PLS1,NA,NA,7.5,2.10,0.211,Negative
+†LCR 752,LCR 752 PLS1,NA,NA,7.5,9.31,0.891,Negative
+†LCR 753,LCR 753 PLS1,NA,NA,7.5,1.52,0.309,Negative
+†LCR 754,LCR 754 PLS1,NA,NA,7.5,2.21,0.230,Negative
+†LCR 755,LCR 755 PLS1,NA,NA,7.5,1.39,0.073,Negative
+†LCR 757,LCR 757 PLS1,NA,NA,7.5,1.62,0.390,Negative
+†LCR 758,LCR 758 PLS1,NA,NA,7.5,67.40,0.192,Negative
+†LCR 759,LCR 759 PLS1,NA,NA,7.5,1.97,0.768,Negative
+†LCR 760,LCR 760 PLS1,NA,NA,7.5,0.65,0.185,Negative
+†LCR 761,LCR 761 PLS1,NA,NA,7.5,0.94,0.062,Negative
+†LCR 762,LCR 762 PLS1,NA,NA,7.5,135.67,0.164,Negative
+†LCR 763,LCR 763 PLS1,NA,NA,7,39.88,0.064,Negative
+†LCR 764,LCR 764 PLS1,NA,NA,7.5,71.68,0.357,Negative
+†LCR 765,LCR 765 PLS1,NA,NA,7.5,64.69,0.276,Negative
+†LCR 766,LCR 766 PLS1,NA,NA,7.5,6.85,0.219,Negative
+†LCR 768,LCR 768 PLS1,NA,NA,7.5,4.67,0.871,Negative
+†LCR 769,LCR 769 PLS1,NA,NA,7.5,4.49,0.207,Negative
+†LCR 770,LCR 770 PLS1,NA,NA,7.5,3.25,0.132,Negative
+†LCR 771,LCR 771 PLS1,NA,NA,7.5,100.85,0.374,Negative
+†LCR 772,LCR 772 PLS1,NA,NA,7.5,7.79,0.293,Negative
+†LCR 773,LCR 773 PLS1,NA,NA,7.5,5.23,0.339,Negative
+†LCR 774,LCR 774 PLS1,NA,NA,7.5,7.43,0.655,Negative
+†LCR 775,LCR 775 PLS1,NA,NA,7.5,5.50,0.823,Negative
+†LCR 776,LCR 776 PLS1,NA,NA,7.5,2.82,0.199,Negative
+†LCR 777,LCR 777 PLS1,NA,NA,7.5,4.78,0.763,Negative
+†LCR 778,LCR 778 PLS1,NA,NA,7.5,3.11,0.264,Negative
+†LCR 779,LCR 779 PLS1,NA,NA,7.5,11.52,0.723,Negative
+†LCR 780,LCR 780 PLS1,NA,NA,7.5,5.49,0.125,Negative
+†LCR 781,LCR 781 PLS1,NA,NA,7.5,3.34,0.131,Negative
+†LCR 782,LCR 782 PLS1,NA,NA,7.5,3.10,0.238,Negative
+†LCR 783,LCR 783 PLS1,NA,NA,7.5,4.26,0.267,Negative
+†LCR 784,LCR 784 PLS1,NA,NA,7.5,4.30,0.415,Negative
+†LCR 785,LCR 785 PLS1,NA,NA,7.5,6.71,0.807,Negative
+†LCR 786,LCR 786 PLS1,NA,NA,7.5,5.05,0.256,Negative
+LCR 812,LCR 812 PLS1,II,Adenocarcinoma,7.5,31.37,1.000,Positive
+LCR 814,LCR 814 PLS1,II,Adenocarcinoma,7.5,5.46,0.647,Negative
+NL 918,NL PLS 918,NA,NA,7.5,3.67,0.073,Negative
+NL 919,NL PLS 919,NA,NA,7.5,1.98,0.781,Negative
+NL 920,NL PLS 920,NA,NA,7.5,2.89,0.109,Negative
+NL 921,NL PLS 921,NA,NA,7.5,0.88,0.064,Negative
+NL 922,NL PLS 922,NA,NA,7.5,3.69,0.165,Negative
+NL 923,NL PLS 923,NA,NA,7.5,1.25,0.524,Negative
+NL 924,NL PLS 924,NA,NA,7.5,0.87,0.073,Negative
+NL 925,NL PLS 925,NA,NA,7.5,3.08,0.127,Negative
+NL 930,NL PLS 930,NA,NA,7.5,2.79,0.280,Negative
+NL 931,NL PLS 931,NA,NA,7.5,6.06,0.288,Negative
+NL 932,NL PLS 932,NA,NA,7.5,0.57,0.148,Negative
+NL 938,NL PLS 938,NA,NA,7.5,2.43,0.134,Negative
+NL 939,NL PLS 939,NA,NA,7.5,4.19,0.444,Negative
+NL 940,NL PLS 940,NA,NA,7.5,2.27,0.073,Negative
+NL 941,NL PLS 941,NA,NA,7.5,3.08,0.108,Negative
+NL 942,NL PLS 942,NA,NA,7.5,13.09,0.253,Negative
+NL 943,NL PLS 943,NA,NA,7.5,2.60,0.136,Negative
+NL 944,NL PLS 944,NA,NA,7.5,1.99,0.358,Negative
+NL 945,NL PLS 945,NA,NA,7.5,2.20,0.841,Negative
+NL 946,NL PLS 946,NA,NA,7.5,1.61,0.365,Negative
+NL 947,NL PLS 947,NA,NA,7.5,11.63,0.448,Negative
+NL 948,NL PLS 948,NA,NA,7.5,2.42,0.066,Negative
+NL 949,NL PLS 949,NA,NA,7.5,3.08,0.241,Negative
+NL 950,NL PLS 950,NA,NA,7.5,10.82,0.235,Negative
+NL 951,NL PLS 951,NA,NA,7.5,3.64,0.123,Negative
+NL 952,NL PLS 952,NA,NA,7.5,3.19,0.119,Negative
+NL 964,NL PLS 964,NA,NA,7.5,3.43,0.250,Negative
+NL 965,NL PLS 965,NA,NA,7.5,3.49,0.342,Negative
+NL 1160,NL PLSA 1160,NA,NA,7.5,5.60,0.492,Negative
+NL 1163,NL PLSA 1163,NA,NA,7.5,5.59,0.196,Negative
+NL 1164,NL PLSA 1164,NA,NA,7.5,6.27,0.244,Negative
+NL 1165,NL PLSA 1165,NA,NA,7.5,5.04,0.175,Negative
+NL 1166,NL PLSA 1166,NA,NA,7.5,4.96,0.233,Negative
+NL 1167,NL PLSA 1167,NA,NA,7.5,3.00,0.395,Negative
+NL 1168,NL PLSA 1168,NA,NA,7.5,2.17,0.179,Negative
+NL 1169,NL PLSA 1169,NA,NA,7.5,3.98,0.111,Negative
+NL 1170,NL PLSA 1170,NA,NA,7.5,2.15,0.189,Negative
+NL 1171,NL PLSA 1171,NA,NA,7.5,2.66,0.175,Negative
+NL 1172,NL PLSA 1172,NA,NA,7.5,6.58,0.413,Negative
+NL 1173,NL PLSA 1173,NA,NA,7.5,5.93,0.207,Negative
+NL 1174,NL PLSA 1174,NA,NA,7.5,2.60,0.137,Negative
+NL 1175,NL PLSA 1175,NA,NA,7.5,4.11,0.167,Negative
+NL 1176,NL PLSA 1176,NA,NA,7.5,7.64,0.256,Negative
+NL 1177,NL PLSA 1177,NA,NA,7.5,7.08,0.394,Negative
+NL 1178,NL PLSA 1178,NA,NA,7.5,2.18,0.188,Negative
+NL 1179,NL PLSA 1179,NA,NA,7.5,1.86,0.064,Negative
+NL 1180,NL PLSA 1180,NA,NA,7.5,3.46,0.223,Negative
+NL 1181,NL PLSA 1181,NA,NA,7.5,1.80,0.619,Negative
+NL 1182,NL PLSA 1182,NA,NA,7.5,4.79,0.359,Negative
+NL 1183,NL PLSA 1183,NA,NA,7.5,3.63,0.179,Negative
+NL 1184,NL PLSA 1184,NA,NA,7.5,4.58,0.438,Negative
+NL 1185,NL PLSA 1185,NA,NA,7.5,2.85,0.117,Negative
+NL 1186,NL PLSA 1186,NA,NA,7.5,3.38,0.208,Negative
+NL 1187,NL PLSA 1187,NA,NA,7.5,1.63,0.177,Negative
+NL 1188,NL PLSA 1188,NA,NA,7.5,1.61,0.193,Negative
+NL 1189,NL PLSA 1189,NA,NA,7.5,3.02,0.456,Negative
+NL 1190,NL PLSA 1190,NA,NA,7.5,6.88,0.174,Negative
+NL 1191,NL PLSA 1191,NA,NA,7.5,5.24,0.364,Negative
+NL 1192,NL PLSA 1192,NA,NA,7.5,5.67,0.196,Negative
+NL 1193,NL PLSA 1193,NA,NA,7.5,6.97,0.273,Negative
+NL 1194,NL PLSA 1194,NA,NA,7.5,3.12,0.265,Negative
+NL 1195,NL PLSA 1195,NA,NA,7.5,7.64,0.275,Negative
+NL 1196,NL PLSA 1196,NA,NA,7.5,6.18,0.142,Negative
+NL 1197,NL PLSA 1197,NA,NA,7.5,4.67,0.406,Negative
+NL 1198,NL PLSA 1198,NA,NA,7.5,2.74,0.140,Negative
+NL 1199,NL PLSA 1199,NA,NA,7.5,5.06,0.151,Negative
+NL 1200,NL PLSA 1200,NA,NA,7.5,2.12,0.343,Negative
+NL 1201,NL PLSA 1201,NA,NA,7.5,2.12,0.068,Negative
+NL 1202,NL PLSA 1202,NA,NA,7.5,3.17,0.163,Negative
+NL 1203,NL PLSA 1203,NA,NA,7.5,6.06,0.290,Negative
+NL 1204,NL PLSA 1204,NA,NA,7.5,8.29,0.226,Negative
+NL 1205,NL PLSA 1205,NA,NA,7.5,1.48,0.068,Negative
+NL 1206,NL PLSA 1206,NA,NA,7.5,9.14,0.370,Negative
+NL 1207,NL PLSA 1207,NA,NA,7.5,0.13,0.064,Negative
+NL 1208,NL PLSA 1208,NA,NA,7.5,3.99,0.160,Negative
+NL 1209,NL PLSA 1209,NA,NA,7.5,7.98,0.273,Negative
+NL 1210,NL PLSA 1210,NA,NA,7.5,3.60,0.124,Negative
+NL 1211,NL PLSA 1211,NA,NA,7.5,3.60,0.140,Negative
+NL 1212,NL PLSA 1212,NA,NA,7.5,3.21,0.281,Negative
+NL 1213,NL PLSA 1213,NA,NA,7.5,5.61,0.219,Negative
+NL 1214,NL PLSA 1214,NA,NA,7.5,2.82,0.136,Negative
+NL 1215,NL PLSA 1215,NA,NA,7.5,1.75,0.215,Negative
+NL 1216,NL PLSA 1216,NA,NA,7.5,3.06,0.159,Negative
+NL 1217,NL PLSA 1217,NA,NA,7.5,1.42,0.073,Negative
+NL 1218,NL PLSA 1218,NA,NA,7.5,6.73,0.360,Negative
+NL 1219,NL PLSA 1219,NA,NA,7.5,9.54,0.137,Negative
+NL 1220,NL PLSA 1220,NA,NA,7.5,4.83,0.216,Negative
+NL 1221,NL PLSA 1221,NA,NA,7.5,3.08,0.071,Negative
+NL 1222,NL PLSA 1222,NA,NA,7.5,3.49,0.171,Negative
+NL 1223,NL PLSA 1223,NA,NA,7.5,3.21,0.113,Negative
+NL 1224,NL PLSA 1224,NA,NA,7.5,6.25,0.230,Negative
+NL 1225,NL PLSA 1225,NA,NA,7.5,5.68,0.187,Negative
+NL 1226,NL PLSA 1226,NA,NA,7.5,2.18,0.253,Negative
+NL 1227,NL PLSA 1227,NA,NA,7.5,4.17,0.116,Negative
+NL 1228,NL PLSA 1228,NA,NA,7.5,1.53,0.107,Negative
+NL 1229,NL PLSA 1229,NA,NA,7.5,4.69,0.251,Negative
+NL 1230,NL PLSA 1230,NA,NA,7.5,1.63,0.162,Negative
+NL 1231,NL PLSA 1231,NA,NA,7.5,5.06,0.242,Negative
+NL 1232,NL PLSA 1232,NA,NA,7.5,5.50,0.110,Negative
+NL 1233,NL PLSA 1233,NA,NA,7.5,3.84,0.379,Negative
+NL 1234,NL PLSA 1234,NA,NA,7.5,5.01,0.252,Negative
+NL 1235,NL PLSA 1235,NA,NA,7.5,3.19,0.396,Negative
+NL 1236,NL PLSA 1236,NA,NA,7.5,5.35,0.192,Negative
+NL 1237,NL PLSA 1237,NA,NA,7.5,11.50,0.210,Negative
+NL 1238,NL PLSA 1238,NA,NA,7.5,7.90,0.357,Negative
+NL 1239,NL PLSA 1239,NA,NA,7.5,3.06,0.156,Negative
+NL 1240,NL PLSA 1240,NA,NA,7.5,5.08,0.165,Negative
+NL 1241,NL PLSA 1241,NA,NA,7.5,7.23,0.412,Negative
+NL 1242,NL PLSA 1242,NA,NA,7.5,5.15,0.165,Negative
+NL 1243,NL PLSA 1243,NA,NA,7.5,5.93,0.182,Negative
+NL 1244,NL PLSA 1244,NA,NA,7.5,9.27,0.182,Negative
+NL 1245,NL PLSA 1245,NA,NA,7.5,11.82,0.161,Negative
+NL 1246,NL PLSA 1246,NA,NA,7.5,6.82,0.161,Negative
+NL 1247,NL PLSA 1247,NA,NA,7.5,5.34,0.578,Negative
+NL 1248,NL PLSA 1248,NA,NA,7.5,6.67,0.175,Negative
+NL 1249,NL PLSA 1249,NA,NA,7.5,3.68,0.062,Negative
+NL 1250,NL PLSA 1250,NA,NA,7.5,4.29,0.314,Negative
+NL 1251,NL PLSA 1251,NA,NA,7.5,1.46,0.064,Negative
+NL 1252,NL PLSA 1252,NA,NA,7.5,0.85,0.165,Negative
+NL 1253,NL PLSA 1253,NA,NA,7.5,1.16,0.139,Negative
+NL 1254,NL PLSA 1254,NA,NA,7.5,1.68,0.593,Negative
+NL 1255,NL PLSA 1255,NA,NA,7.5,1.06,0.489,Negative
+NL 1256,NL PLSA 1256,NA,NA,7.5,3.88,0.260,Negative
+NL 1257,NL PLSA 1257,NA,NA,7.5,1.85,0.314,Negative
+NL 1258,NL PLSA 1258,NA,NA,7.5,1.21,0.355,Negative
+NL 1259,NL PLSA 1259,NA,NA,7.5,1.62,0.419,Negative
+NL 1260,NL PLSA 1260,NA,NA,7.5,0.03,0.064,Negative
+NL 1291,NL PLSA 1291,NA,NA,7.5,5.28,0.119,Negative
+NL 1292,NL PLSA 1292,NA,NA,7.5,2.31,0.480,Negative
+NL 1293,NL PLSA 1293,NA,NA,7.5,2.12,0.592,Negative
+NL 1294,NL PLSA 1294,NA,NA,7.5,1.27,0.620,Negative
+NL 1295,NL PLSA 1295,NA,NA,7.5,2.70,0.128,Negative
+NL 1296,NL PLSA 1296,NA,NA,7.5,4.08,0.114,Negative
+NL 1297,NL PLSA 1297,NA,NA,7.5,3.27,0.248,Negative
+NL 1298,NL PLSA 1298,NA,NA,7.5,2.88,0.209,Negative
+NL 1299,NL PLSA 1299,NA,NA,7.5,4.87,0.266,Negative
+NL 1300,NL PLSA 1300,NA,NA,7.5,4.81,0.185,Negative
+NL 1301,NL PLSA 1301,NA,NA,7.5,1.98,0.418,Negative
+NL 1302,NL PLSA 1302,NA,NA,7.5,8.45,0.790,Negative
+NL 1303,NL PLSA 1303,NA,NA,7.5,23.63,0.196,Negative
+NL 1304,NL PLSA 1304,NA,NA,7.5,13.29,0.281,Negative
+NL 1305,NL PLSA 1305,NA,NA,7.5,6.96,0.246,Negative
+NL 1306,NL PLSA 1306,NA,NA,7.5,3.66,0.151,Negative
+NL 1307,NL PLSA 1307,NA,NA,7.5,2.63,0.130,Negative
+NL 1308,NL PLSA 1308,NA,NA,7.5,8.50,0.237,Negative
+NL 1309,NL PLSA 1309,NA,NA,7.5,5.78,0.163,Negative
+NL 1310,NL PLSA 1310,NA,NA,7.5,0.12,0.213,Negative
+NL 1311,NL PLSA 1311,NA,NA,7.5,0.39,0.187,Negative
+NL 1312,NL PLSA 1312,NA,NA,7.5,0.33,0.071,Negative
+NL 1313,NL PLSA 1313,NA,NA,7.5,0.80,0.068,Negative
+NL 1314,NL PLSA 1314,NA,NA,7.5,3.34,0.113,Negative
+NL 1315,NL PLSA 1315,NA,NA,7.5,3.83,0.427,Negative
+NL 1316,NL PLSA 1316,NA,NA,7.5,26.99,0.198,Negative
+NL 1317,NL PLSA 1317,NA,NA,7.5,6.83,0.188,Negative
+NL 1318,NL PLSA 1318,NA,NA,7.5,2.49,0.200,Negative
+NL 1319,NL PLSA 1319,NA,NA,7.5,5.24,0.246,Negative
+NL 1320,NL PLSA 1320,NA,NA,7.5,4.61,0.242,Negative
+NL 1321,NL PLSA 1321,NA,NA,7.5,1.52,0.071,Negative
+NL 1322,NL PLSA 1322,NA,NA,7.5,2.85,0.169,Negative
+NL 1323,NL PLSA 1323,NA,NA,7.5,0.09,0.071,Negative
+NL 1324,NL PLSA 1324,NA,NA,7.5,0.02,0.071,Negative
+NL 1325,NL PLSA 1325,NA,NA,7.5,0.08,0.068,Negative
+NL 1326,NL PLSA 1326,NA,NA,7.5,6.36,0.150,Negative
+NL 1327,NL PLSA 1327,NA,NA,7.5,0.08,0.066,Negative
+NL 1328,NL PLSA 1328,NA,NA,7.5,2.14,0.223,Negative
+NL 1329,NL PLSA 1329,NA,NA,7.5,1.05,0.167,Negative
+NL 1330,NL PLSA 1330,NA,NA,7.5,1.62,0.274,Negative
+NL 1331,NL PLSA 1331,NA,NA,7.5,1.04,0.135,Negative
+NL 1332,NL PLSA 1332,NA,NA,7.5,2.01,0.152,Negative
+NL 1333,NL PLSA 1333,NA,NA,7.5,3.52,0.156,Negative
+NL 1334,NL PLSA 1334,NA,NA,7.5,3.12,0.455,Negative
+NL 1335,NL PLSA 1335,NA,NA,7.5,2.00,0.913,Positive
+NL 1336,NL PLSA 1336,NA,NA,7.5,1.44,0.263,Negative
+NL 1337,NL PLSA 1337,NA,NA,7.5,2.29,0.274,Negative
+NL 1338,NL PLSA 1338,NA,NA,7.5,2.59,0.226,Negative
+NL 1339,NL PLSA 1339,NA,NA,7.5,2.72,0.181,Negative
+NL 1340,NL PLSA 1340,NA,NA,7.5,3.30,0.183,Negative
+NL 1341,NL PLSA 1341,NA,NA,7.5,2.13,0.180,Negative
+NL 1342,NL PLSA 1342,NA,NA,7.5,1.86,0.397,Negative
+NL 1343,NL PLSA 1343,NA,NA,7.5,1.22,0.192,Negative
+NL 1344,NL PLSA 1344,NA,NA,7.5,1.63,0.225,Negative
+NL 1345,NL PLSA 1345,NA,NA,7.5,0.75,0.066,Negative
+NL 1346,NL PLSA 1346,NA,NA,7.5,1.31,0.493,Negative
+NL 1347,NL PLSA 1347,NA,NA,7.5,2.67,0.183,Negative
+NL 1348,NL PLSA 1348,NA,NA,7.5,1.94,0.166,Negative
+NL 1349,NL PLSA 1349,NA,NA,7.5,4.77,0.219,Negative
+NL 1350,NL PLSA 1350,NA,NA,7.5,2.11,0.210,Negative
+NL 1351,NL PLSA 1351,NA,NA,7.5,1.86,0.199,Negative
+NL 1352,NL PLSA 1352,NA,NA,7.5,1.12,0.147,Negative
+NL 1353,NL PLSA 1353,NA,NA,7.5,3.05,0.195,Negative
+NL 1354,NL PLSA 1354,NA,NA,7.5,7.82,0.308,Negative
+NL 1355,NL PLSA 1355,NA,NA,7.5,1.15,0.246,Negative
+NL 1356,NL PLSA 1356,NA,NA,7.5,2.61,0.197,Negative
+NL 1357,NL PLSA 1357,NA,NA,7.5,1.41,0.139,Negative
+NL 1358,NL PLSA 1358,NA,NA,7.5,1.83,0.380,Negative
+NL 1359,NL PLSA 1359,NA,NA,7.5,0.72,0.202,Negative
+NL 1360,NL PLSA 1360,NA,NA,7.5,0.89,0.191,Negative
+NL 1361,NL PLSA 1361,NA,NA,7.5,1.59,0.217,Negative
+NL 1362,NL PLSA 1362,NA,NA,7.5,0.47,0.064,Negative
+NL 1363,NL PLSA 1363,NA,NA,7.5,0.83,0.105,Negative
+NL 1364,NL PLSA 1364,NA,NA,7.5,1.82,0.432,Negative
+NL 1365,NL PLSA 1365,NA,NA,7.5,1.58,0.240,Negative
+NL 1366,NL PLSA 1366,NA,NA,7.5,1.98,0.152,Negative
+NL 1367,NL PLSA 1367,NA,NA,7.5,1.81,0.510,Negative
+NL 1368,NL PLSA 1368,NA,NA,7.5,3.16,0.172,Negative
+NL 1369,NL PLSA 1369,NA,NA,7.5,3.21,0.494,Negative
+NL 1370,NL PLSA 1370,NA,NA,7.5,1.65,0.290,Negative
+NL 1371,NL PLSA 1371,NA,NA,7.5,1.20,0.147,Negative
+NL 1372,NL PLSA 1372,NA,NA,7.5,1.19,0.169,Negative
+NL 1373,NL PLSA 1373,NA,NA,7.5,7.04,0.270,Negative
+NL 1374,NL PLSA 1374,NA,NA,7.5,1.77,0.233,Negative
+NL 1375,NL PLSA 1375,NA,NA,7.5,1.51,0.150,Negative
+NL 1376,NL PLSA 1376,NA,NA,7.5,1.53,0.216,Negative
+NL 1377,NL PLSA 1377,NA,NA,7.5,2.06,0.260,Negative
+NL 1378,NL PLSA 1378,NA,NA,7.5,5.39,0.297,Negative
+NL 1379,NL PLSA 1379,NA,NA,7.5,1.79,0.247,Negative
+NL 1380,NL PLSA 1380,NA,NA,7.5,1.80,0.158,Negative
+NL 1381,NL PLSA 1381,NA,NA,7.5,1.94,0.167,Negative
+NL 1382,NL PLSA 1382,NA,NA,7.5,2.05,0.251,Negative
+NL 1383,NL PLSA 1383,NA,NA,7.5,1.85,0.333,Negative
+NL 1384,NL PLSA 1384,NA,NA,7.5,1.93,0.337,Negative
+NL 1385,NL PLSA 1385,NA,NA,7.5,1.36,0.132,Negative
+NL 1386,NL PLSA 1386,NA,NA,7.5,1.73,0.145,Negative
+NL 1387,NL PLSA 1387,NA,NA,7.5,3.35,0.535,Negative
+NL 1388,NL PLSA 1388,NA,NA,7.5,1.66,0.199,Negative
+NL 1389,NL PLSA 1389,NA,NA,7.5,1.41,0.225,Negative
+NL 1390,NL PLSA 1390,NA,NA,7.5,4.87,0.525,Negative
+NL 1391,NL PLSA 1391,NA,NA,7.5,1.25,0.653,Negative
+NL 1392,NL PLSA 1392,NA,NA,7.5,1.50,0.113,Negative
+NL 1393,NL PLSA 1393,NA,NA,7.5,5.66,0.375,Negative
+NL 1394,NL PLSA 1394,NA,NA,7.5,1.38,0.180,Negative
+NL 1395,NL PLSA 1395,NA,NA,7.5,0.58,0.155,Negative
+NL 1396,NL PLSA 1396,NA,NA,7.5,1.06,0.193,Negative
+NL 1397,NL PLSA 1397,NA,NA,7.5,2.60,0.168,Negative
+NL 1398,NL PLSA 1398,NA,NA,7.5,2.79,0.198,Negative
+NL 1399,NL PLSA 1399,NA,NA,7.5,3.11,0.160,Negative
+NL 1400,NL PLSA 1400,NA,NA,7.5,3.46,0.345,Negative
+NL 1401,NL PLSA 1401,NA,NA,7.5,6.61,0.173,Negative
+NL 1402,NL PLSA 1402,NA,NA,7.5,1.98,0.182,Negative
+NL 1403,NL PLSA 1403,NA,NA,7.5,6.82,0.304,Negative
+NL 1404,NL PLSA 1404,NA,NA,7.5,3.03,0.141,Negative
+NL 1405,NL PLSA 1405,NA,NA,7.5,4.49,0.064,Negative
+NL 1406,NL PLSA 1406,NA,NA,7.5,6.08,0.589,Negative
+NL 1407,NL PLSA 1407,NA,NA,7.5,2.94,0.127,Negative
+NL 1408,NL PLSA 1408,NA,NA,7.5,3.29,0.105,Negative
+NL 1409,NL PLSA 1409,NA,NA,7.5,4.96,0.369,Negative
+NL 1410,NL PLSA 1410,NA,NA,7.5,1.49,0.094,Negative
+NL 1411,NL PLSA 1411,NA,NA,7.5,3.13,0.125,Negative
+NL 1412,NL PLSA 1412,NA,NA,7.5,6.22,0.144,Negative
+NL 1413,NL PLSA 1413,NA,NA,7.5,11.01,0.224,Negative
+NL 1414,NL PLSA 1414,NA,NA,7.5,3.18,0.137,Negative
+NL 1425,NL PLSA 1425,NA,NA,7.5,1.28,0.114,Negative
+NL 1426,NL PLSA 1426,NA,NA,7.5,1.48,0.115,Negative
+NL 1427,NL PLSA 1427,NA,NA,7.5,1.81,0.244,Negative
+NL 1428,NL PLSA 1428,NA,NA,7.5,2.08,0.409,Negative
+NL 1429,NL PLSA 1429,NA,NA,7.5,1.05,0.174,Negative
+NL 1430,NL PLSA 1430,NA,NA,7.5,2.09,0.207,Negative
+NL 1431,NL PLSA 1431,NA,NA,7.5,3.13,0.317,Negative
+NL 1432,NL PLSA 1432,NA,NA,7.5,2.16,0.237,Negative
+NL 1433,NL PLSA 1433,NA,NA,7.5,2.31,0.168,Negative
+NL 1434,NL PLSA 1434,NA,NA,7.5,3.00,0.194,Negative
+NL 1435,NL PLSA 1435,NA,NA,7.5,2.82,0.176,Negative
+NL 1436,NL PLSA 1436,NA,NA,7.5,0.93,0.138,Negative
+NL 1437,NL PLSA 1437,NA,NA,7.5,0.77,0.296,Negative
+NL 1438,NL PLSA 1438,NA,NA,7.5,2.90,0.161,Negative
+NL 1439,NL PLSA 1439,NA,NA,7.5,1.65,0.230,Negative
+NL 1440,NL PLSA 1440,NA,NA,7.5,5.15,0.195,Negative
+NL 1441,NL PLSA 1441,NA,NA,7.5,1.05,0.137,Negative
+NL 1442,NL PLSA 1442,NA,NA,7.5,1.11,0.142,Negative
+NL 1443,NL PLSA 1443,NA,NA,7.5,1.71,0.188,Negative
+NL 1444,NL PLSA 1444,NA,NA,7.5,1.87,0.498,Negative
+NL 1445,NL PLSA 1445,NA,NA,7.5,2.20,0.267,Negative
+NL 1482,NL PLSA 1482,NA,NA,7.5,1.74,0.095,Negative
+NL 1483,NL PLSA 1483,NA,NA,7.5,1.78,0.327,Negative
+NL 1484,NL PLSA 1484,NA,NA,7.5,4.03,0.267,Negative
+NL 1485,NL PLSA 1485,NA,NA,7,2.80,0.254,Negative
+NL 1486,NL PLSA 1486,NA,NA,7.5,2.60,0.205,Negative
+NL 1487,NL PLSA 1487,NA,NA,7.5,2.87,0.077,Negative
+NL 1488,NL PLSA 1488,NA,NA,7.5,3.72,0.155,Negative
+NL 1489,NL PLSA 1489,NA,NA,7.5,2.70,0.129,Negative
+NL 1490,NL PLSA 1490,NA,NA,7.5,2.21,0.083,Negative
+NL 1491,NL PLSA 1491,NA,NA,7.5,3.50,0.180,Negative
+NL 1492,NL PLSA 1492,NA,NA,7.5,2.83,0.206,Negative
+NL 1493,NL PLSA 1493,NA,NA,7,6.78,0.212,Negative
+NL 1494,NL PLSA 1494,NA,NA,7.5,1.99,0.183,Negative
+NL 1495,NL PLSA 1495,NA,NA,7.5,2.78,0.407,Negative
+NL 1496,NL PLSA 1496,NA,NA,7.5,7.53,0.216,Negative
+NL 1497,NL PLSA 1497,NA,NA,7.5,3.37,0.195,Negative
+NL 1498,NL PLSA 1498,NA,NA,7.5,5.73,0.182,Negative
+NL 1499,NL PLSA 1499,NA,NA,7.5,5.03,0.177,Negative
+NL 1500,NL PLSA 1500,NA,NA,7.5,21.02,0.258,Negative
+NL 1501,NL PLSA 1501,NA,NA,7.5,7.00,0.262,Negative
+NL 1502,NL PLSA 1502,NA,NA,7.5,11.11,0.189,Negative
+NL 1503,NL PLSA 1503,NA,NA,7.5,5.63,0.234,Negative
+NL 1504,NL PLSA 1504,NA,NA,7.5,2.51,0.210,Negative
+NL 1505,NL PLSA 1505,NA,NA,7.5,3.53,0.246,Negative
+NL 1506,NL PLSA 1506,NA,NA,7.5,4.43,0.378,Negative
+NL 1507,NL PLSA 1507,NA,NA,7.5,4.87,0.445,Negative
+NL 1508,NL PLSA 1508,NA,NA,7.5,5.26,0.175,Negative
+NL 1509,NL PLSA 1509,NA,NA,7.5,3.99,0.245,Negative
+NL 1510,NL PLSA 1510,NA,NA,7.5,4.36,0.296,Negative
+NL 1511,NL PLSA 1511,NA,NA,7.5,4.09,0.303,Negative
+NL 1512,NL PLSA 1512,NA,NA,7.5,3.48,0.115,Negative
+NL 1513,NL PLSA 1513,NA,NA,7.5,6.15,0.304,Negative
+NL 1514,NL PLSA 1514,NA,NA,7.5,2.99,0.355,Negative
+NL 1515,NL PLSA 1515,NA,NA,7.5,3.68,0.134,Negative
+NL 1516,NL PLSA 1516,NA,NA,7.5,4.02,0.162,Negative
+NL 1517,NL PLSA 1517,NA,NA,7.5,3.34,0.227,Negative
+NL 1518,NL PLSA 1518,NA,NA,7.5,5.74,0.234,Negative
+NL 1519,NL PLSA 1519,NA,NA,7.5,4.30,0.245,Negative
+NL 1520,NL PLSA 1520,NA,NA,7.5,6.00,0.145,Negative
+NL 1521,NL PLSA 1521,NA,NA,7.5,4.06,0.128,Negative
+NL 1522,NL PLSA 1522,NA,NA,7.5,2.73,0.084,Negative
+NL 1523,NL PLSA 1523,NA,NA,7.5,9.04,0.150,Negative
+NL 1524,NL PLSA 1524,NA,NA,7.5,11.25,0.264,Negative
+NL 1525,NL PLSA 1525,NA,NA,7.5,9.45,0.563,Negative
+NL 1526,NL PLSA 1526,NA,NA,7.5,9.48,0.256,Negative
+NL 1527,NL PLSA 1527,NA,NA,7.5,7.99,0.220,Negative
+NL 1528,NL PLSA 1528,NA,NA,7.5,6.24,0.303,Negative
+NL 1529,NL PLSA 1529,NA,NA,7.5,8.39,0.767,Negative
+NL 1530,NL PLSA 1530,NA,NA,7.5,3.93,0.198,Negative
+NL 1531,NL PLSA 1531,NA,NA,7.5,2.30,0.241,Negative
+NL 1532,NL PLSA 1532,NA,NA,7.5,7.77,0.592,Negative
+NL 1533,NL PLSA 1533,NA,NA,7.5,3.21,0.172,Negative
+NL 1534,NL PLSA 1534,NA,NA,7.5,3.15,0.376,Negative
+NL 1535,NL PLSA 1535,NA,NA,7.5,6.29,0.430,Negative
+NL 1536,NL PLSA 1536,NA,NA,7.5,2.80,0.219,Negative
+NL 1537,NL PLSA 1537,NA,NA,7.5,3.02,0.193,Negative
+NL 1538,NL PLSA 1538,NA,NA,7.5,9.57,0.322,Negative
+NL 1539,NL PLSA 1539,NA,NA,7.5,10.01,0.818,Negative
+NL 1540,NL PLSA 1540,NA,NA,7.5,2.95,0.204,Negative
+NL 1541,NL PLSA 1541,NA,NA,7.5,7.27,0.488,Negative
+NL 1542,NL PLSA 1542,NA,NA,7.5,4.84,0.381,Negative
+NL 1543,NL PLSA 1543,NA,NA,7.5,2.89,0.138,Negative
+NL 1544,NL PLSA 1544,NA,NA,7.5,4.45,0.146,Negative
+NL 1545,NL PLSA 1545,NA,NA,7.5,8.20,0.656,Negative
+NL 1546,NL PLSA 1546,NA,NA,7.5,8.19,0.174,Negative
+NL 1547,NL PLSA 1547,NA,NA,7.5,3.18,0.187,Negative
+NL 1548,NL PLSA 1548,NA,NA,7.5,2.59,0.140,Negative
+NL 1549,NL PLSA 1549,NA,NA,7.5,3.90,0.802,Negative
+NL 1550,NL PLSA 1550,NA,NA,7.5,6.28,0.428,Negative
+NL 1551,NL PLSA 1551,NA,NA,7.5,5.38,0.175,Negative
+NL 1552,NL PLSA 1552,NA,NA,7.5,6.18,0.500,Negative
+NL 1553,NL PLSA 1553,NA,NA,7.5,4.75,0.302,Negative
+NL 1554,NL PLSA 1554,NA,NA,7.5,6.13,0.171,Negative
+NL 1555,NL PLSA 1555,NA,NA,7.5,5.38,0.315,Negative
+NL 1556,NL PLSA 1556,NA,NA,7.5,2.93,0.328,Negative
+NL 1557,NL PLSA 1557,NA,NA,7.5,2.63,0.374,Negative
+NL 1558,NL PLSA 1558,NA,NA,7.5,3.85,0.204,Negative
+NL 1559,NL PLSA 1559,NA,NA,7.5,6.18,0.378,Negative
+NL 1560,NL PLSA 1560,NA,NA,7.5,7.00,0.607,Negative
+NL 1561,NL PLSA 1561,NA,NA,7.5,4.78,0.465,Negative
+NL 1562,NL PLSA 1562,NA,NA,7.5,8.41,0.942,Positive
+NL 1563,NL PLSA 1563,NA,NA,7.5,6.71,0.587,Negative
+NL 1564,NL PLSA 1564,NA,NA,7.5,1.55,0.790,Negative
+NL 1565,NL PLSA 1565,NA,NA,7.5,2.15,0.155,Negative
+NL 1566,NL PLSA 1566,NA,NA,7.5,3.57,0.270,Negative
+NL 1567,NL PLSA 1567,NA,NA,7.5,2.40,0.124,Negative
+NL 1568,NL PLSA 1568,NA,NA,7.5,3.59,0.245,Negative
+NL 1569,NL PLSA 1569,NA,NA,7.5,4.89,0.529,Negative
+NL 1570,NL PLSA 1570,NA,NA,7.5,7.36,0.292,Negative
+NL 1571,NL PLSA 1571,NA,NA,7.5,2.64,0.319,Negative
+NL 1572,NL PLSA 1572,NA,NA,7.5,4.46,0.252,Negative
+NL 1573,NL PLSA 1573,NA,NA,7.5,5.18,0.496,Negative
+NL 1574,NL PLSA 1574,NA,NA,7.5,13.15,0.569,Negative
+NL 1575,NL PLSA 1575,NA,NA,7.5,7.39,0.396,Negative
+NL 1576,NL PLSA 1576,NA,NA,7.5,3.74,0.236,Negative
+NL 1577,NL PLSA 1577,NA,NA,7.5,1.36,0.764,Negative
+NL 1578,NL PLSA 1578,NA,NA,7.5,2.14,0.154,Negative
+NL 1579,NL PLSA 1579,NA,NA,7.5,1.51,0.175,Negative
+NL 1580,NL PLSA 1580,NA,NA,7.5,1.53,0.195,Negative
+NL 1581,NL PLSA 1581,NA,NA,7.5,6.46,0.229,Negative
+NL 1582,NL PLSA 1582,NA,NA,7.5,1.78,0.186,Negative
+NL 1583,NL PLSA 1583,NA,NA,7.5,4.88,0.443,Negative
+NL 1584,NL PLSA 1584,NA,NA,7.5,1.83,0.134,Negative
+NL 1585,NL PLSA 1585,NA,NA,7.5,3.32,0.152,Negative
+NL 1586,NL PLSA 1586,NA,NA,7.5,1.67,0.328,Negative
+NL 1587,NL PLSA 1587,NA,NA,7.5,2.55,0.506,Negative
+NL 1588,NL PLSA 1588,NA,NA,7.5,2.44,0.646,Negative
+NL 1589,NL PLSA 1589,NA,NA,7.5,4.50,0.780,Negative
+NL 1590,NL PLSA 1590,NA,NA,7.5,3.19,0.127,Negative
+NL 1591,NL PLSA 1591,NA,NA,7.5,2.13,0.147,Negative
+NL 1592,NL PLSA 1592,NA,NA,7.5,2.94,0.200,Negative
+NL 1593,NL PLSA 1593,NA,NA,7.5,2.35,0.218,Negative
+NL 1594,NL PLSA 1594,NA,NA,7.5,2.09,0.158,Negative
+NL 1595,NL PLSA 1595,NA,NA,7.5,3.70,0.543,Negative
+NL 1596,NL PLSA 1596,NA,NA,7.5,6.14,0.280,Negative
+NL 1597,NL PLSA 1597,NA,NA,7.5,2.78,0.175,Negative
+NL 1598,NL PLSA 1598,NA,NA,7.5,9.90,0.440,Negative
+NL 1599,NL PLSA 1599,NA,NA,7.5,4.42,0.281,Negative
+NL 1600,NL PLSA 1600,NA,NA,7.5,5.45,0.493,Negative
+NL 1601,NL PLSA 1601,NA,NA,7.5,3.56,0.323,Negative
+NL 1602,NL PLSA 1602,NA,NA,7.5,3.75,0.266,Negative
+NL 1603,NL PLSA 1603,NA,NA,7.5,3.53,0.144,Negative
+NL 1604,NL PLSA 1604,NA,NA,7.5,2.06,0.341,Negative
+NL 1605,NL PLSA 1605,NA,NA,7.5,2.51,0.151,Negative
+NL 1606,NL PLSA 1606,NA,NA,7.5,1.80,0.244,Negative
+NL 1607,NL PLSA 1607,NA,NA,7.5,2.47,0.396,Negative
+NL 1608,NL PLSA 1608,NA,NA,7.5,4.78,0.184,Negative
+NL 1609,NL PLSA 1609,NA,NA,7.5,3.27,0.130,Negative
+NL 1610,NL PLSA 1610,NA,NA,7.5,3.49,0.223,Negative
+NL 1611,NL PLSA 1611,NA,NA,7.5,34.53,0.557,Negative
+NL 1612,NL PLSA 1612,NA,NA,7.5,2.52,0.175,Negative
+NL 1613,NL PLSA 1613,NA,NA,7.5,3.33,0.234,Negative
+NL 1614,NL PLSA 1614,NA,NA,7.5,3.86,0.213,Negative
+NL 1615,NL PLSA 1615,NA,NA,7.5,4.06,0.190,Negative
+NL 1616,NL PLSA 1616,NA,NA,7.5,17.87,0.970,Positive
+NL 1617,NL PLSA 1617,NA,NA,7.5,2.80,0.235,Negative
+NL 1618,NL PLSA 1618,NA,NA,7.5,3.05,0.218,Negative
+NL 1619,NL PLSA 1619,NA,NA,7.5,5.09,0.333,Negative
+NL 1620,NL PLSA 1620,NA,NA,7.5,7.50,0.214,Negative
+NL 1621,NL PLSA 1621,NA,NA,7.5,2.27,0.262,Negative
+NL 1622,NL PLSA 1622,NA,NA,7.5,4.74,0.735,Negative
+NL 1623,NL PLSA 1623,NA,NA,7.5,3.29,0.233,Negative
+NL 1624,NL PLSA 1624,NA,NA,7.5,0.00,0.073,Negative
+NL 1625,NL PLSA 1625,NA,NA,7.5,0.00,0.065,Negative
+NL 1626,NL PLSA 1626,NA,NA,7.5,0.00,0.062,Negative
+NL 1627,NL PLSA 1627,NA,NA,7.5,0.06,0.078,Negative
+NL 1628,NL PLSA 1628,NA,NA,7.5,0.00,0.064,Negative
+NL 1629,NL PLSA 1629,NA,NA,7.5,0.00,0.146,Negative
+NL 1630,NL PLSA 1630,NA,NA,7.5,0.00,0.071,Negative
+NL 1631,NL PLSA 1631,NA,NA,7.5,0.00,0.071,Negative
+NL 1632,NL PLSA 1632,NA,NA,7.5,0.04,0.068,Negative
+NL 1633,NL PLSA 1633,NA,NA,7.5,0.00,0.066,Negative
+NL 1634,NL PLSA 1634,NA,NA,7.5,0.04,0.148,Negative
+NL 1635,NL PLSA 1635,NA,NA,6,0.81,0.065,Negative
+NL 1636,NL PLSA 1636,NA,NA,7.5,0.21,0.062,Negative
+NL 1637,NL PLSA 1637,NA,NA,7.5,0.00,0.064,Negative
+NL 1638,NL PLSA 1638,NA,NA,7.5,0.00,0.064,Negative
+NL 1639,NL PLSA 1639,NA,NA,7.5,0.39,0.141,Negative
+NL 1640,NL PLSA 1640,NA,NA,7.5,0.04,0.071,Negative
+NL 1641,NL PLSA 1641,NA,NA,7.5,0.01,0.071,Negative
+NL 1642,NL PLSA 1642,NA,NA,7.5,0.38,0.142,Negative
+NL 1643,NL PLSA 1643,NA,NA,7.5,0.40,0.066,Negative
+NL 1644,NL PLSA 1644,NA,NA,7.5,0.15,0.188,Negative
+NL 1645,NL PLSA 1645,NA,NA,7.5,0.03,0.065,Negative
+NL 1646,NL PLSA 1646,NA,NA,7.5,0.07,0.062,Negative
+NL 1647,NL PLSA 1647,NA,NA,7.5,0.05,0.064,Negative
+NL 1648,NL PLSA 1648,NA,NA,7.5,13.03,0.268,Negative
+NL 1649,NL PLSA 1649,NA,NA,7.5,5.00,0.504,Negative
+NL 1650,NL PLSA 1650,NA,NA,7.5,4.22,0.208,Negative
+NL 1651,NL PLSA 1651,NA,NA,7.5,4.49,0.195,Negative
+NL 1652,NL PLSA 1652,NA,NA,7.5,4.36,0.180,Negative
+NL 1653,NL PLSA 1653,NA,NA,7.5,4.65,0.450,Negative
+NL 1654,NL PLSA 1654,NA,NA,7.5,4.77,0.246,Negative
+NL 1655,NL PLSA 1655,NA,NA,7.5,3.19,0.144,Negative
+NL 1656,NL PLSA 1656,NA,NA,7.5,7.47,0.377,Negative
+NL 1657,NL PLSA 1657,NA,NA,7.5,3.06,0.313,Negative
+NL 1658,NL PLSA 1658,NA,NA,7.5,4.21,0.347,Negative
+NL 1659,NL PLSA 1659,NA,NA,7.5,6.67,0.309,Negative
+NL 1660,NL PLSA 1660,NA,NA,7.5,0.05,0.141,Negative
+NL 1661,NL PLSA 1661,NA,NA,7.5,0.12,0.068,Negative
+NL 1662,NL PLSA 1662,NA,NA,7.5,0.52,0.090,Negative
+NL 1663,NL PLSA 1663,NA,NA,7.5,1.86,0.214,Negative
+NL 1664,NL PLSA 1664,NA,NA,7.5,7.61,0.235,Negative
+NL 1665,NL PLSA 1665,NA,NA,7.5,3.86,0.428,Negative
+NL 1666,NL PLSA 1666,NA,NA,7.5,4.86,0.147,Negative
+NL 1667,NL PLSA 1667,NA,NA,7.5,4.81,0.175,Negative
+NL 1668,NL PLSA 1668,NA,NA,7.5,5.56,0.177,Negative
+NL 1669,NL PLSA 1669,NA,NA,7.5,5.42,0.495,Negative
+NL 1701,NL PLSA 1701,NA,NA,7.5,1.94,0.416,Negative
+NL 1702,NL PLSA 1702,NA,NA,7.5,2.96,0.351,Negative
+NL 1703,NL PLSA 1703,NA,NA,7.5,2.23,0.839,Negative
+NL 1704,NL PLSA 1704,NA,NA,7.5,2.81,0.238,Negative
+NL 1705,NL PLSA 1705,NA,NA,7.5,2.54,0.148,Negative
+NL 1706,NL PLSA 1706,NA,NA,7.5,1.28,0.295,Negative
+NL 1707,NL PLSA 1707,NA,NA,7.5,1.97,0.182,Negative
+NL 1708,NL PLSA 1708,NA,NA,7.5,4.38,0.827,Negative
+NL 1709,NL PLSA 1709,NA,NA,7.5,3.30,0.560,Negative
+NL 1710,NL PLSA 1710,NA,NA,7.5,2.96,0.219,Negative
+NL 1711,NL PLSA 1711,NA,NA,7.5,1.19,0.276,Negative
+NL 1712,NL PLSA 1712,NA,NA,7.5,2.86,0.219,Negative
+NL 1713,NL PLSA 1713,NA,NA,7.5,3.33,0.488,Negative
+NL 1714,NL PLSA 1714,NA,NA,7.5,3.13,0.238,Negative
+NL 1715,NL PLSA 1715,NA,NA,7.5,1.15,0.249,Negative
+NL 1716,NL PLSA 1716,NA,NA,7.5,2.45,0.257,Negative
+NL 1717,NL PLSA 1717,NA,NA,7.5,1.11,0.294,Negative
+NL 1718,NL PLSA 1718,NA,NA,7.5,0.95,0.408,Negative
+NL 1719,NL PLSA 1719,NA,NA,7.5,1.31,0.174,Negative
+NL 1720,NL PLSA 1720,NA,NA,7.5,3.02,0.388,Negative
+NL 1721,NL PLSA 1721,NA,NA,7.5,1.76,0.176,Negative
+NL 1722,NL PLSA 1722,NA,NA,7.5,2.62,0.221,Negative
+NL 1723,NL PLSA 1723,NA,NA,7.5,2.90,0.247,Negative
+NL 1724,NL PLSA 1724,NA,NA,7.5,2.31,0.169,Negative
+NL 1725,NL PLSA 1725,NA,NA,7.5,0.04,0.642,Negative
+NL 1726,NL PLSA 1726,NA,NA,7.5,0.04,0.071,Negative
+NL 1727,NL PLSA 1727,NA,NA,7.5,0.19,0.271,Negative
+NL 1728,NL PLSA 1728,NA,NA,7.5,0.11,0.821,Negative
+NL 1729,NL PLSA 1729,NA,NA,7.5,0.03,0.131,Negative
+NL 1730,NL PLSA 1730,NA,NA,7.5,0.01,0.447,Negative
+NL 1731,NL PLSA 1731,NA,NA,7.5,0.03,0.065,Negative
+NL 1732,NL PLSA 1732,NA,NA,7.5,0.06,0.062,Negative
+NL 1733,NL PLSA 1733,NA,NA,7.5,0.05,0.064,Negative
+NL 1734,NL PLSA 1734,NA,NA,7.5,0.04,0.135,Negative
+NL 1735,NL PLSA 1735,NA,NA,7.5,0.06,0.147,Negative
+NL 1736,NL PLSA 1736,NA,NA,7.5,0.05,0.175,Negative
+NL 1737,NL PLSA 1737,NA,NA,7.5,0.07,0.158,Negative
+NL 1738,NL PLSA 1738,NA,NA,7.5,0.08,0.068,Negative
+NL 1739,NL PLSA 1739,NA,NA,7.5,0.03,0.066,Negative
+NL 1740,NL PLSA 1740,NA,NA,7.5,0.18,0.073,Negative
+NL 1741,NL PLSA 1741,NA,NA,7.5,0.09,0.065,Negative
+NL 1742,NL PLSA 1742,NA,NA,7.5,0.02,0.062,Negative
+NL 1743,NL PLSA 1743,NA,NA,7.5,0.05,0.064,Negative
+NL 1744,NL PLSA 1744,NA,NA,7.5,0.11,0.064,Negative
+NL 1745,NL PLSA 1745,NA,NA,7.5,0.19,0.143,Negative
+NL 1746,NL PLSA 1746,NA,NA,7.5,0.08,0.196,Negative
+NL 1747,NL PLSA 1747,NA,NA,7.5,0.07,0.071,Negative
+NL 1748,NL PLSA 1748,NA,NA,7.5,0.13,0.133,Negative
+NL 1749,NL PLSA 1749,NA,NA,7.5,2.78,0.191,Negative
+NL 1750,NL PLSA 1750,NA,NA,7.5,0.10,0.066,Negative
+NL 1751,NL PLSA 1751,NA,NA,7.5,2.09,0.205,Negative
+NL 1752,NL PLSA 1752,NA,NA,7.5,0.29,0.071,Negative
+NL 1753,NL PLSA 1753,NA,NA,7.5,3.67,0.198,Negative
+NL 1754,NL PLSA 1754,NA,NA,7.5,0.75,0.135,Negative
+NL 1755,NL PLSA 1755,NA,NA,7.5,0.14,0.073,Negative
+NL 1756,NL PLSA 1756,NA,NA,7.5,3.75,0.378,Negative
+NL 1757,NL PLSA 1757,NA,NA,7.5,0.26,0.064,Negative
+NL 1758,NL PLSA 1758,NA,NA,7.5,1.35,0.477,Negative
+NL 1759,NL PLSA 1759,NA,NA,7.5,0.77,0.259,Negative
+NL 1760,NL PLSA 1760,NA,NA,7.5,0.15,0.064,Negative
+NL 1761,NL PLSA 1761,NA,NA,7.5,0.15,0.071,Negative
+NL 1762,NL PLSA 1762,NA,NA,7.5,0.47,0.225,Negative
+NL 1763,NL PLSA 1763,NA,NA,7.5,0.26,0.065,Negative
+NL 1764,NL PLSA 1764,NA,NA,7.5,0.42,0.064,Negative
+NL 1765,NL PLSA 1765,NA,NA,7.5,0.46,0.062,Negative
+NL 1766,NL PLSA 1766,NA,NA,7.5,0.29,0.378,Negative
+NL 1767,NL PLSA 1767,NA,NA,7.5,0.19,0.128,Negative
+NL 1768,NL PLSA 1768,NA,NA,7.5,0.46,0.150,Negative
+NL 1769,NL PLSA 1769,NA,NA,7.5,1.01,0.257,Negative
+NL 1770,NL PLSA 1770,NA,NA,7.5,1.90,0.358,Negative
+NL 1771,NL PLSA 1771,NA,NA,7.5,1.67,0.188,Negative
+NL 1772,NL PLSA 1772,NA,NA,7.5,1.43,0.162,Negative
+NL 1773,NL PLSA 1773,NA,NA,7.5,0.47,0.071,Negative
+NL 1774,NL PLSA 1774,NA,NA,7.5,0.29,0.115,Negative
+NL 1775,NL PLSA 1775,NA,NA,7.5,0.20,0.071,Negative
+NL 1776,NL PLSA 1776,NA,NA,7.5,0.18,0.062,Negative
+NL 1777,NL PLSA 1777,NA,NA,7.5,0.23,0.071,Negative
+NL 1778,NL PLSA 1778,NA,NA,7.5,0.10,0.064,Negative
+NL 1779,NL PLSA 1779,NA,NA,7.5,0.19,0.103,Negative
+NL 1780,NL PLSA 1780,NA,NA,7.5,0.27,0.071,Negative
+NL 1781,NL PLSA 1781,NA,NA,7.5,0.79,0.102,Negative
+NL 1782,NL PLSA 1782,NA,NA,7.5,0.24,0.642,Negative
+NL 1783,NL PLSA 1783,NA,NA,7.5,0.35,0.066,Negative
+NL 1784,NL PLSA 1784,NA,NA,7.5,0.18,0.068,Negative
+NL 1785,NL PLSA 1785,NA,NA,7.5,0.34,0.388,Negative
+NL 1786,NL PLSA 1786,NA,NA,7.5,1.96,0.227,Negative
+NL 1787,NL PLSA 1787,NA,NA,7.5,0.23,0.100,Negative
+NL 1788,NL PLSA 1788,NA,NA,7.5,1.58,0.538,Negative
+NL 1789,NL PLSA 1789,NA,NA,7.5,3.36,0.724,Negative
+NL 1790,NL PLSA 1790,NA,NA,7.5,0.29,0.064,Negative
+NL 1791,NL PLSA 1791,NA,NA,7.5,0.55,0.203,Negative
+NL 1792,NL PLSA 1792,NA,NA,7.5,0.69,0.353,Negative
+NL 1793,NL PLSA 1793,NA,NA,7.5,1.36,0.694,Negative
+NL 1794,NL PLSA 1794,NA,NA,7.5,2.12,0.302,Negative
+NL 1795,NL PLSA 1795,NA,NA,7.5,1.12,0.202,Negative
+NL 1796,NL PLSA 1796,NA,NA,7.5,0.41,0.073,Negative
+NL 1797,NL PLSA 1797,NA,NA,7.5,1.09,0.261,Negative
+NL 1798,NL PLSA 1798,NA,NA,7.5,1.79,0.226,Negative
+NL 1799,NL PLSA 1799,NA,NA,7.5,2.29,0.113,Negative
+NL 1800,NL PLSA 1800,NA,NA,7.5,3.81,0.199,Negative
+NL 1801,NL PLSA 1801,NA,NA,7.5,1.06,0.225,Negative
+NL 1802,NL PLSA 1802,NA,NA,7.5,2.36,0.175,Negative
+NL 1803,NL PLSA 1803,NA,NA,7.5,0.95,0.169,Negative
+NL 1804,NL PLSA 1804,NA,NA,7.5,1.17,0.375,Negative
+NL 1805,NL PLSA 1805,NA,NA,7.5,0.52,0.330,Negative
+NL 1806,NL PLSA 1806,NA,NA,7.5,1.71,0.130,Negative
+NL 1807,NL PLSA 1807,NA,NA,7.5,2.26,0.159,Negative
+NL 1808,NL PLSA 1808,NA,NA,7.5,2.03,0.146,Negative
+NL 1809,NL PLSA 1809,NA,NA,7.5,0.81,0.095,Negative
+NL 1810,NL PLSA 1810,NA,NA,7.5,2.91,0.210,Negative
+NL 1811,NL PLSA 1811,NA,NA,7.5,1.26,0.196,Negative
+NL 1812,NL PLSA 1812,NA,NA,7.5,0.63,0.363,Negative
+NL 1813,NL PLSA 1813,NA,NA,7.5,0.95,0.120,Negative
+NL 1814,NL PLSA 1814,NA,NA,7.5,1.83,0.136,Negative
+NL 1815,NL PLSA 1815,NA,NA,7.5,3.45,0.175,Negative
+NL 1816,NL PLSA 1816,NA,NA,7.5,0.83,0.131,Negative
+NL 1817,NL PLSA 1817,NA,NA,7.5,2.16,0.175,Negative
+NL 1818,NL PLSA 1818,NA,NA,7.5,6.00,0.180,Negative
+NL 1819,NL PLSA 1819,NA,NA,7.5,1.74,0.200,Negative
+NL 1820,NL PLSA 1820,NA,NA,7.5,0.84,0.131,Negative
+NL 1821,NL PLSA 1821,NA,NA,7.5,1.46,0.120,Negative
+NL 1822,NL PLSA 1822,NA,NA,7.5,1.00,0.176,Negative
+NL 1823,NL PLSA 1823,NA,NA,7.5,2.03,0.270,Negative
+NL 1824,NL PLSA 1824,NA,NA,7.5,1.55,0.185,Negative
+NL 1825,NL PLSA 1825,NA,NA,7.5,1.44,0.149,Negative
+NL 1826,NL PLSA 1826,NA,NA,7.5,1.75,0.470,Negative
+NL 1827,NL PLSA 1827,NA,NA,7.5,0.79,0.066,Negative
+NL 1828,NL PLSA 1828,NA,NA,7.5,2.33,0.145,Negative
+NL 1829,NL PLSA 1829,NA,NA,7.5,1.41,0.087,Negative
+NL 1830,NL PLSA 1830,NA,NA,7.5,1.96,0.141,Negative
+NL 1831,NL PLSA 1831,NA,NA,7.5,1.90,0.866,Negative
+NL 1832,NL PLSA 1832,NA,NA,7.5,0.88,0.107,Negative
+NL 1833,NL PLSA 1833,NA,NA,7.5,1.23,0.385,Negative
+NL 1834,NL PLSA 1834,NA,NA,7.5,0.57,0.131,Negative
+NL 1835,NL PLSA 1835,NA,NA,7.5,1.31,0.134,Negative
+NL 1836,NL PLSA 1836,NA,NA,7.5,2.26,0.125,Negative
+NL 1837,NL PLSA 1837,NA,NA,7.5,2.75,0.258,Negative
+NL 1838,NL PLSA 1838,NA,NA,7.5,1.19,0.141,Negative
+NL 1839,NL PLSA 1839,NA,NA,7.5,3.38,0.129,Negative
+NL 1840,NL PLSA 1840,NA,NA,7.5,0.92,0.113,Negative
+NL 1841,NL PLSA 1841,NA,NA,7.5,1.14,0.109,Negative
+NL 1842,NL PLSA 1842,NA,NA,7.5,1.70,0.308,Negative
+NL 1843,NL PLSA 1843,NA,NA,7.5,3.50,0.223,Negative
+NL 1844,NL PLSA 1844,NA,NA,7.5,6.53,0.392,Negative
+NL 1845,NL PLSA 1845,NA,NA,7.5,3.97,0.879,Negative
+NL 1846,NL PLSA 1846,NA,NA,7.5,1.57,0.210,Negative
+NL 1847,NL PLSA 1847,NA,NA,7.5,1.18,0.116,Negative
+NL 1848,NL PLSA 1848,NA,NA,7.5,0.67,0.068,Negative
+NL 1849,NL PLSA 1849,NA,NA,7.5,1.65,0.178,Negative
+NL 1850,NL PLSA 1850,NA,NA,7.5,1.36,0.272,Negative
+NL 1851,NL PLSA 1851,NA,NA,7.5,2.20,0.197,Negative
+NL 1852,NL PLSA 1852,NA,NA,7.5,4.27,0.202,Negative
+NL 1853,NL PLSA 1853,NA,NA,7.5,0.66,0.128,Negative
+NL 1854,NL PLSA 1854,NA,NA,7.5,0.59,0.159,Negative
+NL 1855,NL PLSA 1855,NA,NA,7.5,2.50,0.221,Negative
+NL 1856,NL PLSA 1856,NA,NA,7.5,3.11,0.358,Negative
+NL 1857,NL PLSA 1857,NA,NA,7.5,4.26,0.178,Negative
+NL 1858,NL PLSA 1858,NA,NA,7.5,1.14,0.071,Negative
+NL 1859,NL PLSA 1859,NA,NA,7.5,2.20,0.529,Negative
+NL 1860,NL PLSA 1860,NA,NA,7.5,3.32,0.363,Negative
+NL 1861,NL PLSA 1861,NA,NA,7.5,3.09,0.243,Negative
+NL 1862,NL PLSA 1862,NA,NA,7.5,2.06,0.245,Negative
+NL 1863,NL PLSA 1863,NA,NA,7.5,7.63,0.236,Negative
+NL 1864,NL PLSA 1864,NA,NA,7.5,3.46,0.304,Negative
+NL 1865,NL PLSA 1865,NA,NA,7.5,2.79,0.155,Negative
+NL 1866,NL PLSA 1866,NA,NA,7.5,2.17,0.169,Negative
+NL 1867,NL PLSA 1867,NA,NA,7.5,0.89,0.096,Negative
+NL 1868,NL PLSA 1868,NA,NA,7.5,1.29,0.154,Negative
+NL 1869,NL PLSA 1869,NA,NA,7.5,0.49,0.119,Negative
+NL 1870,NL PLSA 1870,NA,NA,7.5,0.77,0.138,Negative
+PANC 669,PANC 669 PLS 1,II,Adenocarcinoma,7.5,16.28,0.998,Positive
+PANC 670,PANC 670 PLS 1,II,Adenocarcinoma,7.5,3.29,0.474,Negative
+†PANC 671,PANC 671 PLS 1,II,Adenocarcinoma,7.5,27.73,1.000,Positive
+PANC 672,PANC 672 PLS 1,II,Adenocarcinoma,7.5,8.17,0.997,Positive
+PANC 673,PANC 673 PLS 1,II,Adenocarcinoma,7.5,4.94,0.524,Negative
+PANC 674,PANC 674 PLS 1,II,Adenocarcinoma,7.5,7.53,1.000,Positive
+PANC 675,PANC 675 PLS 1,II,Adenocarcinoma,7.5,3.97,1.000,Positive
+†PANC 676,PANC 676 PLS 1,II,Adenocarcinoma,7.5,5.18,0.997,Positive
+†PANC 677,PANC 677 PLS 1,II,Adenocarcinoma,7.5,14.44,1.000,Positive
+†PANC 678,PANC 678 PLS 1,II,Adenocarcinoma,7.5,14.28,0.812,Negative
+PANC 679,PANC 679 PLS 1,II,Adenocarcinoma,7.5,7.76,0.498,Negative
+PANC 680,PANC 680 PLS 1,II,Adenocarcinoma,7.5,5.40,0.911,Positive
+PANC 757,PANC 757 PLS 1,II,Adenocarcinoma,7.5,13.14,0.622,Negative
+PANC 758,PANC 758 PLS 1,II,Adenocarcinoma,7.5,3.49,1.000,Positive
+†PANC 759,PANC 759 PLS 1,II,Adenocarcinoma,7.5,11.66,0.937,Positive
+†PANC 760,PANC 760 PLS 1,II,Adenocarcinoma,7.5,1.97,0.998,Positive
+†PANC 761,PANC 761 PLS 1,II,Adenocarcinoma,7.5,2.01,0.974,Positive
+†PANC 762,PANC 762 PLS 1,II,Adenocarcinoma,7.5,10.33,1.000,Positive
+PANC 764,PANC 764 PLS 1,II,Adenocarcinoma,7.5,9.08,0.994,Positive
+†PANC 765,PANC 765 PLS 1,II,Adenocarcinoma,7.5,12.46,1.000,Positive
+†PANC 766,PANC 766 PLS 1,I,Adenocarcinoma,7,8.57,1.000,Positive
+†PANC 767,PANC 767 PLS 1,II,Adenocarcinoma,7.5,1.71,0.461,Negative
+†PANC 768,PANC 768 PLS 1,II,Adenocarcinoma,7.5,1.77,0.178,Negative
+†PANC 769,PANC 769 PLS 1,II,Adenocarcinoma,7.5,2.84,0.798,Negative
+†PANCA 1001,PANCA 1001 PLS 1,II,Adenocarcinoma,6,4.44,0.951,Positive
+PANCA 1004,PANCA 1004 PLS 1,II,Adenocarcinoma,7,3.08,1.000,Positive
+PANCA 1005,PANCA 1005 PLS 1,II,Adenocarcinoma,7.5,3.90,0.976,Positive
+†PANCA 1006,PANCA 1006 PLS 1,II,Adenocarcinoma,7.5,109.97,1.000,Positive
+PANCA 1008,PANCA 1008 PLS 1,II,Adenocarcinoma,7.5,6.96,0.901,Positive
+†PANCA 1009,PANCA 1009 PLS 1,II,Adenocarcinoma,7.5,2.59,1.000,Positive
+†PANCA 1010,PANCA 1010 PLS 1,I,Adenocarcinoma,7.5,4.18,0.249,Negative
+†PANCA 1011,PANCA 1011 PLS 1,II,Adenocarcinoma,7.5,14.89,1.000,Positive
+†PANCA 1012,PANCA 1012 PLS 1,II,Adenocarcinoma,7.5,3.04,0.779,Negative
+PANCA 1013,PANCA 1013 PLS 1,III,Adenocarcinoma,7.5,12.68,0.983,Positive
+†PANCA 1014,PANCA 1014 PLS 1,II,Adenocarcinoma,7.5,25.75,1.000,Positive
+PANCA 1015,PANCA 1015 PLS 1,III,Adenocarcinoma,7.5,3.57,0.999,Positive
+PANCA 1016,PANCA 1016 PLS 1,I,Adenocarcinoma,7.5,3.82,0.798,Negative
+†PANCA 1018,PANCA 1018 PLS 1,II,Adenocarcinoma,7.5,10.34,1.000,Positive
+†PANCA 1020,PANCA 1020 PLS 1,II,Adenocarcinoma,7.5,8.66,0.997,Positive
+†PANCA 1022,PANCA 1022 PLS 1,II,Adenocarcinoma,7.5,13.86,0.961,Positive
+†PANCA 1024,PANCA 1024 PLS 1,II,Adenocarcinoma,7.5,1.49,0.142,Negative
+PANCA 1025,PANCA 1025 PLS 1,III,Adenocarcinoma,7.5,3.82,1.000,Positive
+PANCA 1028,PANCA 1028 PLS 1,III,Adenocarcinoma,7.5,3.06,0.735,Negative
+†PANCA 1030,PANCA 1030 PLS 1,II,Adenocarcinoma,7.5,12.93,1.000,Positive
+†PANCA 1031,PANCA 1031 PLS 1,II,Adenocarcinoma,7.5,1.97,1.000,Positive
+†PANCA 1034,PANCA 1034 PLS 1,II,Adenocarcinoma,7.5,3.16,0.642,Negative
+†PANCA 1036,PANCA 1036 PLS 1,II,Adenocarcinoma,7.5,2.21,0.237,Negative
+PANCA 1037,PANCA 1037 PLS 1,II,Adenocarcinoma,7.5,29.96,0.953,Positive
+†PANCA 1039,PANCA 1039 PLS 1,II,Adenocarcinoma,7.5,6.89,0.962,Positive
+†PANCA 1040,PANCA 1040 PLS 1,II,Adenocarcinoma,7.5,10.00,0.885,Negative
+†PANCA 1042,PANCA 1042 PLS 1,II,Adenocarcinoma,7.5,6.70,0.863,Negative
+†PANCA 1043,PANCA 1043 PLS 1,II,Adenocarcinoma,7.5,2.41,0.983,Positive
+†PANCA 1044,PANCA 1044 PLS 1,II,Adenocarcinoma,7.5,4.25,1.000,Positive
+†PANCA 1047,PANCA 1047 PLS 1,II,Adenocarcinoma,7,2.13,0.311,Negative
+PANCA 1048,PANCA 1048 PLS 1,III,Adenocarcinoma,7.5,77.12,0.996,Positive
+†PANCA 1050,PANCA 1050 PLS 1,II,Adenocarcinoma,7.5,37.90,0.973,Positive
+†PANCA 1051,PANCA 1051 PLS 1,II,Adenocarcinoma,7.5,26.98,0.998,Positive
+†PANCA 1052,PANCA 1052 PLS 1,II,Adenocarcinoma,7.5,4.34,0.416,Negative
+†PANCA 1053,PANCA 1053 PLS 1,II,Adenocarcinoma,7,22.34,1.000,Positive
+†PANCA 1054,PANCA 1054 PLS 1,II,Adenocarcinoma,7.5,8.34,0.997,Positive
+†PANCA 1055,PANCA 1055 PLS 1,II,Adenocarcinoma,7,1.92,0.062,Negative
+†PANCA 1056,PANCA 1056 PLS 1,II,Adenocarcinoma,7.5,8.77,0.994,Positive
+†PANCA 1057,PANCA 1057 PLS 1,II,Adenocarcinoma,7.5,2.44,0.993,Positive
+†PANCA 1058,PANCA 1058 PLS 1,II,Adenocarcinoma,7.5,7.76,0.992,Positive
+†PANCA 1059,PANCA 1059 PLS 1,II,Adenocarcinoma,7.5,3.11,0.997,Positive
+†PANCA 1061,PANCA 1061 PLS 1,II,Adenocarcinoma,7.5,17.39,1.000,Positive
+†PANCA 1063,PANCA 1063 PLS 1,II,Adenocarcinoma,7.5,2.67,0.994,Positive
+PANCA 1149,PANCA 1149 PLS 1,II,Adenocarcinoma,4,19.28,0.945,Positive
+PANCA 1152,PANCA 1152 PLS 1,I,Adenocarcinoma,3,11.79,0.681,Negative
+PANCA 1153,PANCA 1153 PLS 1,II,Adenocarcinoma,7.5,10.42,0.895,Positive
+PANCA 1155,PANCA 1155 PLS 1,II,Adenocarcinoma,7.5,9.02,1.000,Positive
+PANCA 1156,PANCA 1156 PLS 1,II,Adenocarcinoma,7.5,1.60,0.734,Negative
+PAP 938,PAP 938 PLS 1,III,Epithelial carcinoma,5,6.59,1.000,Positive
+PAP 939,PAP 939 PLS 1,III,Epithelial carcinoma,5,10.83,1.000,Positive
+PAP 940,PAP 940 PLS 1,III,Epithelial carcinoma,5,11.54,1.000,Positive
+PAP 941,PAP 941 PLS 1,III,Epithelial carcinoma,5,9.21,1.000,Positive
+PAP 944,PAP 944 PLS 1,III,Epithelial carcinoma,5,4.35,1.000,Positive
+PAP 945,PAP 945 PLS 1,III,Epithelial carcinoma,5,10.63,1.000,Positive
+PAP 946,PAP 946 PLS 1,III,Epithelial carcinoma,5,5.59,1.000,Positive
+PAP 947,PAP 947 PLS 1,III,Epithelial carcinoma,5,6.81,1.000,Positive
+PAP 949,PAP 949 PLS 1,III,Epithelial carcinoma,5,13.59,1.000,Positive
+PAP 950,PAP 950 PLS 1,III,Epithelial carcinoma,5,10.15,1.000,Positive
+PAP 951,PAP 951 PLS 1,III,Epithelial carcinoma,5,4.12,0.960,Positive
+PAP 953,PAP 953 PLS 1,III,Epithelial carcinoma,5,6.60,0.996,Positive
+PAP 954,PAP 954 PLS 1,III,Epithelial carcinoma,5,33.14,1.000,Positive
+PAP 955,PAP 955 PLS 1,III,Epithelial carcinoma,5,5.75,1.000,Positive
+PAP 956,PAP 956 PLS 1,III,Epithelial carcinoma,5,22.89,1.000,Positive
+PAP 957,PAP 957 PLS 1,III,Epithelial carcinoma,5,5.85,0.992,Positive
+PAP 959,PAP 959 PLS 1,III,Epithelial carcinoma,5,4.72,1.000,Positive
+PAP 961,PAP 961 PLS 1,III,Epithelial carcinoma,5,21.78,1.000,Positive
+PAP 962,PAP 962 PLS 1,III,Epithelial carcinoma,5,13.61,0.970,Positive
+PAP 974,PAP 974 PLS 1,I,Epithelial carcinoma,5,8.88,0.983,Positive
+PAPA 1330,PAPA 1330 PLS 1,III,Epithelial carcinoma,3.5,29.23,1.000,Positive
+PAPA 1331,PAPA 1331 PLS 1,III,Epithelial carcinoma,3.5,45.45,1.000,Positive
+PAPA 1332,PAPA 1332 PLS 1,I,Epithelial carcinoma,3.5,61.19,0.965,Positive
+PAPA 1333,PAPA 1333 PLS 1,III,Epithelial carcinoma,3.5,19.89,1.000,Positive
+PAPA 1334,PAPA 1334 PLS 1,III,Epithelial carcinoma,3.5,17.60,1.000,Positive
+PAPA 1335,PAPA 1335 PLS 1,III,Epithelial carcinoma,3.5,8.71,1.000,Positive
+PAPA 1336,PAPA 1336 PLS 1,I,Epithelial carcinoma,3.5,29.40,1.000,Positive
+PAPA 1339,PAPA 1339 PLS 1,I,Epithelial carcinoma,3.5,52.87,1.000,Positive
+PAPA 1342,PAPA 1342 PLS 1,III,Epithelial carcinoma,3.5,21.31,1.000,Positive
+PAPA 1343,PAPA 1343 PLS 1,III,Epithelial carcinoma,3.5,89.38,1.000,Positive
+PAPA 1344,PAPA 1344 PLS 1,III,Epithelial carcinoma,3.5,17.07,1.000,Positive
+PAPA 1345,PAPA 1345 PLS 1,III,Epithelial carcinoma,3.5,39.86,1.000,Positive
+PAPA 1346,PAPA 1346 PLS 1,III,Epithelial carcinoma,3.5,42.94,1.000,Positive
+PAPA 1347,PAPA 1347 PLS 1,I,Epithelial carcinoma,3.5,30.11,1.000,Positive
+PAPA 1348,PAPA 1348 PLS 1,III,Epithelial carcinoma,3.5,47.69,1.000,Positive
+PAPA 1349,PAPA 1349 PLS 1,III,Epithelial carcinoma,3.5,24.47,1.000,Positive
+PAPA 1350,PAPA 1350 PLS 1,II,Epithelial carcinoma,3.5,5.73,1.000,Positive
+PAPA 1353,PAPA 1353 PLS 1,I,Epithelial carcinoma,3.5,6.55,0.980,Positive
+PAPA 1354,PAPA 1354 PLS 1,I,Epithelial carcinoma,3.5,22.83,1.000,Positive
+PAPA 1355,PAPA 1355 PLS 1,III,Epithelial carcinoma,3.5,64.51,1.000,Positive
+PAPA 1356,PAPA 1356 PLS 1,II,Epithelial carcinoma,3.5,13.71,1.000,Positive
+PAPA 1357,PAPA 1357 PLS 1,III,Epithelial carcinoma,3.5,19.81,1.000,Positive
